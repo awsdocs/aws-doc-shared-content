@@ -1,0 +1,241 @@
+.. Copyright 2010-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+   This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+   International License (the "License"). You may not use this file except in compliance with the
+   License. A copy of the License is located at http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+   This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+   either express or implied. See the License for the specific language governing permissions and
+   limitations under the License.
+
+.. Common includes for AWS Documentation projects
+   ==============================================
+
+   Please try to keep the entries *within each section* in alphabetic order!
+
+   Some general service information (such as service names) is in this file.
+
+   For *links* to these, use the service_links.txt file.
+
+   Service-specific information (links to specific guide pages, for example), see the
+   SVC_includes.txt file (replace *SVC* with the service acronym).
+
+
+.. Common Symbols
+   --------------
+.. |ndash| unicode:: U+2013
+.. |mdash| unicode:: U+2014
+   :trim:
+
+
+.. Common Terms and Substitutions
+   ------------------------------
+.. |aws-credfile-loc-unixes| replace:: :file:`~/.aws/credentials`
+.. |aws-credfile-loc-windows| replace:: :file:`C:\\Users\\USERNAME\\.aws\\credentials`
+.. |aws-credfile-var| replace:: :file:`AWS_CREDENTIAL_PROFILES_FILE`
+.. |cli| replace:: AWS CLI
+.. |console| replace:: AWS Management Console
+.. |explorer| replace:: AWS Explorer
+.. |region-api-default| replace:: us-east-1
+.. |region-console-default| replace:: us-west-2
+.. |unixes| replace:: Linux, OS X or unix
+.. |ARNlong| replace:: Amazon Resource Name
+.. |JSONlong| replace:: JavaScript Object Notation
+
+
+.. Common Text Roles for Programming Elements
+   ------------------------------------------
+
+   These are used by associating text with a role as follows::
+
+       :rolename:`Text to be processed by role`
+
+   Before adding additional roles here, see what roles Sphinx already provides
+   by default, at: http://sphinx-doc.org/markup/inline.html.
+
+.. role:: actionname(strong)
+.. role:: attribname(literal)
+.. role:: classname(literal)
+.. role:: datatypename(literal)
+.. role:: envvar(literal)
+.. role:: filename(literal)
+.. role:: functionname(literal)
+.. role:: methodname(literal)
+.. role:: paramname(emphasis)
+.. role:: userinput(literal)
+
+
+.. Inline code roles
+   -----------------
+
+   These roles provide inline 'code' roles that you can use to mark up code like the standard reST
+   :code: role, but also provides syntax highlighting in the language you specify. They all follow
+   the pattern 'code-language'. The available languages for syntax highlighting are provided at
+   http://pygments.org/docs/lexers/
+
+.. role:: code-csharp(code)
+   :language: csharp
+
+.. role:: code-java(code)
+   :language: java
+
+.. role:: code-js(code)
+   :language: javascript
+
+.. role:: code-json(code)
+   :language: json
+
+.. role:: code-objc(code)
+   :language: objectivec
+
+.. role:: code-php(code)
+   :language: php
+
+.. role:: code-py(code)
+   :language: python
+
+.. role:: code-ruby(code)
+   :language: ruby
+
+.. role:: code-sh(code)
+   :language: shell
+
+
+.. Marketing pages
+   ---------------
+
+.. |aws-tools| replace:: *Tools for Amazon Web Services*
+.. |ec2-pricing| replace:: *EC2 Pricing*
+
+
+.. Services
+   --------
+.. |AKlong| replace:: Amazon Kinesis
+.. |AK| replace:: Amazon Kinesis
+.. |AWSDPlong| replace:: AWS Data Pipeline
+.. |AWSDP| replace:: AWS Data Pipeline
+.. |AWSlong| replace:: Amazon Web Services
+.. |CDlong| replace:: AWS CodeDeploy
+.. |CD| replace:: CodeDeploy
+.. |CFNlong| replace:: AWS CloudFormation
+.. |CFN| replace:: CloudFormation
+.. |COGlong| replace:: Amazon Cognito
+.. |COG| replace:: Amazon Cognito
+.. |CTlong| replace:: AWS CloudTrail
+.. |CT| replace:: AWS CloudTrail
+.. |CWlong| replace:: Amazon CloudWatch
+.. |CW| replace:: Amazon CloudWatch
+.. |DDBlong| replace:: Amazon DynamoDB
+.. |DDB| replace:: DynamoDB
+.. |EBSlong| replace:: Amazon Elastic Block Store
+.. |EBS| replace:: Amazon EBS
+.. |EBlong| replace:: AWS Elastic Beanstalk
+.. |EB| replace:: Elastic Beanstalk
+.. |EC2long| replace:: Amazon Elastic Compute Cloud
+.. |EC2| replace:: Amazon EC2
+.. |ELB| replace:: Elastic Load Balancing
+.. |IAMlong| replace:: AWS Identity and Access Management
+.. |IAM| replace:: IAM
+.. |LAMlong| replace:: AWS Lambda
+.. |LAM| replace:: Lambda
+.. |OPSlong| replace:: AWS OpsWorks
+.. |OPS| replace:: AWS OpsWorks
+.. |RDSlong| replace:: Amazon Relational Database Service
+.. |RDS| replace:: Amazon RDS
+.. |S3long| replace:: Amazon Simple Storage Service
+.. |S3| replace:: Amazon S3
+.. |SDBlong| replace:: Amazon SimpleDB
+.. |SDB| replace:: Amazon SimpleDB
+.. |SESlong| replace:: Amazon Simple Email Service
+.. |SES| replace:: Amazon SES
+.. |SNSlong| replace:: Amazon Simple Notification Service
+.. |SNS| replace:: Amazon SNS
+.. |SQSlong| replace:: Amazon Simple Queue Service
+.. |SQS| replace:: Amazon SQS
+.. |STSlong| replace:: AWS Security Token Service
+.. |STS| replace:: STS
+.. |SWFlong| replace:: Amazon Simple Workflow Service
+.. |SWF| replace:: Amazon SWF
+
+
+.. Service-related substitutions
+   -----------------------------
+.. |AMIlong| replace:: Amazon Machine Image
+.. |aws-credfile-env-var| replace:: AWS_CREDENTIAL_FILE
+
+
+.. Guide types
+   -----------
+.. |api| replace:: API Reference
+.. |dg| replace:: Developer Guide
+.. |gsg| replace:: Getting Started Guide
+.. |ref| replace:: Reference
+.. |ug| replace:: User Guide
+
+
+.. Service Guide names
+   -------------------
+.. |AWS-gr| replace:: |AWSlong| General Reference
+.. |COG-dg| replace:: |COG| |dg|
+.. |CT-ug| replace:: |CT| |ug|
+.. |CW-dg| replace:: |CW| |dg|
+.. |DDB-dg| replace:: |DDB| |dg|
+.. |EB-dg| replace:: |EB| |dg|
+.. |EC2-ug| replace:: |EC2| |ug|
+.. |ELB-dg| replace:: |ELB| |dg|
+.. |IAM-ug| replace:: |IAM| |ug|
+.. |LAM-dg| replace:: |LAM| |dg|
+.. |OPS-ug| replace:: |OPS| |ug|
+.. |RDS-api| replace:: |RDS| |api|
+.. |RDS-ug| replace:: |RDS| |ug|
+.. |S3-dg| replace:: |S3| |dg|
+.. |S3-gsg| replace:: |S3| |gsg|
+.. |SNS-api| replace:: |SNS| |api|
+.. |SNS-dg| replace:: |SNS| |dg|
+.. |SQS-api| replace:: |SQS| |api|
+.. |SQS-dg| replace:: |SQS| |dg|
+.. |STS-ug| replace:: |STS| |ug|
+.. |SWF-api| replace:: |SWF| |api|
+.. |SWF-dg| replace:: |SWF| |dg|
+
+
+.. SDKs, frameworks, toolkits and other interfaces
+   -----------------------------------------------
+.. |awsflow| replace:: AWS Flow Framework
+.. |jflow| replace:: AWS Flow Framework for Java
+.. |rbflow| replace:: AWS Flow Framework for Ruby
+.. |sdk-android| replace:: AWS Mobile SDK for Android
+.. |sdk-ios| replace:: AWS Mobile SDK for iOS
+.. |sdk-java| replace:: AWS SDK for Java
+.. |sdk-js| replace:: AWS SDK for JavaScript
+.. |sdk-net| replace:: AWS SDK for .NET
+.. |sdk-php| replace:: AWS SDK for PHP
+.. |sdk-python| replace:: AWS SDK for Python (Boto)
+.. |sdk-ruby| replace:: AWS SDK for Ruby
+.. |sdk-unity| replace:: AWS Mobile SDK for Unity
+.. |sdk-xamarin| replace:: AWS Mobile SDK for .NET and Xamarin
+.. |tke| replace:: AWS Toolkit for Eclipse
+
+
+.. SDK/framework/toolkit guide names
+   ---------------------------------
+.. |cli-ref| replace:: |cli| |ref|
+.. |cli-ug| replace:: |cli| |ug|
+.. |jflow-dg| replace:: |jflow| |dg|
+.. |jflow-ref| replace:: |jflow| |ref|
+.. |rbflow-dg| replace:: |rbflow| |dg|
+.. |rbflow-ref| replace:: |rbflow| |ref|
+.. |sdk-java-dg| replace:: AWS Java |dg|
+.. |sdk-java-ref| replace:: |sdk-java| |ref|
+.. |sdk-js-dg| replace:: |sdk-js| |dg|
+.. |sdk-js-ref| replace:: |sdk-js| |ref|
+.. |sdk-net-dg| replace:: |sdk-net| |dg|
+.. |sdk-net-ref| replace:: |sdk-net| |ref|
+.. |sdk-php-dg| replace:: |sdk-php| |dg|
+.. |sdk-php-ref| replace:: |sdk-php| |ref|
+.. |sdk-python-dg| replace:: |sdk-python| |dg|
+.. |sdk-python-ref| replace:: |sdk-python| |ref|
+.. |sdk-ruby-dg| replace:: |sdk-ruby| |dg|
+.. |sdk-ruby-ref| replace:: |sdk-ruby| |ref|
+.. |tke-ug| replace:: |tke| |ug|
+
