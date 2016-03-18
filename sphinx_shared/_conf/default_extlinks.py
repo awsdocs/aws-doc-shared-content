@@ -37,6 +37,7 @@ if 'extlinks' not in locals():
     extlinks = {}
 
 extlinks.update({
+    'cli-ug': (aws_docs_url + 'cli/latest/userguide/%s.html', ''),
     'cog-api': (aws_docs_url + 'cognitoidentity/latest/APIReference/API_%s.html', ''),
     'ddb-dg': (aws_docs_url + 'amazondynamodb/latest/developerguide/%s.html', ''),
     'eb-dg': (aws_docs_url + 'elasticbeanstalk/latest/dg/%s.html', ''),
@@ -53,6 +54,7 @@ extlinks.update({
     's3-bucket-api': (aws_docs_url + 'AmazonS3/latest/API/RESTBucket%s.html', ''),
     's3-object-api': (aws_docs_url + 'AmazonS3/latest/API/RESTObject%s.html', ''),
     's3-service-api': (aws_docs_url + 'AmazonS3/latest/API/RESTService%s.html', ''),
+    's3-ug': (aws_docs_url + 'AmazonS3/latest/UG/%s.html', ''),
     'sns-api': (aws_docs_url + 'sns/latest/api/API_%s.html', ''),
     'sqs-api': (aws_docs_url + 'AWSSimpleQueueService/latest/APIReference/API_%s.html', ''),
     'sts-api': (aws_docs_url + 'STS/latest/APIReference/API_%s.html', ''),
@@ -60,8 +62,9 @@ extlinks.update({
     'swf-dg' : (aws_docs_url + 'amazonswf/latest/developerguide/%s.html', ''),
     'tke-ug': (aws_docs_url + 'AWSToolkitEclipse/latest/ug/%s.html', ''),
     #
-    # Note: to use the 'rande' extlink, specify link text that includes the service's upper-case
-    # TLA, and use the lower-case version of the TLA as the link address. For example:
+    # Note: to use the 'rande' or 'console' extlinks, specify link text that
+    # includes the service's upper-case TLA, and use the lower-case version of
+    # the TLA as the link address. For example:
     #
     #    :rande:`Regions and Endpoints: SWF <swf>`
     #
@@ -74,8 +77,6 @@ extlinks.update({
     #   http://docs.aws.amazon.com/general/latest/gr/rande.html#swf_region
     #
     'rande': (aws_docs_url + 'general/latest/gr/rande.html#%s_region', ''),
-    #
-    # Same with the console link:
     #
     #    :console`IAM console` <iam>`
     #

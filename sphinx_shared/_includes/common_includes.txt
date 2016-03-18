@@ -34,6 +34,7 @@
 .. |aws-credfile-loc-windows| replace:: :file:`C:\\Users\\USERNAME\\.aws\\credentials`
 .. |aws-credfile-var| replace:: :file:`AWS_CREDENTIAL_PROFILES_FILE`
 .. |cli| replace:: AWS CLI
+.. |clilong| replace:: AWS Command Line Interface
 .. |console| replace:: AWS Management Console
 .. |explorer| replace:: AWS Explorer
 .. |region-api-default| replace:: us-east-1
@@ -115,6 +116,8 @@
 .. |AWSDPlong| replace:: AWS Data Pipeline
 .. |AWSDP| replace:: AWS Data Pipeline
 .. |AWSlong| replace:: Amazon Web Services
+.. |CClong| replace:: AWS Config
+.. |CC| replace:: AWS Config
 .. |CDlong| replace:: AWS CodeDeploy
 .. |CD| replace:: CodeDeploy
 .. |CFNlong| replace:: AWS CloudFormation
@@ -190,6 +193,7 @@
 .. |RDS-ug| replace:: |RDS| |ug|
 .. |S3-dg| replace:: |S3| |dg|
 .. |S3-gsg| replace:: |S3| |gsg|
+.. |S3-ug| replace:: |S3| |ug|
 .. |SNS-api| replace:: |SNS| |api|
 .. |SNS-dg| replace:: |SNS| |dg|
 .. |SQS-api| replace:: |SQS| |api|
