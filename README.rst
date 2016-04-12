@@ -17,6 +17,10 @@ Shared content for public AWS documentation.
 This repository is used in conjunction with public AWS documentation repositories such as:
 
 * `AWS Java Developer Guide <https://github.com/awsdocs/aws-java-developer-guide>`_
+* `AWS Android Developer Guide <https://github.com/awsdocs/aws-android-developer-guide>`_
+* `AWS iOS Developer Guide <https://github.com/awsdocs/aws-ios-developer-guide>`_
+* `AWS Unity Developer Guide <https://github.com/awsdocs/aws-unity-developer-guide>`_
+* `AWS Xamarin Developer Guide <https://github.com/awsdocs/aws-xamarin-developer-guide>`_
 
 To use it, download one of these repositories and run the ``build_docs.py`` script that's provided
 in the repository. The script will automatically merge the shared content before building with
