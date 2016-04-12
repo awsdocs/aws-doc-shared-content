@@ -1,0 +1,4 @@
+|LAMlong|_ is a compute service where you can upload your code to |LAM| and the service can run the
+code on your behalf using AWS infrastructure. After you upload your code and create what we call a
+*Lambda function*, |LAM| takes care of provisioning and managing the servers that you use to run the
+code.

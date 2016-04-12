@@ -8,7 +8,7 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-.. Common includes for AWS Documentation projects
+.. Common includes for AWS documentation projects
    ==============================================
 
    Please try to keep the entries *within each section* in alphabetic order!
@@ -21,14 +21,14 @@
    SVC_includes.txt file (replace *SVC* with the service acronym).
 
 
-.. Common Symbols
+.. Common symbols
    --------------
 .. |ndash| unicode:: U+2013
 .. |mdash| unicode:: U+2014
    :trim:
 
 
-.. Common Terms and Substitutions
+.. Common terms and substitutions
    ------------------------------
 .. |aws-credfile-loc-unixes| replace:: :file:`~/.aws/credentials`
 .. |aws-credfile-loc-windows| replace:: :file:`C:\\Users\\USERNAME\\.aws\\credentials`
@@ -44,7 +44,13 @@
 .. |JSONlong| replace:: JavaScript Object Notation
 
 
-.. Common Text Roles for Programming Elements
+.. General informational links
+   ---------------------------
+.. _JSON: http://www.json.org/
+.. _JSONlong: JSON_
+
+
+.. Common text roles for programming elements
    ------------------------------------------
 
    These are used by associating text with a role as follows::

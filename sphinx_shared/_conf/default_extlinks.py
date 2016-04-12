@@ -44,7 +44,7 @@ extlinks.update({
     'ec2-api': (aws_docs_url + 'AWSEC2/latest/APIReference/API_%s.html', ''),
     'ec2-ug': (aws_docs_url + 'AWSEC2/latest/UserGuide/%s.html', ''),
     'emr-api': (aws_docs_url + 'ElasticMapReduce/latest/API/API_%s.html', ''),
-    'github': ('https://github.com/aws/%s', ''),
+    'github': ('https://github.com/%s', ''),
     'gloss': (aws_docs_url + 'general/latest/gr/glos-chap.html#%s', ''),
     'iam-api': (aws_docs_url + 'IAM/latest/APIReference/API_%s.html', ''),
     'iam-ug': (aws_docs_url + 'IAM/latest/UserGuide/%s.html', ''),
