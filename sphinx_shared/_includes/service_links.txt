@@ -29,7 +29,6 @@
 .. _AKFlong: AKF_
 .. _AKlong: AK_
 .. _COG: https://aws.amazon.com/cognito/
-.. _COG: https://aws.amazon.com/cognito/
 .. _COGID: COG_
 .. _COGSync: COG_
 .. _COGlong: COG_
