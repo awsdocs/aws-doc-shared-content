@@ -37,6 +37,7 @@ if 'extlinks' not in locals():
     extlinks = {}
 
 extlinks.update({
+    'aws-gr': (aws_docs_url + 'general/latest/gr/%s.html', ''),
     'cli-ug': (aws_docs_url + 'cli/latest/userguide/%s.html', ''),
     'cog-api': (aws_docs_url + 'cognitoidentity/latest/APIReference/API_%s.html', ''),
     'ddb-dg': (aws_docs_url + 'amazondynamodb/latest/developerguide/%s.html', ''),
@@ -78,8 +79,14 @@ extlinks.update({
     #
     'rande': (aws_docs_url + 'general/latest/gr/rande.html#%s_region', ''),
     #
-    #    :console`IAM console` <iam>`
+    #    :console:`IAM console <iam>`
     #
-    'console': ('https://console.aws.amazon.com/%s/home', ''),
+    'console': ('https://console.aws.amazon.com/%s', ''),
+    #
+    # For AWS forums. Use like this:
+    #
+    #    :forum:`Mobile Developer forum <88>`
+    #
+    'forum': ('https://forums.aws.amazon.com/forum.jspa?forumID=%s', ''),
     })
 
