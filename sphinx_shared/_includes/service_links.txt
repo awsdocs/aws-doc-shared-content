@@ -365,8 +365,8 @@
 .. _sdk-unity-ref: http://docs.aws.amazon.com/mobile/sdkforunity/developerguide/index.html
 .. _sdk-xamarin-dg: http://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/index.html
 .. _sdk-xamarin-ref: http://docs.aws.amazon.com/sdkfornet/v3/apidocs/Index.html
-.. _tke-gsg: http://docs.aws.amazon.com/AWSToolkitEclipse/latest/GettingStartedGuide/
-.. _tke-ug: http://docs.aws.amazon.com/AWSToolkitEclipse/latest/GettingStartedGuide/
+.. _tke-gsg: tke-ug_
+.. _tke-ug: http://docs.aws.amazon.com/AWSToolkitEclipse/latest/ug/
 
 
 .. Common references in documentation:
