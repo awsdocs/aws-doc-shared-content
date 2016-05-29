@@ -19,20 +19,20 @@
 .. Marketing links
    ---------------
 .. _aws-tools: http://aws.amazon.com/tools/
-.. _ec2-pricing: https://aws.amazon.com/ec2/pricing/
+.. _ec2-pricing: http://aws.amazon.com/ec2/pricing/
 
 
 .. Service links
 .. -------------
-.. _AK: https://aws.amazon.com/kinesis/
-.. _AKF: https://aws.amazon.com/kinesis/firehose/
+.. _AK: http://aws.amazon.com/kinesis/
+.. _AKF: http://aws.amazon.com/kinesis/firehose/
 .. _AKFlong: AKF_
 .. _AKlong: AK_
-.. _COG: https://aws.amazon.com/cognito/
+.. _COG: http://aws.amazon.com/cognito/
 .. _COGID: COG_
 .. _COGSync: COG_
 .. _COGlong: COG_
-.. _DDB: https://aws.amazon.com/dynamodb/
+.. _DDB: http://aws.amazon.com/dynamodb/
 .. _DDBlong: DDB_
 .. _EB: http://aws.amazon.com/elasticbeanstalk/
 .. _EBS: http://aws.amazon.com/ebs/
@@ -40,23 +40,23 @@
 .. _EBlong: EB_
 .. _EC2: http://aws.amazon.com/ec2/
 .. _EC2long: EC2_
-.. _ELB: https://aws.amazon.com/elasticloadbalancing/
+.. _ELB: http://aws.amazon.com/elasticloadbalancing/
 .. _ELBlong: ELB_
-.. _IAM: https://aws.amazon.com/iam/
+.. _IAM: http://aws.amazon.com/iam/
 .. _IAMlong: IAM_
-.. _LAM: https://aws.amazon.com/lambda/
+.. _LAM: http://aws.amazon.com/lambda/
 .. _LAMlong: LAM_
-.. _MA: https://aws.amazon.com/mobileanalytics/
+.. _MA: http://aws.amazon.com/mobileanalytics/
 .. _MAlong: MA_
 .. _OPS: http://aws.amazon.com/opsworks/
 .. _OPSlong: OPS_
-.. _RDS: https://aws.amazon.com/rds/
+.. _RDS: http://aws.amazon.com/rds/
 .. _RDSlong: RDS_
-.. _S3: https://aws.amazon.com/s3/
+.. _S3: http://aws.amazon.com/s3/
 .. _S3long: S3_
-.. _SNS: https://aws.amazon.com/sns/
+.. _SNS: http://aws.amazon.com/sns/
 .. _SNSlong: SNS_
-.. _STS: https://aws.amazon.com/documentation/iam/
+.. _STS: http://aws.amazon.com/documentation/iam/
 .. _STSlong: STS_
 .. _SWF: http://aws.amazon.com/swf/
 .. _SWFlong: SWF_
@@ -296,7 +296,7 @@
 .. _cli: http://aws.amazon.com/cli/
 .. _clilong: cli_
 .. _console: https://console.aws.amazon.com/
-.. _sdk-android: https://aws.amazon.com/mobile/sdk/
+.. _sdk-android: http://aws.amazon.com/mobile/sdk/
 .. _sdk-java: http://aws.amazon.com/sdk-for-java/
 .. _sdk-js: http://aws.amazon.com/javascript/
 .. _sdk-mobile: http://aws.amazon.com/mobile/
@@ -304,7 +304,7 @@
 .. _sdk-php: http://aws.amazon.com/sdk-for-php/
 .. _sdk-python: http://aws.amazon.com/sdk-for-python/
 .. _sdk-ruby: http://aws.amazon.com/sdk-for-ruby/
-.. _tke: https://aws.amazon.com/eclipse/
+.. _tke: http://aws.amazon.com/eclipse/
 
 
 .. SDK/framework/toolkit guide links
@@ -352,9 +352,9 @@
 .. _sdk-php-ref: sdk-php-api-v3_
 .. _sdk-php-sbsg-v2: http://docs.aws.amazon.com/aws-sdk-php/guide/latest/side-by-side.html
 .. _sdk-python-api: http://boto.readthedocs.org/en/latest/ref/
-.. _sdk-python-dg: https://boto3.readthedocs.org/en/latest/guide/
+.. _sdk-python-dg: http://boto3.readthedocs.org/en/latest/guide/
 .. _sdk-python-gsg: http://boto.readthedocs.org/en/latest/
-.. _sdk-python-ref: https://boto3.readthedocs.org/en/latest/reference/services/
+.. _sdk-python-ref: http://boto3.readthedocs.org/en/latest/reference/services/
 .. _sdk-python3-api: http://boto3.readthedocs.org/en/latest/reference/services/
 .. _sdk-python3-gsg: http://boto3.readthedocs.org/en/latest/
 .. _sdk-ruby-api: http://docs.aws.amazon.com/sdkforruby/api/
