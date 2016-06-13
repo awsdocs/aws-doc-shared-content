@@ -17,9 +17,9 @@ Shared content for public AWS documentation.
 This repository is used in conjunction with public AWS documentation repositories such as:
 
 * `AWS Android Developer Guide <https://github.com/awsdocs/aws-android-developer-guide>`_
-* `AWS Toolkit for Eclipse User Guide <https://github.com/awsdocs/aws-toolkit-eclipse-user-guide>`_
 * `AWS iOS Developer Guide <https://github.com/awsdocs/aws-ios-developer-guide>`_
 * `AWS Java Developer Guide <https://github.com/awsdocs/aws-java-developer-guide>`_
+* `AWS Toolkit for Eclipse User Guide <https://github.com/awsdocs/aws-toolkit-eclipse-user-guide>`_
 * `AWS Unity Developer Guide <https://github.com/awsdocs/aws-unity-developer-guide>`_
 * `AWS Xamarin Developer Guide <https://github.com/awsdocs/aws-xamarin-developer-guide>`_
 
