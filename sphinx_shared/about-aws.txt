@@ -20,5 +20,5 @@ more information about AWS costs and the Free Tier, see `Use the AWS Free Tier`_
 account, visit the `AWS home page`__ and click **Create a Free Account**.
 
 .. __: http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-free-tier.html
-.. __: https://aws.amazon.com/
+.. __: http://aws.amazon.com/
 

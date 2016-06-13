@@ -295,7 +295,7 @@
 .. _cli-docs: http://aws.amazon.com/documentation/cli/
 .. _cli: http://aws.amazon.com/cli/
 .. _clilong: cli_
-.. _console: https://console.aws.amazon.com/
+.. _console: http://console.aws.amazon.com/
 .. _sdk-android: http://aws.amazon.com/mobile/sdk/
 .. _sdk-java: http://aws.amazon.com/sdk-for-java/
 .. _sdk-js: http://aws.amazon.com/javascript/
@@ -358,7 +358,7 @@
 .. _sdk-python3-api: http://boto3.readthedocs.org/en/latest/reference/services/
 .. _sdk-python3-gsg: http://boto3.readthedocs.org/en/latest/
 .. _sdk-ruby-api: http://docs.aws.amazon.com/sdkforruby/api/
-.. _sdk-ruby-dg: https://github.com/aws/aws-sdk-core-ruby#aws-sdk-for-ruby---v2
+.. _sdk-ruby-dg: http://github.com/aws/aws-sdk-core-ruby#aws-sdk-for-ruby---v2
 .. _sdk-ruby-ref: http://docs.aws.amazon.com/sdkforruby/api/frames.html
 .. _sdk-ruby1-dg: http://docs.aws.amazon.com/sdk-for-ruby/latest/DeveloperGuide/
 .. _sdk-unity-dg: http://docs.aws.amazon.com/mobile/sdkforunity/developerguide/index.html

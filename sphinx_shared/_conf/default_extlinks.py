@@ -81,12 +81,12 @@ extlinks.update({
     #
     #    :console:`IAM console <iam>`
     #
-    'console': ('https://console.aws.amazon.com/%s', ''),
+    'console': ('http://console.aws.amazon.com/%s', ''),
     #
     # For AWS forums. Use like this:
     #
     #    :forum:`Mobile Developer forum <88>`
     #
-    'forum': ('https://forums.aws.amazon.com/forum.jspa?forumID=%s', ''),
+    'forum': ('http://forums.aws.amazon.com/forum.jspa?forumID=%s', ''),
     })
 
