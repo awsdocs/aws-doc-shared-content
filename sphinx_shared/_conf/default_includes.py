@@ -1,10 +1,29 @@
 # Copyright 2010-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
-# _default-includes.txt contains common includes for every AWS Sphinx project.
-rst_prolog = """
-.. include:: _default-includes.txt
-"""
-# if there's a _includes.txt file in the project, automatically include it.
-if os.path.exists('_includes.txt'):
-    rst_prolog = rst_prolog + ('.. include:: _includes.txt\n')
+# Although you can include files like this:
+#
+#  .. include _includes/common_includes.txt
+#
+# Adding this to the rst_prolog would break includes for topics that exist
+# in subdirectories of the 'source' directory.
+#
+# Instead, we simply gather the information that exists in the default include
+# locations and make *that* the rst_prolog.
+
+import os, codecs
+
+rst_prolog = ''
+
+common_includes = [
+    '_includes/common_includes.txt',
+    '_includes/service_links.txt',
+    '_includes/region_includes.txt',
+    '_includes.txt'
+    ]
+
+for i in common_includes:
+    if os.path.exists(i):
+        f = codecs.open(i, 'r', 'utf-8')
+        rst_prolog += f.read()
+        f.close()
 
