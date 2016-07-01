@@ -36,7 +36,6 @@
 .. |aws-credfile-loc-unixes| replace:: :file:`~/.aws/credentials`
 .. |aws-credfile-loc-windows| replace:: :file:`C:\\Users\\USERNAME\\.aws\\credentials`
 .. |aws-credfile-var| replace:: :file:`AWS_CREDENTIAL_PROFILES_FILE`
-.. |aws-gr| replace:: |AWSlong| General Reference
 .. |clilong| replace:: AWS Command Line Interface
 .. |cli| replace:: AWS CLI
 .. |console| replace:: AWS Management Console
@@ -402,6 +401,7 @@
 .. |AS-dg| replace:: |AS| |dg|
 .. |AS-gsg| replace:: |AS| |gsg|
 .. |ATP-dg| replace:: |ATP| |dg|
+.. |AWS-gr| replace:: |AWSlong| General Reference
 .. |AWSDC-api| replace:: |AWSDC| |api|
 .. |AWSDC-ug| replace:: |AWSDC| |ug|
 .. |AWSSG-api| replace:: |AWSSG| |api|
@@ -443,7 +443,7 @@
 .. |EC2-gsg| replace:: |EC2| |gsg|
 .. |EC2-qrc| replace:: |EC2| |qrc|
 .. |EC2-ug| replace:: |EC2| |ug| for Linux Instances
-.. |EC2-win-ug| replace:: |EC2| |ug| for Microsoft Windows Instances
+.. |EC2-ug-win| replace:: |EC2| |ug| for Microsoft Windows Instances
 .. |ECR-api| replace:: |ECR| |api|
 .. |ECR-ug| replace:: |ECR| |ug|
 .. |ECS-api| replace:: |ECS| |api|
@@ -514,8 +514,8 @@
 .. |KMS-api| replace:: |KMS| |api|
 .. |KMS-dg| replace:: |KMS| |dg|
 .. |LAM-dg| replace:: |LAM| |dg|
-.. |MA-ug| replace:: |MA| |ug|
 .. |MA-api| replace:: |MA| |api|
+.. |MA-ug| replace:: |MA| |ug|
 .. |ML-api| replace:: |ML| |api|
 .. |ML-dg| replace:: |ML| |dg|
 .. |MT-api| replace:: |MT| |api|
