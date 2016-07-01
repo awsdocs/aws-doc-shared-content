@@ -22,8 +22,8 @@ if 'intersphinx_mapping' not in locals():
     intersphinx_mapping = {}
 
 intersphinx_mapping.update({
-    'tke-ug': (aws_docs_url + 'AWSToolkitEclipse/latest/ug', None),
-    'java-dg': (aws_docs_url + 'AWSSdkDocsJava/latest/DeveloperGuide', None),
+    'tkeug': (aws_docs_url + 'AWSToolkitEclipse/latest/ug', None),
+    'javadg': (aws_docs_url + 'AWSSdkDocsJava/latest/DeveloperGuide', None),
     })
 
 # default extlinks.
