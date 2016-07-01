@@ -22,8 +22,12 @@ if 'intersphinx_mapping' not in locals():
     intersphinx_mapping = {}
 
 intersphinx_mapping.update({
-    'tkeug': (aws_docs_url + 'AWSToolkitEclipse/latest/ug', None),
+    'androiddg': (aws_docs_url + '/mobile/sdkforandroid/developerguide', None),
+    'iosdg': (aws_docs_url + '/mobile/sdkforios/developerguide', None),
     'javadg': (aws_docs_url + 'AWSSdkDocsJava/latest/DeveloperGuide', None),
+    'tkeug': (aws_docs_url + 'AWSToolkitEclipse/latest/ug', None),
+    'unitydg': (aws_docs_url + '/mobile/sdkforunity/developerguide', None),
+    'xamarindg': (aws_docs_url + '/mobile/sdkforxamarin/developerguide', None),
     })
 
 # default extlinks.
