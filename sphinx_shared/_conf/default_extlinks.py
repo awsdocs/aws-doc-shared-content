@@ -1,6 +1,32 @@
 # Copyright 2010-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
-# These are the default extlinks.
+# External link (intersphinx + extlink) definitions
+
+# this is used throughout.
+aws_docs_url = 'http://docs.aws.amazon.com/'
+
+# intersphinx locations - with these, you can specify :ref: links directly into
+# various guides. For example:
+#
+#  :ref:`Allow Lambda to assume an IAM role <tke-ug:allow-lam-to-assume-an-iam-role>`
+#
+# You just specify the guide name as the first parameter in the <link>, and
+# then the reference name as the second parameter.
+#
+# For more information, see: http://www.sphinx-doc.org/en/stable/ext/intersphinx.html
+
+if 'sphinx.ext.intersphinx' not in extensions:
+    extensions.append('sphinx.ext.intersphinx')
+
+if 'intersphinx_mapping' not in locals():
+    intersphinx_mapping = {}
+
+intersphinx_mapping.update({
+    'tke-ug': (aws_docs_url + 'AWSToolkitEclipse/latest/ug', None),
+    'java-dg': (aws_docs_url + 'AWSSdkDocsJava/latest/DeveloperGuide', None),
+    })
+
+# default extlinks.
 #
 # You can use them in your document source by specifying a link to an API entry like this::
 #
@@ -24,11 +50,7 @@
 #
 #     extlinks['my-link-role'] = ('link_url', 'link_prefix')
 #
-# For more information about specifying extlinks and how they work, see:
-#
-# * http://sphinx-doc.org/ext/extlinks.html
-
-aws_docs_url = 'http://docs.aws.amazon.com/'
+# For more information, see: http://sphinx-doc.org/ext/extlinks.html
 
 if 'sphinx.ext.extlinks' not in extensions:
     extensions.append('sphinx.ext.extlinks')
