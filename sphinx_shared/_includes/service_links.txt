@@ -297,6 +297,7 @@
 .. _clilong: cli_
 .. _console: http://console.aws.amazon.com/
 .. _sdk-android: http://aws.amazon.com/mobile/sdk/
+.. _sdk-ios: http://aws.amazon.com/mobile/sdk/
 .. _sdk-java: http://aws.amazon.com/sdk-for-java/
 .. _sdk-js: http://aws.amazon.com/javascript/
 .. _sdk-mobile: http://aws.amazon.com/mobile/
