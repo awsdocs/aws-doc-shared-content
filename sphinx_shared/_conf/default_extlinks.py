@@ -88,7 +88,7 @@ extlinks.update({
     'swf-api': (aws_docs_url + 'amazonswf/latest/apireference/API_%s.html', ''),
     'swf-dg' : (aws_docs_url + 'amazonswf/latest/developerguide/%s.html', ''),
     'tke-ug': (aws_docs_url + 'AWSToolkitEclipse/latest/ug/%s.html', ''),
-    'tvs-ug': (aws_docs_url + 'AWSToolkitVS/latest/UserGuide/%s', ''),
+    'tvs-ug': (aws_docs_url + 'AWSToolkitVS/latest/UserGuide/%s.html', ''),
     #
     # Note: to use the 'rande' or 'console' extlinks, specify link text that
     # includes the service's upper-case TLA, and use the lower-case version of
