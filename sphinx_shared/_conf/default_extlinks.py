@@ -24,8 +24,8 @@ if 'intersphinx_mapping' not in locals():
 intersphinx_mapping.update({
     'androiddg': (aws_docs_url + '/mobile/sdkforandroid/developerguide', None),
     'iosdg': (aws_docs_url + '/mobile/sdkforios/developerguide', None),
-    'javadg': (aws_docs_url + 'sdk-for-java/latest/developer-guide', None),
-    'tkeug': (aws_docs_url + 'eclipse/latest/user-guide', None),
+    'javadg': (aws_docs_url + 'java-sdk/latest/developer-guide', None),
+    'tkeug': (aws_docs_url + 'eclipse-toolkit/latest/user-guide', None),
     'unitydg': (aws_docs_url + '/mobile/sdkforunity/developerguide', None),
     'xamarindg': (aws_docs_url + '/mobile/sdkforxamarin/developerguide', None),
     })
@@ -77,7 +77,7 @@ extlinks.update({
     'gloss': (aws_docs_url + 'general/latest/gr/glos-chap.html#%s', ''),
     'iam-api': (aws_docs_url + 'IAM/latest/APIReference/API_%s.html', ''),
     'iam-ug': (aws_docs_url + 'IAM/latest/UserGuide/%s.html', ''),
-    'java-dg': (aws_docs_url + 'sdk-for-java/latest/developer-guide/%s.html', ''),
+    'java-dg': (aws_docs_url + 'java-sdk/latest/developer-guide/%s.html', ''),
     'lam-api': (aws_docs_url + 'lambda/latest/dg/API_%s.html', ''),
     'lam-dg': (aws_docs_url + 'lambda/latest/dg/%s.html', ''),
     'net-api': (aws_docs_url + 'sdkfornet/v3/apidocs/items/%s.html', ''),
@@ -91,7 +91,7 @@ extlinks.update({
     'sts-api': (aws_docs_url + 'STS/latest/APIReference/API_%s.html', ''),
     'swf-api': (aws_docs_url + 'amazonswf/latest/apireference/API_%s.html', ''),
     'swf-dg' : (aws_docs_url + 'amazonswf/latest/developerguide/%s.html', ''),
-    'tke-ug': (aws_docs_url + 'eclipse/latest/user-guide/%s.html', ''),
+    'tke-ug': (aws_docs_url + 'eclipse-toolkit/latest/user-guide/%s.html', ''),
     'tvs-ug': (aws_docs_url + 'AWSToolkitVS/latest/UserGuide/%s.html', ''),
     #
     # Note: to use the 'rande' or 'console' extlinks, specify link text that
