@@ -28,6 +28,8 @@
 .. _AKF: http://aws.amazon.com/kinesis/firehose/
 .. _AKFlong: AKF_
 .. _AKlong: AK_
+.. _CF: http://aws.amazon.com/cloudformation/
+.. _CFlong: CF_
 .. _COG: http://aws.amazon.com/cognito/
 .. _COGID: COG_
 .. _COGSync: COG_
