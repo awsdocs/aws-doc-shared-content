@@ -28,6 +28,8 @@
 .. _AKF: http://aws.amazon.com/kinesis/firehose/
 .. _AKFlong: AKF_
 .. _AKlong: AK_
+.. _CF: http://aws.amazon.com/cloudformation/
+.. _CFlong: CF_
 .. _COG: http://aws.amazon.com/cognito/
 .. _COGID: COG_
 .. _COGSync: COG_
@@ -56,6 +58,8 @@
 .. _S3long: S3_
 .. _SNS: http://aws.amazon.com/sns/
 .. _SNSlong: SNS_
+.. _SQS: http://aws.amason.com/sqs/
+.. _SQSlong: SQS_
 .. _STS: http://aws.amazon.com/documentation/iam/
 .. _STSlong: STS_
 .. _SWF: http://aws.amazon.com/swf/
