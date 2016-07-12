@@ -295,7 +295,7 @@
 .. _cli-docs: http://aws.amazon.com/documentation/cli/
 .. _cli: http://aws.amazon.com/cli/
 .. _clilong: cli_
-.. _console: http://console.aws.amazon.com/
+.. _console: https://console.aws.amazon.com/
 .. _sdk-android: http://aws.amazon.com/mobile/sdk/
 .. _sdk-ios: http://aws.amazon.com/mobile/sdk/
 .. _sdk-java: http://aws.amazon.com/sdk-for-java/
