@@ -81,13 +81,13 @@ extlinks.update({
     'lam-api': (aws_docs_url + 'lambda/latest/dg/API_%s.html', ''),
     'lam-dg': (aws_docs_url + 'lambda/latest/dg/%s.html', ''),
     'net-api': (aws_docs_url + 'sdkfornet/v3/apidocs/items/%s.html', ''),
-    'r53-dg': (aws_docs_url + 'Route53/latest/DeveloperGuide/%s.html', '')
-    'r53-api': (aws_docs_url + 'Route53/latest/APIReference/API_%s.html', '')
+    'r53-api': (aws_docs_url + 'Route53/latest/APIReference/API_%s.html', ''),
+    'r53-dg': (aws_docs_url + 'Route53/latest/DeveloperGuide/%s.html', ''),
     's3-bucket-api': (aws_docs_url + 'AmazonS3/latest/API/RESTBucket%s.html', ''),
+    's3-dg': (aws_docs_url + 'AmazonS3/latest/dev/%s.html', ''),
     's3-object-api': (aws_docs_url + 'AmazonS3/latest/API/RESTObject%s.html', ''),
     's3-service-api': (aws_docs_url + 'AmazonS3/latest/API/RESTService%s.html', ''),
     's3-ug': (aws_docs_url + 'AmazonS3/latest/UG/%s.html', ''),
-    's3-dg': (aws_docs_url + 'AmazonS3/latest/dev/%s.html', '')
     'sns-api': (aws_docs_url + 'sns/latest/api/API_%s.html', ''),
     'sqs-api': (aws_docs_url + 'AWSSimpleQueueService/latest/APIReference/API_%s.html', ''),
     'sqs-dg': (aws_docs_url + 'AWSSimpleQueueService/latest/SQSDeveloperGuide/%s.html', ''),
@@ -96,7 +96,7 @@ extlinks.update({
     'swf-dg' : (aws_docs_url + 'amazonswf/latest/developerguide/%s.html', ''),
     'tke-ug': (aws_docs_url + 'eclipse-toolkit/latest/user-guide/%s.html', ''),
     'tvs-ug': (aws_docs_url + 'AWSToolkitVS/latest/UserGuide/%s.html', ''),
-    'twp-ug': (aws_docs_url + 'powershell/latest/userguide/%s.html', '')
+    'twp-ug': (aws_docs_url + 'powershell/latest/userguide/%s.html', ''),
     #
     # Note: to use the 'rande' or 'console' extlinks, specify link text that
     # includes the service's upper-case TLA, and use the lower-case version of
