@@ -62,42 +62,42 @@ if 'sphinx.ext.extlinks' not in extensions:
 if 'extlinks' not in locals():
     extlinks = {}
 
+# a function to add guide extlinks
+def get_guide_extlinks():
+    """add extlinks for all of the entries in ../_includes/guide_links.txt"""
+    import re
+    guide_extlinks = {}
+    guide_links_file = open('_includes/guide_links.txt')
+    guide_links_contents = guide_links_file.read()
+    guide_links_file.close()
+    m = '.. _(.*):\s+(.*)/'
+    matches = re.findall(m, guide_links_contents)
+    for i in matches:
+        guide_extlinks[str.lower(i[0])] = (i[1] + '/%s.html', '')
+    return guide_extlinks
+
+extlinks.update(get_guide_extlinks())
+
+# the only things that should be here are extlinks that don't fit the standard
+# pattern of 'guide_url/%s.html'
 extlinks.update({
-    'aws-gr': (aws_docs_url + 'general/latest/gr/%s.html', ''),
-    'cli-ug': (aws_docs_url + 'cli/latest/userguide/%s.html', ''),
+    # links to API pages or other non-standard guide links.
     'cog-api': (aws_docs_url + 'cognitoidentity/latest/APIReference/API_%s.html', ''),
-    'ddb-dg': (aws_docs_url + 'amazondynamodb/latest/developerguide/%s.html', ''),
-    'eb-dg': (aws_docs_url + 'elasticbeanstalk/latest/dg/%s.html', ''),
     'ec2-api': (aws_docs_url + 'AWSEC2/latest/APIReference/API_%s.html', ''),
-    'ec2-ug': (aws_docs_url + 'AWSEC2/latest/UserGuide/%s.html', ''),
-    'ec2-ug-win': (aws_docs_url + 'AWSEC2/latest/WindowsGuide/%s.html', ''),
     'emr-api': (aws_docs_url + 'ElasticMapReduce/latest/API/API_%s.html', ''),
     'github': ('https://github.com/%s', ''),
-    'gl-dg': (aws_docs_url + 'amazonglacier/latest/dev/%s', ''),
     'gloss': (aws_docs_url + 'general/latest/gr/glos-chap.html#%s', ''),
     'iam-api': (aws_docs_url + 'IAM/latest/APIReference/API_%s.html', ''),
-    'iam-ug': (aws_docs_url + 'IAM/latest/UserGuide/%s.html', ''),
-    'java-dg': (aws_docs_url + 'java-sdk/latest/developer-guide/%s.html', ''),
-    'jflow-dg': (aws_docs_url + 'amazonswf/latest/awsflowguide/%s.html', ''),
     'lam-api': (aws_docs_url + 'lambda/latest/dg/API_%s.html', ''),
-    'lam-dg': (aws_docs_url + 'lambda/latest/dg/%s.html', ''),
-    'net-api': (aws_docs_url + 'sdkfornet/v3/apidocs/items/%s.html', ''),
     'r53-api': (aws_docs_url + 'Route53/latest/APIReference/API_%s.html', ''),
-    'r53-dg': (aws_docs_url + 'Route53/latest/DeveloperGuide/%s.html', ''),
     's3-bucket-api': (aws_docs_url + 'AmazonS3/latest/API/RESTBucket%s.html', ''),
-    's3-dg': (aws_docs_url + 'AmazonS3/latest/dev/%s.html', ''),
     's3-object-api': (aws_docs_url + 'AmazonS3/latest/API/RESTObject%s.html', ''),
     's3-service-api': (aws_docs_url + 'AmazonS3/latest/API/RESTService%s.html', ''),
-    's3-ug': (aws_docs_url + 'AmazonS3/latest/UG/%s.html', ''),
     'sns-api': (aws_docs_url + 'sns/latest/api/API_%s.html', ''),
     'sqs-api': (aws_docs_url + 'AWSSimpleQueueService/latest/APIReference/API_%s.html', ''),
-    'sqs-dg': (aws_docs_url + 'AWSSimpleQueueService/latest/SQSDeveloperGuide/%s.html', ''),
     'sts-api': (aws_docs_url + 'STS/latest/APIReference/API_%s.html', ''),
     'swf-api': (aws_docs_url + 'amazonswf/latest/apireference/API_%s.html', ''),
-    'swf-dg' : (aws_docs_url + 'amazonswf/latest/developerguide/%s.html', ''),
-    'tke-ug': (aws_docs_url + 'eclipse-toolkit/latest/user-guide/%s.html', ''),
-    'tvs-ug': (aws_docs_url + 'AWSToolkitVS/latest/UserGuide/%s.html', ''),
-    'twp-ug': (aws_docs_url + 'powershell/latest/userguide/%s.html', ''),
+
     #
     # Note: to use the 'rande' or 'console' extlinks, specify link text that
     # includes the service's upper-case TLA, and use the lower-case version of
