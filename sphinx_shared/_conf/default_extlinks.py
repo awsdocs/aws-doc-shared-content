@@ -78,6 +78,7 @@ extlinks.update({
     'iam-api': (aws_docs_url + 'IAM/latest/APIReference/API_%s.html', ''),
     'iam-ug': (aws_docs_url + 'IAM/latest/UserGuide/%s.html', ''),
     'java-dg': (aws_docs_url + 'java-sdk/latest/developer-guide/%s.html', ''),
+    'jflow-dg': (aws_docs_url + 'amazonswf/latest/awsflowguide/%s.html', ''),
     'lam-api': (aws_docs_url + 'lambda/latest/dg/API_%s.html', ''),
     'lam-dg': (aws_docs_url + 'lambda/latest/dg/%s.html', ''),
     'net-api': (aws_docs_url + 'sdkfornet/v3/apidocs/items/%s.html', ''),
@@ -116,7 +117,7 @@ extlinks.update({
     #
     #    :console:`IAM console <iam>`
     #
-    'console': ('http://console.aws.amazon.com/%s', ''),
+    'console': ('https://console.aws.amazon.com/%s', ''),
     #
     # For AWS forums. Use like this:
     #

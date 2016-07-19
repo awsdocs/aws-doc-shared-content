@@ -14,14 +14,14 @@ using the |console|_. We recommend that you use IAM access keys instead of AWS r
 keys. IAM lets you securely control access to AWS services and resources in your AWS account.
 
 .. note:: To create access keys, you must have permissions to perform the required IAM actions. For
-    more information, see `Granting IAM User Permission to Manage Password Policy and Credentials`__ in
-    |iam-ug|.
+    more information, see `Granting IAM User Permission to Manage Password Policy and Credentials`__
+    in the |iam-ug|.
 
 .. __: http://docs.aws.amazon.com/IAM/latest/UserGuide/PasswordPolicyPermission.html
 
 **To get your access key ID and secret access key**
 
-1. Open the IAM console.
+1. Open the :console:`IAM console <iam>`.
 
 2. From the navigation menu, click :guilabel:`Users`.
 
@@ -31,18 +31,18 @@ keys. IAM lets you securely control access to AWS services and resources in your
 
 5. Click :guilabel:`Create Access Key`.
 
-   Your keys will look something like this:
+    Your keys will look something like this:
 
-   * Access key ID example: ``AKIAIOSFODNN7EXAMPLE``
+    * Access key ID example: ``AKIAIOSFODNN7EXAMPLE``
 
-   * Secret access key example: ``wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY``
+    * Secret access key example: ``wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY``
 
 6. Click :guilabel:`Download Credentials`, and store the keys in a secure location.
 
 .. important:: Your secret key will no longer be available through the AWS Management Console; you
     will have the only copy. Keep it confidential in order to protect your account, and never email it.
     Do not share it outside your organization, even if an inquiry appears to come from AWS or
-    Amazon.com.  No one who legitimately represents Amazon will ever ask you for your secret key.
+    Amazon.com. *No one who legitimately represents Amazon will ever ask you for your secret key.*
 
 **Related topics**
 
@@ -53,3 +53,4 @@ keys. IAM lets you securely control access to AWS services and resources in your
 * `AWS Security Credentials`__ in |aws-gr|.
 
 .. __: http://docs.aws.amazon.com/general/latest/gr/aws-security-credentials.html
+
