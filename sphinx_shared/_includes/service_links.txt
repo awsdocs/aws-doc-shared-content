@@ -26,44 +26,44 @@
 .. -------------
 .. _AK: http://aws.amazon.com/kinesis/
 .. _AKF: http://aws.amazon.com/kinesis/firehose/
-.. _AKFlong: _AKF
-.. _AKlong: _AK
+.. _AKFlong: AKF_
+.. _AKlong: AK_
 .. _CF: http://aws.amazon.com/cloudformation/
-.. _CFlong: _CF
+.. _CFlong: CF_
 .. _COG: http://aws.amazon.com/cognito/
-.. _COGID: _COG
-.. _COGSync: _COG
-.. _COGlong: _COG
+.. _COGID: COG_
+.. _COGSync: COG_
+.. _COGlong: COG_
 .. _DDB: http://aws.amazon.com/dynamodb/
-.. _DDBlong: _DDB
+.. _DDBlong: DDB_
 .. _EB: http://aws.amazon.com/elasticbeanstalk/
 .. _EBS: http://aws.amazon.com/ebs/
-.. _EBSlong: _EBS
-.. _EBlong: _EB
+.. _EBSlong: EBS_
+.. _EBlong: EB_
 .. _EC2: http://aws.amazon.com/ec2/
-.. _EC2long: _EC2
+.. _EC2long: EC2_
 .. _ELB: http://aws.amazon.com/elasticloadbalancing/
-.. _ELBlong: _ELB
+.. _ELBlong: ELB_
 .. _IAM: http://aws.amazon.com/iam/
-.. _IAMlong: _IAM
+.. _IAMlong: IAM_
 .. _LAM: http://aws.amazon.com/lambda/
-.. _LAMlong: _LAM
+.. _LAMlong: LAM_
 .. _MA: http://aws.amazon.com/mobileanalytics/
-.. _MAlong: _MA
+.. _MAlong: MA_
 .. _OPS: http://aws.amazon.com/opsworks/
-.. _OPSlong: _OPS
+.. _OPSlong: OPS_
 .. _RDS: http://aws.amazon.com/rds/
-.. _RDSlong: _RDS
+.. _RDSlong: RDS_
 .. _S3: http://aws.amazon.com/s3/
-.. _S3long: _S3
+.. _S3long: S3_
 .. _SNS: http://aws.amazon.com/sns/
-.. _SNSlong: _SNS
+.. _SNSlong: SNS_
 .. _SQS: http://aws.amason.com/sqs/
-.. _SQSlong: _SQS
+.. _SQSlong: SQS_
 .. _STS: http://aws.amazon.com/documentation/iam/
-.. _STSlong: _STS
+.. _STSlong: STS_
 .. _SWF: http://aws.amazon.com/swf/
-.. _SWFlong: _SWF
+.. _SWFlong: SWF_
 
 .. Links to things within service guides and other non-standard guide links
    ------------------------------------------------------------------------
@@ -94,7 +94,7 @@
    ----------------------------------------------------
 .. _cli-docs: http://aws.amazon.com/documentation/cli/
 .. _cli: http://aws.amazon.com/cli/
-.. _clilong: _cli
+.. _clilong: cli_
 .. _console: https://console.aws.amazon.com/
 .. _sdk-android: http://aws.amazon.com/mobile/sdk/
 .. _sdk-ios: http://aws.amazon.com/mobile/sdk/
