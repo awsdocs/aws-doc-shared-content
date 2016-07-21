@@ -26,44 +26,44 @@
 .. -------------
 .. _AK: http://aws.amazon.com/kinesis/
 .. _AKF: http://aws.amazon.com/kinesis/firehose/
-.. _AKFlong: AKF_
-.. _AKlong: AK_
+.. _AKFlong: _AKF
+.. _AKlong: _AK
 .. _CF: http://aws.amazon.com/cloudformation/
-.. _CFlong: CF_
+.. _CFlong: _CF
 .. _COG: http://aws.amazon.com/cognito/
-.. _COGID: COG_
-.. _COGSync: COG_
-.. _COGlong: COG_
+.. _COGID: _COG
+.. _COGSync: _COG
+.. _COGlong: _COG
 .. _DDB: http://aws.amazon.com/dynamodb/
-.. _DDBlong: DDB_
+.. _DDBlong: _DDB
 .. _EB: http://aws.amazon.com/elasticbeanstalk/
 .. _EBS: http://aws.amazon.com/ebs/
-.. _EBSlong: EBS_
-.. _EBlong: EB_
+.. _EBSlong: _EBS
+.. _EBlong: _EB
 .. _EC2: http://aws.amazon.com/ec2/
-.. _EC2long: EC2_
+.. _EC2long: _EC2
 .. _ELB: http://aws.amazon.com/elasticloadbalancing/
-.. _ELBlong: ELB_
+.. _ELBlong: _ELB
 .. _IAM: http://aws.amazon.com/iam/
-.. _IAMlong: IAM_
+.. _IAMlong: _IAM
 .. _LAM: http://aws.amazon.com/lambda/
-.. _LAMlong: LAM_
+.. _LAMlong: _LAM
 .. _MA: http://aws.amazon.com/mobileanalytics/
-.. _MAlong: MA_
+.. _MAlong: _MA
 .. _OPS: http://aws.amazon.com/opsworks/
-.. _OPSlong: OPS_
+.. _OPSlong: _OPS
 .. _RDS: http://aws.amazon.com/rds/
-.. _RDSlong: RDS_
+.. _RDSlong: _RDS
 .. _S3: http://aws.amazon.com/s3/
-.. _S3long: S3_
+.. _S3long: _S3
 .. _SNS: http://aws.amazon.com/sns/
-.. _SNSlong: SNS_
+.. _SNSlong: _SNS
 .. _SQS: http://aws.amason.com/sqs/
-.. _SQSlong: SQS_
+.. _SQSlong: _SQS
 .. _STS: http://aws.amazon.com/documentation/iam/
-.. _STSlong: STS_
+.. _STSlong: _STS
 .. _SWF: http://aws.amazon.com/swf/
-.. _SWFlong: SWF_
+.. _SWFlong: _SWF
 
 .. Links to things within service guides and other non-standard guide links
    ------------------------------------------------------------------------
@@ -73,7 +73,7 @@
 .. _JSB-gsg: http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/browser-intro.html
 .. _MT-wsdl: http://docs.aws.amazon.com/AWSMechanicalTurk/2012-03-25/AWSMechanicalTurkRequester.wsdl
 .. _jflow-ref: http://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/simpleworkflow/flow/package-frame.html
-.. _sdk-js-dg: http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/index.html#Developer_Guide
+.. _sdk-js-dg: _http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/index.html#DeveloperGuide
 .. _sdk-node-gsg: http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
 .. _sdk-php-mg-v2: http://docs.aws.amazon.com/aws-sdk-php/guide/latest/migration-guide.html
 .. _sdk-php-mg-v3: http://docs.aws.amazon.com/aws-sdk-php/v3/guide/guide/migration.html
@@ -94,7 +94,7 @@
    ----------------------------------------------------
 .. _cli-docs: http://aws.amazon.com/documentation/cli/
 .. _cli: http://aws.amazon.com/cli/
-.. _clilong: cli_
+.. _clilong: _cli
 .. _console: https://console.aws.amazon.com/
 .. _sdk-android: http://aws.amazon.com/mobile/sdk/
 .. _sdk-ios: http://aws.amazon.com/mobile/sdk/
@@ -107,9 +107,6 @@
 .. _sdk-ruby: http://aws.amazon.com/sdk-for-ruby/
 .. _tke: http://aws.amazon.com/eclipse/
 
-.. Guide links (both Service guides and SDK guides)
-   ------------------------------------------------
-.. include:: _includes/guide_links.txt
 
 .. Common references in documentation:
    -----------------------------------

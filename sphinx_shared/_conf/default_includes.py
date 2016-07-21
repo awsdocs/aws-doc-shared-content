@@ -16,6 +16,7 @@ rst_prolog = ''
 
 common_includes = [
     '_includes/common_includes.txt',
+    '_includes/guide_links.txt',
     '_includes/service_links.txt',
     '_includes/region_includes.txt',
     '_includes.txt'
@@ -26,4 +27,7 @@ for i in common_includes:
         f = codecs.open(i, 'r', 'utf-8')
         rst_prolog += f.read()
         f.close()
+
+print("NOTE: %d lines in rst_prolog." % (rst_prolog.count('\n')+1))
+print("      Line numbers will be off by this amount!")
 
