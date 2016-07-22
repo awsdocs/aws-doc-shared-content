@@ -108,6 +108,9 @@
 .. role:: code-sh(code)
    :language: shell
 
+.. role:: code-xml(code)
+   :language: xml
+
 
 .. Marketing pages
    ---------------
