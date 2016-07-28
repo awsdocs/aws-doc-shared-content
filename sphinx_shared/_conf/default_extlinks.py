@@ -93,7 +93,6 @@ extlinks.update({
     's3-bucket-api': (aws_docs_url + 'AmazonS3/latest/API/RESTBucket%s.html', ''),
     's3-object-api': (aws_docs_url + 'AmazonS3/latest/API/RESTObject%s.html', ''),
     's3-service-api': (aws_docs_url + 'AmazonS3/latest/API/RESTService%s.html', ''),
-    'sdk-net-api': (aws_docs_url + 'sdkfornet/v3/apidocs/items/*.html', ''),
     'sns-api': (aws_docs_url + 'sns/latest/api/API_%s.html', ''),
     'sqs-api': (aws_docs_url + 'AWSSimpleQueueService/latest/APIReference/API_%s.html', ''),
     'sts-api': (aws_docs_url + 'STS/latest/APIReference/API_%s.html', ''),
