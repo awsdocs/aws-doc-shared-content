@@ -58,7 +58,7 @@
 .. _S3long: S3_
 .. _SNS: http://aws.amazon.com/sns/
 .. _SNSlong: SNS_
-.. _SQS: http://aws.amason.com/sqs/
+.. _SQS: http://aws.amazon.com/sqs/
 .. _SQSlong: SQS_
 .. _STS: http://aws.amazon.com/documentation/iam/
 .. _STSlong: STS_
