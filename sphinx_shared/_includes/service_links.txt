@@ -73,6 +73,7 @@
 .. _JSB-gsg: http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/browser-intro.html
 .. _MT-wsdl: http://docs.aws.amazon.com/AWSMechanicalTurk/2012-03-25/AWSMechanicalTurkRequester.wsdl
 .. _jflow-ref: http://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/simpleworkflow/flow/package-frame.html
+.. _RDS-pricing: https://aws.amazon.com/rds/pricing/
 .. _sdk-js-dg: http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/index.html#Developer_Guide
 .. _sdk-node-gsg: http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
 .. _sdk-php-mg-v2: http://docs.aws.amazon.com/aws-sdk-php/guide/latest/migration-guide.html
