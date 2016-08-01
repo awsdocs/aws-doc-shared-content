@@ -4,15 +4,15 @@
 #
 #  .. include _includes/common_includes.txt
 #
-# Adding this to the rst_prolog would break includes for topics that exist
-# in subdirectories of the 'source' directory.
+# Adding this to the rst_prolog/rst_epilog would break includes for topics that exist in
+# subdirectories of the 'source' directory.
 #
-# Instead, we simply gather the information that exists in the default include
-# locations and make *that* the rst_prolog.
+# Instead, we simply gather the information that exists in the default include locations and make
+# *that* the rst_epilog.
 
 import os, codecs
 
-rst_prolog = ''
+rst_epilog = ''
 
 common_includes = [
     '_includes/common_includes.txt',
@@ -25,9 +25,6 @@ common_includes = [
 for i in common_includes:
     if os.path.exists(i):
         f = codecs.open(i, 'r', 'utf-8')
-        rst_prolog += f.read()
+        rst_epilog += f.read()
         f.close()
-
-print("NOTE: %d lines in rst_prolog." % (rst_prolog.count('\n')+1))
-print("      Line numbers will be off by this amount!")
 
