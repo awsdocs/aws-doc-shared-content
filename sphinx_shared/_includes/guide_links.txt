@@ -220,6 +220,7 @@
 .. _cli-ref: http://docs.aws.amazon.com/cli/latest/reference/
 .. _cli-ug: http://docs.aws.amazon.com/cli/latest/userguide/
 .. _jflow-dg: http://docs.aws.amazon.com/amazonswf/latest/awsflowguide/
+.. _pst-ug: http://docs.aws.amazon.com/powershell/latest/userguide/
 .. _rbflow-api: http://docs.aws.amazon.com/amazonswf/latest/awsrbflowapi/
 .. _rbflow-dg: http://docs.aws.amazon.com/amazonswf/latest/awsrbflowguide/
 .. _rbflow-ref: http://docs.aws.amazon.com/amazonswf/latest/awsrbflowapi/
