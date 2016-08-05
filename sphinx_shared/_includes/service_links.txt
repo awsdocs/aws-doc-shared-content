@@ -107,6 +107,8 @@
 .. _sdk-python: http://aws.amazon.com/sdk-for-python/
 .. _sdk-ruby: http://aws.amazon.com/sdk-for-ruby/
 .. _tke: http://aws.amazon.com/eclipse/
+.. _tvs: http://aws.amazon.com/visualstudio/
+.. _twp: http://aws.amazon.com/powershell/
 
 
 .. Common references in documentation:
