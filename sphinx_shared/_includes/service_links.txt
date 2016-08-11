@@ -24,6 +24,7 @@
 
 .. Service links
 .. -------------
+.. _ABP: https://aws.amazon.com/api-gateway/
 .. _AK: http://aws.amazon.com/kinesis/
 .. _AKF: http://aws.amazon.com/kinesis/firehose/
 .. _AKFlong: AKF_
