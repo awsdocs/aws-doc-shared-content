@@ -114,7 +114,6 @@
 
 .. Marketing pages
    ---------------
-
 .. |aws-tools| replace:: *Tools for Amazon Web Services*
 .. |ec2-pricing| replace:: *EC2 Pricing*
 
@@ -123,7 +122,8 @@
    -----------------------------
 .. |AMIlong| replace:: Amazon Machine Image
 .. |aws-credfile-env-var| replace:: AWS_CREDENTIAL_FILE
-
+.. |example-access-key-id| replace:: AKIAIOSFODNN7EXAMPLE
+.. |example-secret-key| replace:: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 
 .. Services
    --------
@@ -339,6 +339,8 @@
    -----------------------------------------------
 .. |awsflow| replace:: AWS Flow Framework
 .. |jflow| replace:: AWS Flow Framework for Java
+.. |pstlong| replace:: AWS Tools for Windows Powershell
+.. |pst| replace:: Powershell Tools
 .. |rbflow| replace:: AWS Flow Framework for Ruby
 .. |sdk-android| replace:: AWS Mobile SDK for Android
 .. |sdk-ios| replace:: AWS Mobile SDK for iOS
@@ -346,8 +348,8 @@
 .. |sdk-js| replace:: AWS SDK for JavaScript
 .. |sdk-net| replace:: AWS SDK for .NET
 .. |sdk-nodejs| replace:: AWS SDK for JavaScript
-.. |sdk-php| replace:: AWS SDK for PHP
 .. |sdk-php-v2| replace:: AWS SDK for PHP (V2)
+.. |sdk-php| replace:: AWS SDK for PHP
 .. |sdk-python| replace:: AWS SDK for Python (Boto)
 .. |sdk-ruby| replace:: AWS SDK for Ruby
 .. |sdk-unity| replace:: AWS Mobile SDK for Unity
@@ -445,8 +447,8 @@
 .. |EC2-cli-ref| replace:: |EC2| CLI |ref|
 .. |EC2-gsg| replace:: |EC2| |gsg|
 .. |EC2-qrc| replace:: |EC2| |qrc|
-.. |EC2-ug| replace:: |EC2| |ug| for Linux Instances
 .. |EC2-ug-win| replace:: |EC2| |ug| for Microsoft Windows Instances
+.. |EC2-ug| replace:: |EC2| |ug| for Linux Instances
 .. |ECR-api| replace:: |ECR| |api|
 .. |ECR-ug| replace:: |ECR| |ug|
 .. |ECS-api| replace:: |ECS| |api|
@@ -603,6 +605,7 @@
 .. |cli-ug| replace:: |CLI| |ug|
 .. |jflow-dg| replace:: |jflow| |dg|
 .. |jflow-ref| replace:: |jflow| |ref|
+.. |pst-ug| replace:: |pstlong| |ug|
 .. |rbflow-dg| replace:: |rbflow| |dg|
 .. |rbflow-ref| replace:: |rbflow| |ref|
 .. |sdk-android-api| replace:: |sdk-android| |api|

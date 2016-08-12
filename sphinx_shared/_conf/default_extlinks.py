@@ -22,12 +22,14 @@ if 'intersphinx_mapping' not in locals():
     intersphinx_mapping = {}
 
 intersphinx_mapping.update({
-    'androiddg': (aws_docs_url + '/mobile/sdkforandroid/developerguide', None),
-    'iosdg': (aws_docs_url + '/mobile/sdkforios/developerguide', None),
+    'androiddg': (aws_docs_url + 'mobile/sdkforandroid/developerguide', None),
+    'iosdg': (aws_docs_url + 'mobile/sdkforios/developerguide', None),
     'javadg': (aws_docs_url + 'java-sdk/latest/developer-guide', None),
+    'netdg': (aws_docs_url + 'AWSSdkDocsNET/V2/DeveloperGuide', None),
     'tkeug': (aws_docs_url + 'eclipse-toolkit/latest/user-guide', None),
-    'unitydg': (aws_docs_url + '/mobile/sdkforunity/developerguide', None),
-    'xamarindg': (aws_docs_url + '/mobile/sdkforxamarin/developerguide', None),
+    'tkvug': (aws_docs_url + 'AWSToolkitVS/latest/UserGuide', None),
+    'unitydg': (aws_docs_url + 'mobile/sdkforunity/developerguide', None),
+    'xamarindg': (aws_docs_url + 'mobile/sdkforxamarin/developerguide', None),
     })
 
 # default extlinks.
@@ -93,6 +95,7 @@ extlinks.update({
     's3-bucket-api': (aws_docs_url + 'AmazonS3/latest/API/RESTBucket%s.html', ''),
     's3-object-api': (aws_docs_url + 'AmazonS3/latest/API/RESTObject%s.html', ''),
     's3-service-api': (aws_docs_url + 'AmazonS3/latest/API/RESTService%s.html', ''),
+    'sdk-net-api': (aws_docs_url + 'sdkfornet/v3/apidocs/items/%s.html', ''),
     'sns-api': (aws_docs_url + 'sns/latest/api/API_%s.html', ''),
     'sqs-api': (aws_docs_url + 'AWSSimpleQueueService/latest/APIReference/API_%s.html', ''),
     'sts-api': (aws_docs_url + 'STS/latest/APIReference/API_%s.html', ''),
