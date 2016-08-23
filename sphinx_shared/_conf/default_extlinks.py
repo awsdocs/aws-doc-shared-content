@@ -26,6 +26,7 @@ intersphinx_mapping.update({
     'iosdg': (aws_docs_url + 'mobile/sdkforios/developerguide', None),
     'javadg': (aws_docs_url + 'java-sdk/latest/developer-guide', None),
     'netdg': (aws_docs_url + 'AWSSdkDocsNET/V2/DeveloperGuide', None),
+    'pstug': (aws_docs_url + 'powershell/latest/userguide', None),
     'tkeug': (aws_docs_url + 'eclipse-toolkit/latest/user-guide', None),
     'tkvug': (aws_docs_url + 'AWSToolkitVS/latest/UserGuide', None),
     'unitydg': (aws_docs_url + 'mobile/sdkforunity/developerguide', None),
