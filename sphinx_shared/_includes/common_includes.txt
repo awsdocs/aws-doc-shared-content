@@ -646,3 +646,8 @@
 .. |sdk-ruby-ref| replace:: |sdk-ruby| |ref|
 .. |tke-ug| replace:: |tke| |ug|
 
+.. From Zonbook entities
+   ---------------------
+.. |Rubylong| replace:: AWS SDK for Ruby
+.. |Ruby| replace:: SDK for Ruby
+.. |link-ruby-api| replace:: http://docs.aws.amazon.com/sdkforruby/api
