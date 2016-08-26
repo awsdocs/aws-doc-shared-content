@@ -45,6 +45,8 @@
 .. _EC2long: EC2_
 .. _ELB: http://aws.amazon.com/elasticloadbalancing/
 .. _ELBlong: ELB_
+.. _GL http://aws.amazon.com/glacier
+.. _GLLong GL_
 .. _IAM: http://aws.amazon.com/iam/
 .. _IAMlong: IAM_
 .. _LAM: http://aws.amazon.com/lambda/
