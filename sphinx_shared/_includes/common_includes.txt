@@ -42,7 +42,7 @@
 .. |explorer| replace:: AWS Explorer
 .. |region-api-default| replace:: us-east-1
 .. |region-console-default| replace:: us-west-2
-.. |unixes| replace:: Linux, OS X or unix
+.. |unixes| replace:: Linux, OS X, or Unix
 
 
 .. General informational links
