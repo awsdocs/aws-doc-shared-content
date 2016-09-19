@@ -23,8 +23,9 @@ if 'intersphinx_mapping' not in locals():
 
 intersphinx_mapping.update({
     'androiddg': (aws_docs_url + 'mobile/sdkforandroid/developerguide', None),
+    'cppdg': (aws_docs_url + 'sdk-for-cpp/v1/developer-guide', None),
     'iosdg': (aws_docs_url + 'mobile/sdkforios/developerguide', None),
-    'javadg': (aws_docs_url + 'java-sdk/latest/developer-guide', None),
+    'javadg': (aws_docs_url + 'sdk-for-java/v1/developer-guide', None),
     'netdg': (aws_docs_url + 'AWSSdkDocsNET/V2/DeveloperGuide', None),
     'pstug': (aws_docs_url + 'powershell/latest/userguide', None),
     'tkeug': (aws_docs_url + 'eclipse-toolkit/latest/user-guide', None),
