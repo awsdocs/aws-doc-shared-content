@@ -343,6 +343,8 @@
 .. |pst| replace:: Powershell Tools
 .. |rbflow| replace:: AWS Flow Framework for Ruby
 .. |sdk-android| replace:: AWS Mobile SDK for Android
+.. |sdk-cpp| replace:: AWS SDK for C++
+.. |sdk-go| replace:: AWS SDK for Go
 .. |sdk-ios| replace:: AWS Mobile SDK for iOS
 .. |sdk-java| replace:: AWS SDK for Java
 .. |sdk-js| replace:: AWS SDK for JavaScript
@@ -611,6 +613,8 @@
 .. |sdk-android-api| replace:: |sdk-android| |api|
 .. |sdk-android-dg| replace:: |sdk-android| |dg|
 .. |sdk-android-gsg| replace:: |sdk-android| |gsg|
+.. |sdk-cpp-dg| replace:: AWS C++ |dg|
+.. |sdk-go-dg| replace:: AWS Go |dg|
 .. |sdk-ios-api| replace:: |sdk-ios| |api|
 .. |sdk-ios-dg| replace:: |sdk-ios| |dg|
 .. |sdk-ios-gsg| replace:: |sdk-ios| |gsg|
