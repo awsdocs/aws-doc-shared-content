@@ -449,7 +449,7 @@
 .. |EC2-cli-ref| replace:: |EC2| CLI |ref|
 .. |EC2-gsg| replace:: |EC2| |gsg|
 .. |EC2-qrc| replace:: |EC2| |qrc|
-.. |EC2-ug-win| replace:: |EC2| |ug| for Microsoft Windows Instances
+.. |EC2-ug-win| replace:: |EC2| |ug| for Windows Instances
 .. |EC2-ug| replace:: |EC2| |ug| for Linux Instances
 .. |ECR-api| replace:: |ECR| |api|
 .. |ECR-ug| replace:: |ECR| |ug|
