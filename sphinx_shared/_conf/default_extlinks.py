@@ -8,10 +8,11 @@ aws_docs_url = 'http://docs.aws.amazon.com/'
 # intersphinx locations - with these, you can specify :ref: links directly into
 # various guides. For example:
 #
-#  :ref:`Allow Lambda to assume an IAM role <tke-ug:allow-lam-to-assume-an-iam-role>`
+#  :ref:`tke-ug:allow-lam-to-assume-an-iam-role`
 #
-# You just specify the guide name as the first parameter in the <link>, and
-# then the reference name as the second parameter.
+# You just specify the guide name as the first parameter in the <link>, and then
+# the reference name as the second parameter. The title of the referenced
+# section will be used as the title of the link.
 #
 # For more information, see: http://www.sphinx-doc.org/en/stable/ext/intersphinx.html
 
@@ -24,10 +25,11 @@ if 'intersphinx_mapping' not in locals():
 intersphinx_mapping.update({
     'androiddg': (aws_docs_url + 'mobile/sdkforandroid/developerguide', None),
     'cppdg': (aws_docs_url + 'sdk-for-cpp/v1/developer-guide', None),
-    'godg': (aws_docs_url + 'sdk-for-go/v1/developerguide', None),
+    'godg': (aws_docs_url + 'sdk-for-go/v1/developer-guide', None),
     'iosdg': (aws_docs_url + 'mobile/sdkforios/developerguide', None),
     'javadg': (aws_docs_url + 'sdk-for-java/v1/developer-guide', None),
-    'netdg': (aws_docs_url + 'AWSSdkDocsNET/V2/DeveloperGuide', None),
+    'netdg2': (aws_docs_url + 'sdk-for-net/v2/developer-guide', None),
+    'netdg3': (aws_docs_url + 'sdk-for-net/v3/developer-guide', None),
     'pstug': (aws_docs_url + 'powershell/latest/userguide', None),
     'tkeug': (aws_docs_url + 'toolkit-for-eclipse/v1/user-guide', None),
     'tkvug': (aws_docs_url + 'toolkit-for-visual-studio/latest/user-guide', None),

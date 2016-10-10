@@ -65,8 +65,6 @@
 .. role:: attribname(literal)
 .. role:: classname(literal)
 .. role:: datatypename(literal)
-.. role:: envvar(literal)
-.. role:: filename(literal)
 .. role:: functionname(literal)
 .. role:: methodname(literal)
 .. role:: paramname(emphasis)
