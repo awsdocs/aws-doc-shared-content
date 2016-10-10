@@ -98,8 +98,9 @@ guide_links.txt_ to create extlinks for each guide listed in the file.
 Using extlinks
 ~~~~~~~~~~~~~~
 
-Extlinks follow the same pattern as substitutions, but you'll declare the page name in the extlink's
-body. These do not automatically pick up the page name, so you'll need to name the link yourself.
+`Extlinks <sphinx-extlinks_>`_ follow the same pattern as substitutions, but you'll declare the page
+name in the extlink's body. These do not automatically pick up the page name, so you'll need to name
+the link yourself.
 
 For example: ``:s3-dg:`Working with Amazon S3 Objects <UsingObjects>``` links to the `Working with
 Amazon S3 Objects <http://docs.aws.amazon.com/AmazonS3/latest/dev/UsingObjects.html>`_ topic in the
@@ -112,10 +113,10 @@ Using intersphinx
 ~~~~~~~~~~~~~~~~~
 
 For any AWS documentation built using Sphinx (that is, open-source documentation hosted at
-https://www.github.com/awsdocs/), You can use intersphinx to deep-link within the documentation
-using the standard Sphinx `:ref: <sphinx-inline-ref_>`_ and `:doc: <sphinx-inline-doc_>`_ roles,
-providing the guide's intersphinx prefix as the first parameter of the link, separated with a colon
-(``:``) character.
+https://www.github.com/awsdocs/), You can use `intersphinx <sphinx-intersphinx_>`_ to deep-link
+within the documentation using the standard Sphinx `:ref: <sphinx-inline-ref_>`_ and `:doc:
+<sphinx-inline-doc_>`_ roles, providing the guide's intersphinx prefix as the first parameter of the
+link, separated with a colon (``:``) character.
 
 The list of documentation available (along with the prefixes used to link to them) is contained
 within `default_extlinks.py`_.
@@ -129,7 +130,8 @@ Which will create a link to the topic `Programming AWS Services with the AWS SDK
 <http://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/tutorials-examples.html>`_.
 
 You can use intersphinx to link to *internal references* within a topic, as well. This works with
-any named section in the documentation. For example, to link to the section "Java Futures" in the
+any named section in the documentation. For example, to link to the section `Java Futures
+<http://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/basics-async.html#java-futures>`_ in the
 *AWS SDK for Java Developer Guide*, you'd write::
 
    :ref:`javadg:basics-async-future`
@@ -160,4 +162,6 @@ repository.
 
 .. _sphinx-inline-ref: http://www.sphinx-doc.org/en/stable/markup/inline.html#cross-referencing-arbitrary-locations
 .. _sphinx-inline-doc: http://www.sphinx-doc.org/en/stable/markup/inline.html#cross-referencing-documents
+.. _sphinx-extlinks: http://www.sphinx-doc.org/en/stable/ext/extlinks.html
+.. _sphinx-intersphinx: http://www.sphinx-doc.org/en/stable/ext/intersphinx.html
 
