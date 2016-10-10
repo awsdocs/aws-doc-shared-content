@@ -24,6 +24,11 @@ What's included in the shared content
 
 The shared content is organized into three major categories:
 
+* `Shared roles and substitutions`_
+* `Shared text blocks`_
+* `Shared extlinks and intersphinx links`_
+
+
 Shared roles and substitutions
 ------------------------------
 
@@ -68,8 +73,9 @@ region_includes.txt_
     For example, to refer to the *us-west-2* region, use ``|us-west-2-region|``, which will be
     replaced by "US West (Oregon)" in the text.
 
-Shared text blocks:
--------------------
+
+Shared text blocks
+------------------
 
 Located in the `common <sphinx_shared/common>`_ directory, these files provide common descriptions
 and procedures used in the documentation. They're used like this::
@@ -77,6 +83,9 @@ and procedures used in the documentation. They're used like this::
    .. include:: common/sdk-shared-credentials.txt
 
 Which inserts the contents of sdk-shared-credentials.txt within the topic.
+
+
+.. _shared_links:
 
 Shared extlinks and intersphinx links
 -------------------------------------
