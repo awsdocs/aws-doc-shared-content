@@ -13,9 +13,12 @@
 
    Please try to keep the entries *within each section* in alphabetic order!
 
-   Some general service information (such as service names) is in this file.
+   Some general service information (such as service names) is in this file. Other includes are in
+   separate files in this directory.
 
-   For *links* to these, use the service_links.txt file.
+   * For *links* to these, use the service_links.txt file.
+
+   * Region substitutions such as |region-sdk-default| are in region_includes.txt
 
    Service-specific information (links to specific guide pages, for example), see the
    SVC_includes.txt file (replace *SVC* with the service acronym).
@@ -40,10 +43,7 @@
 .. |cli| replace:: AWS CLI
 .. |console| replace:: AWS Management Console
 .. |explorer| replace:: AWS Explorer
-.. |region-api-default| replace:: us-east-1
-.. |region-console-default| replace:: us-west-2
 .. |unixes| replace:: Linux, OS X, or Unix
-
 
 .. General informational links
    ---------------------------
