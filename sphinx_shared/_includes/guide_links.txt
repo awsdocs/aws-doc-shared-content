@@ -241,7 +241,7 @@
 .. _sdk-java-dg: http://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/
 .. _sdk-java-ref: http://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/
 .. _sdk-js-ref: http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/
-.. _sdk-mobile-dg: http://docs.aws.amazon.com/mobile/
+.. _sdk-mobile-dg: http://docs.aws.amazon.com/mobile-hub/latest/developerguide/
 .. _sdk-net-api-v2: http://docs.aws.amazon.com/sdkfornet/latest/apidocs/
 .. _sdk-net-api-v3: http://docs.aws.amazon.com/sdkfornet/v3/apidocs/
 .. _sdk-net-api: http://docs.aws.amazon.com/sdkfornet/v3/apidocs/
