@@ -45,8 +45,8 @@
 .. _EC2long: EC2_
 .. _ELB: http://aws.amazon.com/elasticloadbalancing/
 .. _ELBlong: ELB_
-.. _GL http://aws.amazon.com/glacier
-.. _GLLong GL_
+.. _GL: http://aws.amazon.com/glacier
+.. _GLLong: GL_
 .. _IAM: http://aws.amazon.com/iam/
 .. _IAMlong: IAM_
 .. _LAM: http://aws.amazon.com/lambda/
@@ -128,4 +128,8 @@
 
 .. |signing-requests| replace:: Authenticating Requests
 .. _signing-requests: http://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-authenticating-requests.html
+
+.. |sdk-doc-examples| replace:: AWS SDK Documentation Examples on GitHub
+.. _sdk-doc-examples: https://github.com/awsdocs/aws-doc-sdk-examples
+.. _sdk-doc-examples-dl: https://github.com/awsdocs/aws-doc-sdk-examples/archive/master.zip
 

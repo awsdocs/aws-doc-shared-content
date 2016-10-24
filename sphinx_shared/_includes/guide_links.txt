@@ -228,12 +228,17 @@
 .. _sdk-android-dg: http://docs.aws.amazon.com/mobile/sdkforandroid/developerguide/
 .. _sdk-android-gsg: http://docs.aws.amazon.com/mobile/sdkforandroid/gsg/
 .. _sdk-android-ref: http://docs.aws.amazon.com/AWSAndroidSDK/latest/javadoc/
+.. _sdk-cpp-dg-v1: http://docs.aws.amazon.com/sdk-for-cpp/v1/developer-guide/
+.. _sdk-cpp-dg: http://docs.aws.amazon.com/sdk-for-cpp/latest/developer-guide/
+.. _sdk-go-dg-v1: http://docs.aws.amazon.com/sdk-for-go/v1/developerguide/welcome.html
+.. _sdk-go-dg: http://docs.aws.amazon.com/sdk-for-go/v1/developerguide/welcome.html
 .. _sdk-ios-api: http://docs.aws.amazon.com/AWSiOSSDK/latest/
 .. _sdk-ios-dg: http://docs.aws.amazon.com/mobile/sdkforios/developerguide/
 .. _sdk-ios-gsg: http://docs.aws.amazon.com/mobile/sdkforios/gsg/
 .. _sdk-ios-ref: http://docs.aws.amazon.com/AWSiOSSDK/latest/
 .. _sdk-java-api: http://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/
-.. _sdk-java-dg: http://docs.aws.amazon.com/java-sdk/latest/developer-guide/
+.. _sdk-java-dg-v1: http://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/
+.. _sdk-java-dg: http://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/
 .. _sdk-java-ref: http://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/
 .. _sdk-js-ref: http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/
 .. _sdk-mobile-dg: http://docs.aws.amazon.com/mobile/
@@ -267,6 +272,8 @@
 .. _sdk-unity-ref: http://docs.aws.amazon.com/mobile/sdkforunity/developerguide/
 .. _sdk-xamarin-dg: http://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/
 .. _sdk-xamarin-ref: http://docs.aws.amazon.com/sdkfornet/v3/apidocs/
-.. _tke-gsg: http://docs.aws.amazon.com/eclipse-toolkit/latest/user-guide/
-.. _tke-ug: http://docs.aws.amazon.com/eclipse-toolkit/latest/user-guide/
+.. _tke-gsg-v1: http://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
+.. _tke-gsg: http://docs.aws.amazon.com/toolkit-for-eclipse/latest/user-guide/
+.. _tke-ug-v1: http://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
+.. _tke-ug: http://docs.aws.amazon.com/toolkit-for-eclipse/latest/user-guide/
 
