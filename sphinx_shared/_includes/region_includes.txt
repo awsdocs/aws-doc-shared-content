@@ -15,36 +15,45 @@
 
 .. |region-sdk-default| replace:: USEast1
 
-.. |apnortheast1-name| replace:: Asia Pacific (Tokyo) region
+.. |apnortheast1-name| replace:: Asia Pacific (Tokyo) Region
 .. |region-ap-northeast-1| replace:: Asia Pacific (Tokyo)
 
-.. |apsoutheast1-name| replace:: Asia Pacific (Singapore) region
+.. |apnortheast2-name| replace:: Asia Pacific (Seoul) Region
+.. |region-ap-northeast-2| replace:: Asia Pacific (Seoul)
+
+.. |apsouth1-name| replace:: Asia Pacific (Mumbai) Region
+.. |region-ap-south-1| replace:: Asia Pacific (Mumbai)
+
+.. |apsoutheast1-name| replace:: Asia Pacific (Singapore) Region
 .. |region-ap-southeast-1| replace:: Asia Pacific (Singapore)
 
-.. |apsoutheast2-name| replace:: Asia Pacific (Sydney) region
+.. |apsoutheast2-name| replace:: Asia Pacific (Sydney) Region
 .. |region-ap-southeast-2| replace:: Asia Pacific (Sydney)
 
-.. |cnnorth1-name| replace:: China (Beijing) region
+.. |cnnorth1-name| replace:: China (Beijing) Region
 .. |region-cn-north-1| replace:: China (Beijing)
 
-.. |euwest1-name| replace:: EU (Ireland) region
+.. |euwest1-name| replace:: EU (Ireland) Region
 .. |region-eu-west-1| replace:: EU (Ireland)
 
-.. |eucentral1-name| replace:: EU (Frankfurt) region
+.. |eucentral1-name| replace:: EU (Frankfurt) Region
 .. |region-eu-central-1| replace:: EU (Frankfurt)
 
 .. |govuswest1-name| replace:: AWS GovCloud (US)
 .. |region-gov-us-west-1| replace:: AWS GovCloud (US)
 
-.. |saeast1-name| replace:: South America (Sao Paulo) region
+.. |saeast1-name| replace:: South America (Sao Paulo) Region
 .. |region-sa-east-1| replace:: South America (Sao Paulo)
 
-.. |useast1-name| replace:: US East (N. Virginia) region
+.. |useast1-name| replace:: US East (N. Virginia) Region
 .. |region-us-east-1| replace:: US East (N. Virginia)
 
-.. |uswest1-name| replace:: US West (N. California) region
+.. |useast2-name| replace:: US East (Ohio) Region
+.. |region-us-east-2| replace:: US East (Ohio)
+
+.. |uswest1-name| replace:: US West (N. California) Region
 .. |region-us-west-1| replace:: US West (N. California)
 
-.. |uswest2-name| replace:: US West (Oregon) region
+.. |uswest2-name| replace:: US West (Oregon) Region
 .. |region-us-west-2| replace:: US West (Oregon)
 
