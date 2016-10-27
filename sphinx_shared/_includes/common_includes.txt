@@ -468,6 +468,7 @@
 .. |EMR-api| replace:: |EMR| |api|
 .. |EMR-dg| replace:: |EMR| |dg|
 .. |EMR-gsg| replace:: |EMR| |gsg|
+.. |EMR-mg| replace:: |EMR| Management Guide
 .. |EMR-qrc| replace:: |EMR| |qrc|
 .. |ES-api| replace:: |ES| REST Configuration |api|
 .. |ES-dg| replace:: |ES| |dg|

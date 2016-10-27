@@ -94,6 +94,7 @@
 .. _EMR-api: http://docs.aws.amazon.com/ElasticMapReduce/latest/API/
 .. _EMR-dg: http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/
 .. _EMR-gsg: http://docs.aws.amazon.com/ElasticMapReduce/latest/GettingStartedGuide/
+.. _EMR-mg: http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/
 .. _ES-dg: http://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/
 .. _ET-dg: http://docs.aws.amazon.com/elastictranscoder/latest/developerguide/
 .. _FF-dg: http://docs.aws.amazon.com/amazonswf/latest/awsflowguide/
