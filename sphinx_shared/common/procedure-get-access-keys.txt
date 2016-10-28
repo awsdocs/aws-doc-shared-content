@@ -14,43 +14,39 @@ using the |console|_. We recommend that you use IAM access keys instead of AWS r
 keys. IAM lets you securely control access to AWS services and resources in your AWS account.
 
 .. note:: To create access keys, you must have permissions to perform the required IAM actions. For
-    more information, see `Granting IAM User Permission to Manage Password Policy and Credentials`__
-    in the |iam-ug|.
+   more information, see :iam-ug:`Granting IAM User Permission to Manage Password Policy and
+   Credentials <PasswordPolicyPermission>` in the |iam-ug|.
 
-.. __: http://docs.aws.amazon.com/IAM/latest/UserGuide/PasswordPolicyPermission.html
+.. topic:: To get your access key ID and secret access key
 
-**To get your access key ID and secret access key**
+    #. Open the :console:`IAM console <iam>`.
 
-1. Open the :console:`IAM console <iam>`.
+    #. From the navigation menu, click :guilabel:`Users`.
 
-2. From the navigation menu, click :guilabel:`Users`.
+    #. Select your IAM user name.
 
-3. Select your IAM user name.
+    #. Click :guilabel:`User Actions`, and then click :guilabel:`Manage Access Keys`.
 
-4. Click :guilabel:`User Actions`, and then click :guilabel:`Manage Access Keys`.
+    #. Click :guilabel:`Create Access Key`.
 
-5. Click :guilabel:`Create Access Key`.
+        Your keys will look something like this:
 
-    Your keys will look something like this:
+        + Access key ID example: ``AKIAIOSFODNN7EXAMPLE``
 
-    * Access key ID example: ``AKIAIOSFODNN7EXAMPLE``
+        + Secret access key example: ``wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY``
 
-    * Secret access key example: ``wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY``
+    #. Click :guilabel:`Download Credentials`, and store the keys in a secure location.
 
-6. Click :guilabel:`Download Credentials`, and store the keys in a secure location.
+   .. important:: Your secret key will no longer be available through the |console|; you will have
+      the only copy. Keep it confidential in order to protect your account, and never email it. Do
+      not share it outside your organization, even if an inquiry appears to come from AWS or
+      Amazon.com.
 
-.. important:: Your secret key will no longer be available through the AWS Management Console; you
-    will have the only copy. Keep it confidential in order to protect your account, and never email it.
-    Do not share it outside your organization, even if an inquiry appears to come from AWS or
-    Amazon.com. *No one who legitimately represents Amazon will ever ask you for your secret key.*
+      *No one who legitimately represents Amazon will ever ask you for your secret key.*
 
 **Related topics**
 
-* `What Is IAM?`__ in |iam-ug|.
+* :iam-ug:`What Is IAM? <introduction>` in |iam-ug|.
 
-.. __: http://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
-
-* `AWS Security Credentials`__ in |aws-gr|.
-
-.. __: http://docs.aws.amazon.com/general/latest/gr/aws-security-credentials.html
+* :aws-gr:`AWS Security Credentials <aws-security-credentials>` in |aws-gr|.
 

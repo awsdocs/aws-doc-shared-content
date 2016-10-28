@@ -8,21 +8,20 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-**To override the default credentials file location**
+.. topic:: To override the default credentials file location
 
-* Set the |aws-credfile-var| environment variable to the location of your AWS
-  credentials file.
+    * Set the |aws-credfile-var| environment variable to the location of your AWS
+      credentials file.
 
-  * On |unixes|, use :command:`export`:
+      * On |unixes|, use :command:`export`:
 
-    .. code-block:: sh
+        .. code-block:: sh
 
-     export AWS_CREDENTIAL_PROFILES_FILE=path/to/credentials_file
+            export AWS_CREDENTIAL_PROFILES_FILE=path/to/credentials_file
 
-  * On Windows, use :command:`set`:
+      * On Windows, use :command:`set`:
 
-    .. code-block:: bat
+        .. code-block:: bat
 
-     set AWS_CREDENTIAL_PROFILES_FILE=path/to/credentials_file
-
+            set AWS_CREDENTIAL_PROFILES_FILE=path/to/credentials_file
 
