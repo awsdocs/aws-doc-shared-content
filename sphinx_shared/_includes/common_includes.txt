@@ -282,6 +282,7 @@
 .. |R53| replace:: Amazon Route 53
 .. |RClong| replace:: Amazon Remote Configuration
 .. |RC| replace:: Amazon Remote Configuration
+.. |RDS-pricing| replace:: Amazon RDS Pricing
 .. |RDSlong| replace:: Amazon Relational Database Service
 .. |RDS| replace:: Amazon RDS
 .. |RSlong| replace:: Amazon Redshift
