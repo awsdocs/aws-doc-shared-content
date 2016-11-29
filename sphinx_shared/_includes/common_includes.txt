@@ -374,6 +374,7 @@
    -------------------
 .. |AAS-dg| replace:: |AAS| |dg|
 .. |AB-ug| replace:: |AB| |ug|
+.. |ABP-dg| replace:: |ABP| |dg|
 .. |ACC-api| replace:: |ACC| |api|
 .. |ACC-cli| replace:: |ACC| CLI |ref|
 .. |ACC-ug| replace:: |ACC| |ug|
