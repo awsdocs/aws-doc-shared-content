@@ -15,7 +15,7 @@ keys. IAM lets you securely control access to AWS services and resources in your
 
 .. note:: To create access keys, you must have permissions to perform the required IAM actions. For
    more information, see :iam-ug:`Granting IAM User Permission to Manage Password Policy and
-   Credentials <PasswordPolicyPermission>` in the |iam-ug|.
+   Credentials <id_credentials_delegate-permissions>` in the |iam-ug|.
 
 .. topic:: To get your access key ID and secret access key
 
@@ -47,6 +47,5 @@ keys. IAM lets you securely control access to AWS services and resources in your
 **Related topics**
 
 * :iam-ug:`What Is IAM? <introduction>` in |iam-ug|.
-
 * :aws-gr:`AWS Security Credentials <aws-security-credentials>` in |aws-gr|.
 
