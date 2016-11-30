@@ -12,7 +12,8 @@
 
 import os, codecs
 
-rst_epilog = ''
+# start with a newline, in case the file doesn't end with one...
+rst_epilog = '\n'
 
 common_includes = [
     '_includes/common_includes.txt',
