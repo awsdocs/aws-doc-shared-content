@@ -89,7 +89,6 @@ extlinks.update(get_guide_extlinks())
 # pattern of 'guide_url/%s.html'
 extlinks.update({
     # links to API pages or other non-standard guide links.
-    'blog': ('https://aws.amazon.com/blogs/%s', ''),
     'cog-api': (aws_docs_url + 'cognitoidentity/latest/APIReference/API_%s.html', ''),
     'ec2-api': (aws_docs_url + 'AWSEC2/latest/APIReference/API_%s.html', ''),
     'emr-api': (aws_docs_url + 'ElasticMapReduce/latest/API/API_%s.html', ''),
@@ -108,30 +107,19 @@ extlinks.update({
     'sts-api': (aws_docs_url + 'STS/latest/APIReference/API_%s.html', ''),
     'swf-api': (aws_docs_url + 'amazonswf/latest/apireference/API_%s.html', ''),
 
-    #
-    # Note: to use the 'rande' or 'console' extlinks, specify link text that
-    # includes the service's upper-case TLA, and use the lower-case version of
-    # the TLA as the link address. For example:
-    #
-    #    :rande:`Regions and Endpoints: SWF <swf>`
-    #
-    # Which will render as:
-    #
-    #   Regions and Endpoints: SWF
-    #
-    # and link to:
-    #
-    #   http://docs.aws.amazon.com/general/latest/gr/rande.html#swf_region
-    #
+    # AWS Blogs. Specify the URL past the initial address.
+    # Ex. :blog:`developer/category/java`
+    'blog': ('https://aws.amazon.com/blogs/%s', ''),
+
+    # AWS Management Console links - Specify the service TLA.
+    # Ex. :console:`IAM console <iam>`
+    'console': ('https://console.aws.amazon.com/%s/home', ''),
+
+    # AWS Regions and Endpoints - Specify the service TLA.
+    # Ex. :rande:`Regions and Endpoints: SWF <swf>`
     'rande': (aws_docs_url + 'general/latest/gr/rande.html#%s_region', ''),
-    #
-    #    :console:`IAM console <iam>`
-    #
-    'console': ('https://console.aws.amazon.com/%s', ''),
-    #
-    # For AWS forums. Use like this:
-    #
-    #    :forum:`Mobile Developer forum <88>`
+
+    # Ex. :forum:`Mobile Developer forum <88>`
     #
     'forum': ('http://forums.aws.amazon.com/forum.jspa?forumID=%s', ''),
     })
