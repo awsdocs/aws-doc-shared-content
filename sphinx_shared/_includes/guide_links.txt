@@ -49,7 +49,7 @@
 .. _CFN-gsg: https://docs.aws.amazon.com/AWSCloudFormation/latest/GettingStartedGuide/
 .. _CFN-ug: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/
 .. _COG-api: https://docs.aws.amazon.com/cognitoidentity/latest/APIReference/
-.. _COG-dg: https://docs.aws.amazon.com/cognito/devguide/
+.. _COG-dg: https://docs.aws.amazon.com/cognito/developerguide/
 .. _COGSYNC-api: https://docs.aws.amazon.com/cognitosync/latest/APIReference/
 .. _CS-dg: https://docs.aws.amazon.com/cloudsearch/latest/developerguide/
 .. _CT-api: https://docs.aws.amazon.com/awscloudtrail/latest/APIReference/
@@ -214,7 +214,7 @@
 .. _WM-admin: https://docs.aws.amazon.com/workmail/latest/adminguide/
 .. _WM-ug: https://docs.aws.amazon.com/workmail/latest/userguide/
 .. _WSP-admin: https://docs.aws.amazon.com/workspaces/latest/adminguide/
-.. _WSP-dg: https://docs.aws.amazon.com/workspaces/latest/devguide/
+.. _WSP-api: https://docs.aws.amazon.com/workspaces/latest/api/
 
 .. SDK/framework/toolkit guide links
    ---------------------------------
