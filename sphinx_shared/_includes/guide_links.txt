@@ -49,7 +49,7 @@
 .. _CFN-gsg: https://docs.aws.amazon.com/AWSCloudFormation/latest/GettingStartedGuide/
 .. _CFN-ug: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/
 .. _COG-api: https://docs.aws.amazon.com/cognitoidentity/latest/APIReference/
-.. _COG-dg: https://docs.aws.amazon.com/cognito/developerguide/
+.. _COG-dg: https://docs.aws.amazon.com/cognito/latest/developerguide/
 .. _COGSYNC-api: https://docs.aws.amazon.com/cognitosync/latest/APIReference/
 .. _CS-dg: https://docs.aws.amazon.com/cloudsearch/latest/developerguide/
 .. _CT-api: https://docs.aws.amazon.com/awscloudtrail/latest/APIReference/
