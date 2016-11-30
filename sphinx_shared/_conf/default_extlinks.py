@@ -3,7 +3,7 @@
 # External link (intersphinx + extlink) definitions
 
 # this is used throughout.
-aws_docs_url = 'http://docs.aws.amazon.com/'
+aws_docs_url = 'https://docs.aws.amazon.com/'
 
 # intersphinx locations - with these, you can specify :ref: links directly into
 # various guides. For example:
@@ -89,6 +89,7 @@ extlinks.update(get_guide_extlinks())
 # pattern of 'guide_url/%s.html'
 extlinks.update({
     # links to API pages or other non-standard guide links.
+    'blog': ('https://aws.amazon.com/blogs/%s', ''),
     'cog-api': (aws_docs_url + 'cognitoidentity/latest/APIReference/API_%s.html', ''),
     'ec2-api': (aws_docs_url + 'AWSEC2/latest/APIReference/API_%s.html', ''),
     'emr-api': (aws_docs_url + 'ElasticMapReduce/latest/API/API_%s.html', ''),
