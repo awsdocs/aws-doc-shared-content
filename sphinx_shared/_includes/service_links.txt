@@ -99,7 +99,7 @@
 .. _cli-docs: https://aws.amazon.com/documentation/cli/
 .. _cli: https://aws.amazon.com/cli/
 .. _clilong: cli_
-.. _console: https://console.aws.amazon.com/
+.. _console: https://console.aws.amazon.com/console/home
 .. _sdk-android: https://aws.amazon.com/mobile/sdk/
 .. _sdk-ios: https://aws.amazon.com/mobile/sdk/
 .. _sdk-java: https://aws.amazon.com/sdk-for-java/
