@@ -30,8 +30,10 @@
 .. _AKF: https://aws.amazon.com/kinesis/firehose/
 .. _AKFlong: AKF_
 .. _AKlong: AK_
-.. _CF: https://aws.amazon.com/cloudformation/
+.. _CF: https://aws.amazon.com/cloudfront/
 .. _CFlong: CF_
+.. _CFN: https://aws.amazon.com/cloudformation/
+.. _CFNlong: CFN_
 .. _COG: https://aws.amazon.com/cognito/
 .. _COGID: COG_
 .. _COGSync: COG_
