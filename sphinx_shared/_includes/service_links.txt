@@ -20,6 +20,7 @@
    ---------------
 .. _aws-tools: https://aws.amazon.com/tools/
 .. _ec2-pricing: https://aws.amazon.com/ec2/pricing/
+.. _ec2-instance-types: https://aws.amazon.com/ec2/instance-types/
 
 
 .. Service links
