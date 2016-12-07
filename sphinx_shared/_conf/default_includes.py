@@ -29,3 +29,8 @@ for i in common_includes:
         rst_epilog += f.read()
         f.close()
 
+if 'exclude_patterns' not in vars():
+    exclude_patterns = []
+
+exclude_patterns.append('README.*')
+
