@@ -274,8 +274,8 @@
 .. _sdk-xamarin-dg: https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/
 .. _sdk-xamarin-ref: https://docs.aws.amazon.com/sdkfornet/v3/apidocs/
 .. _tke-gsg-v1: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
-.. _tke-gsg: https://docs.aws.amazon.com/toolkit-for-eclipse/latest/user-guide/
+.. _tke-gsg: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _tke-ug-v1: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
-.. _tke-ug: https://docs.aws.amazon.com/toolkit-for-eclipse/latest/user-guide/
+.. _tke-ug: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 
 
