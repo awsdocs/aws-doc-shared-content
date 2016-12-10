@@ -10,8 +10,8 @@
 
 .. topic:: To sign up for AWS
 
-    #. Open http://aws.amazon.com/ and click :guilabel:`Sign Up`.
+   #. Open https://aws.amazon.com/ and click :guilabel:`Sign Up`.
 
-    #. Follow the on-screen instructions. Part of the sign-up procedure involves receiving a phone
-       call and entering a PIN using your phone keypad.
+   #. Follow the on-screen instructions. Part of the sign-up procedure involves receiving a phone
+      call and entering a PIN using your phone keypad.
 
