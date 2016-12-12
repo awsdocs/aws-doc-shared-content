@@ -115,12 +115,15 @@ extlinks.update({
     # Ex. :console:`IAM console <iam>`
     'console': ('https://console.aws.amazon.com/%s/home', ''),
 
+    # Ex. :forum:`Mobile Developer forum <88>`
+    'forum': ('https://forums.aws.amazon.com/forum.jspa?forumID=%s', ''),
+
+    # Ex. :forum:`Amazon S3 pricing <s3>`
+    'pricing': ('https://aws.amazon.com/%s/pricing/', ''),
+
     # AWS Regions and Endpoints - Specify the service TLA.
     # Ex. :rande:`Regions and Endpoints: SWF <swf>`
     'rande': (aws_docs_url + 'general/latest/gr/rande.html#%s_region', ''),
 
-    # Ex. :forum:`Mobile Developer forum <88>`
-    #
-    'forum': ('http://forums.aws.amazon.com/forum.jspa?forumID=%s', ''),
     })
 
