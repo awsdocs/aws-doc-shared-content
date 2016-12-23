@@ -432,6 +432,7 @@
 .. |CW-dg| replace:: |CW| |dg|
 .. |CW-gsg| replace:: |CW| |gsg|
 .. |CW-qrc| replace:: |CW| |qrc|
+.. |CW-ug| replace:: |CW| |ug|
 .. |CWE-api| replace:: |CWE| |api|
 .. |CWL-api| replace:: |CWL| |api|
 .. |CWL-dg| replace:: |CWL| |dg|
