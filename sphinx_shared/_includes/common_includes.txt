@@ -1,4 +1,4 @@
-.. Copyright 2010-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+.. Copyright 2010-2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
    This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
    International License (the "License"). You may not use this file except in compliance with the
@@ -36,9 +36,14 @@
 .. |ARNlong| replace:: Amazon Resource Name
 .. |AWSlong| replace:: Amazon Web Services
 .. |JSONlong| replace:: JavaScript Object Notation
+.. |aws-accesskey-var| replace:: :envvar:`AWS_ACCESS_KEY_ID`
+.. |aws-configfile-loc-unixes| replace:: :file:`~/.aws/config`
+.. |aws-configfile-loc-windows| replace:: :file:`C:\\Users\\USERNAME\\.aws\\config`
 .. |aws-credfile-loc-unixes| replace:: :file:`~/.aws/credentials`
 .. |aws-credfile-loc-windows| replace:: :file:`C:\\Users\\USERNAME\\.aws\\credentials`
-.. |aws-credfile-var| replace:: :file:`AWS_CREDENTIAL_PROFILES_FILE`
+.. |aws-credfile-var| replace:: :envvar:`AWS_CREDENTIAL_PROFILES_FILE`
+.. |aws-region-var| replace:: :envvar:`AWS_REGION`
+.. |aws-secretkey-var| replace:: :envvar:`AWS_SECRET_ACCESS_KEY`
 .. |clilong| replace:: AWS Command Line Interface
 .. |cli| replace:: AWS CLI
 .. |console| replace:: AWS Management Console
