@@ -8,7 +8,7 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-.. Common includes for AWS documentation projects
+   Common includes for AWS documentation projects
    ==============================================
 
    Please try to keep the entries *within each section* in alphabetic order!
@@ -36,14 +36,14 @@
 .. |ARNlong| replace:: Amazon Resource Name
 .. |AWSlong| replace:: Amazon Web Services
 .. |JSONlong| replace:: JavaScript Object Notation
-.. |aws-accesskey-var| replace:: :envvar:`AWS_ACCESS_KEY_ID`
+.. |aws-accesskey-var| replace:: :code:`AWS_ACCESS_KEY_ID`
 .. |aws-configfile-loc-unixes| replace:: :file:`~/.aws/config`
 .. |aws-configfile-loc-windows| replace:: :file:`C:\\Users\\USERNAME\\.aws\\config`
 .. |aws-credfile-loc-unixes| replace:: :file:`~/.aws/credentials`
 .. |aws-credfile-loc-windows| replace:: :file:`C:\\Users\\USERNAME\\.aws\\credentials`
-.. |aws-credfile-var| replace:: :envvar:`AWS_CREDENTIAL_PROFILES_FILE`
-.. |aws-region-var| replace:: :envvar:`AWS_REGION`
-.. |aws-secretkey-var| replace:: :envvar:`AWS_SECRET_ACCESS_KEY`
+.. |aws-credfile-var| replace:: :code:`AWS_CREDENTIAL_PROFILES_FILE`
+.. |aws-region-var| replace:: :code:`AWS_REGION`
+.. |aws-secretkey-var| replace:: :code:`AWS_SECRET_ACCESS_KEY`
 .. |clilong| replace:: AWS Command Line Interface
 .. |cli| replace:: AWS CLI
 .. |console| replace:: AWS Management Console
