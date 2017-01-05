@@ -30,10 +30,9 @@
 .. |mdash| unicode:: U+2014
    :trim:
 
-
 .. Common terms and substitutions
    ------------------------------
-.. |ARNlong| replace:: Amazon Resource Name
+.. |arnlong| replace:: Amazon Resource Name
 .. |AWSlong| replace:: Amazon Web Services
 .. |JSONlong| replace:: JavaScript Object Notation
 .. |aws-accesskey-var| replace:: :code:`AWS_ACCESS_KEY_ID`
@@ -130,9 +129,9 @@
 
 .. Services
    --------
-.. |AASlong| replace:: |AAS|
+.. |AASlong| replace:: Amazon AppStream
 .. |AAS| replace:: Amazon AppStream
-.. |ABPlong| replace:: Amazon |ABP|
+.. |ABPlong| replace:: Amazon API Gateway
 .. |ABP| replace:: API Gateway
 .. |ABlong| replace:: AWS |AB|
 .. |AB| replace:: Billing and Cost Management
@@ -170,9 +169,9 @@
 .. |AS| replace:: Auto Scaling
 .. |ATPlong| replace:: AWS Device Farm
 .. |ATP| replace:: Device Farm
-.. |ATSlong| replace:: |ATS|
+.. |ATSlong| replace:: Alexa Top Sites
 .. |ATS| replace:: Alexa Top Sites
-.. |AWISlong| replace:: |AWIS|
+.. |AWISlong| replace:: Alexa Web Information Service
 .. |AWIS| replace:: Alexa Web Information Service
 .. |AWSDClong| replace:: AWS Direct Connect
 .. |AWSDC| replace:: AWS Direct Connect
@@ -184,20 +183,20 @@
 .. |AWSTA| replace:: Trusted Advisor
 .. |CClong| replace:: AWS Config
 .. |CC| replace:: AWS Config
-.. |CDlong| replace:: AWS |CD|
+.. |CDlong| replace:: AWS CodeDeploy
 .. |CD| replace:: CodeDeploy
 .. |CFNlong| replace:: AWS CloudFormation
 .. |CFN| replace:: CloudFormation
-.. |CFlong| replace:: Amazon |CF|
+.. |CFlong| replace:: Amazon CloudFront
 .. |CF| replace:: CloudFront
 .. |CLIlong| replace:: AWS Command Line Interface
 .. |CLI| replace:: AWS CLI
 .. |COGID| replace:: Amazon Cognito Identity
 .. |COGSYNClong| replace:: Amazon Cognito Sync
 .. |COGSYNC| replace:: Amazon Cognito Sync
-.. |COGlong| replace:: |COG|
+.. |COGlong| replace:: Amazon Cognito
 .. |COG| replace:: Amazon Cognito
-.. |CSlong| replace:: |CS|
+.. |CSlong| replace:: Amazon CloudSearch
 .. |CS| replace:: Amazon CloudSearch
 .. |CTlong| replace:: AWS CloudTrail
 .. |CT| replace:: CloudTrail
@@ -216,11 +215,11 @@
 .. |DSlong| replace:: DynamoDB Streams
 .. |DS| replace:: Streams
 .. |Disklong| replace:: AWS Import/Export Disk
-.. |EBSencryptlong| replace:: |EBS| Encryption
-.. |EBSencrypt| replace:: |EBS| encryption
+.. |EBSencryptlong| replace:: Amazon EBS Encryption
+.. |EBSencrypt| replace:: Amazon EBS encryption
 .. |EBSlong| replace:: Amazon Elastic Block Store
 .. |EBS| replace:: Amazon EBS
-.. |EBlong| replace:: AWS |EB|
+.. |EBlong| replace:: AWS Elastic Beanstalk
 .. |EB| replace:: Elastic Beanstalk
 .. |EC2long| replace:: Amazon Elastic Compute Cloud
 .. |EC2| replace:: Amazon EC2
@@ -231,6 +230,7 @@
 .. |EFSlong| replace:: Amazon Elastic File System
 .. |EFS| replace:: Amazon EFS
 .. |ELBlong| replace:: Elastic Load Balancing
+.. |GOVCLOUD-US| replace:: AWS GovCloud (US)
 .. |ELB| replace:: Elastic Load Balancing
 .. |ELClong| replace:: Amazon ElastiCache
 .. |ELC| replace:: ElastiCache
@@ -294,7 +294,7 @@
 .. |RS| replace:: Amazon Redshift
 .. |S3long| replace:: Amazon Simple Storage Service
 .. |S3| replace:: Amazon S3
-.. |SClong| replace:: |SC|
+.. |SClong| replace:: AWS Service Catalog
 .. |SC| replace:: AWS Service Catalog
 .. |SDBlong| replace:: Amazon SimpleDB
 .. |SDB| replace:: Amazon SimpleDB
@@ -343,8 +343,8 @@
    -----------------------------------------------
 .. |awsflow| replace:: AWS Flow Framework
 .. |jflow| replace:: AWS Flow Framework for Java
-.. |pstlong| replace:: AWS Tools for Windows Powershell
-.. |pst| replace:: Powershell Tools
+.. |pstlong| replace:: AWS Tools for Windows PowerShell
+.. |pst| replace:: PowerShell Tools
 .. |rbflow| replace:: AWS Flow Framework for Ruby
 .. |sdk-android| replace:: AWS Mobile SDK for Android
 .. |sdk-cpp| replace:: AWS SDK for C++
@@ -363,297 +363,283 @@
 .. |tke| replace:: AWS Toolkit for Eclipse
 
 
-.. Guide types
-   -----------
-.. |ag| replace:: Administration Guide
-.. |api| replace:: API Reference
-.. |dg| replace:: Developer Guide
-.. |gsg| replace:: Getting Started Guide
-.. |qrc| replace:: Quick Reference Card
-.. |qsg| replace:: Quick Start Guide
-.. |ref| replace:: Reference
-.. |ug| replace:: User Guide
-
-
 .. Service Guide names
    -------------------
-.. |AAS-dg| replace:: |AAS| |dg|
-.. |AB-ug| replace:: |AB| |ug|
-.. |ABP-dg| replace:: |ABP| |dg|
-.. |ACC-api| replace:: |ACC| |api|
-.. |ACC-cli| replace:: |ACC| CLI |ref|
-.. |ACC-ug| replace:: |ACC| |ug|
-.. |ACD-api| replace:: |ACD| |api|
-.. |ACD-cli-ref| replace:: |ACD| CLI |ref|
-.. |ACD-ug| replace:: |ACD| |ug|
-.. |ACM-api| replace:: ACM |api|
-.. |ACM-ug| replace:: ACM |ug|
-.. |ACP-api| replace:: |ACP| |api|
-.. |ACP-cli-ref| replace:: |ACP| CLI |ref|
-.. |ACP-ug| replace:: |ACP| |ug|
-.. |ADS-ag| replace:: |ADS| |ag|
-.. |ADS-dg| replace:: |ADS| |api|
-.. |AEB-api| replace:: |AEB| |api|
-.. |AEB-dg| replace:: |AEB| |dg|
-.. |AGS-api| replace:: |AGS| |api|
-.. |AGS-dg| replace:: |AGS| |dg|
-.. |AK-api| replace:: |AK| |api|
-.. |AK-dg| replace:: |AK| |dg|
-.. |AKA-dg| replace:: |AKA| |dg|
-.. |AKF-api| replace:: |AKF| |api|
-.. |AKF-dg| replace:: |AKF| |dg|
-.. |AKS-api| replace:: |AKS| |api|
-.. |AKS-dg| replace:: |AKS| |dg|
-.. |ALY-dg| replace:: |ALY| |dg|
-.. |ALY-gsg| replace:: |ALY| |gsg|
-.. |ALY-qsg| replace:: |ALY| Quick Start Guide
-.. |ALY-ug| replace:: |ALY| |ug|
-.. |AMP-ug| replace:: |AMP| |ug|
-.. |AS-api| replace:: |AS| |api|
-.. |AS-dg| replace:: |AS| |dg|
-.. |AS-gsg| replace:: |AS| |gsg|
-.. |ATP-dg| replace:: |ATP| |dg|
-.. |AWS-gr| replace:: |AWSlong| General Reference
-.. |AWSDC-api| replace:: |AWSDC| |api|
-.. |AWSDC-ug| replace:: |AWSDC| |ug|
-.. |AWSSG-api| replace:: |AWSSG| |api|
-.. |AWSSG-ug| replace:: |AWSSG| |ug|
-.. |CC-api| replace:: |CC| |api|
-.. |CC-dg| replace:: |CC| |dg|
-.. |CF-api| replace:: |CF| |api|
-.. |CF-dg| replace:: |CF| |dg|
-.. |CFN-api| replace:: |CFN| |api|
-.. |CFN-gsg| replace:: |CFN| |gsg|
-.. |CFN-ug| replace:: |CFN| |ug|
-.. |COG-api| replace:: |COG| |api|
-.. |COG-dg| replace:: |COG| |dg|
-.. |COGSYNC-api| replace:: |COGSYNC| |api|
-.. |CS-dg| replace:: |CS| |dg|
-.. |CT-api| replace:: |CT| |api|
-.. |CT-cli| replace:: |CT| CLI |ref|
-.. |CT-ug| replace:: |CT| |ug|
-.. |CW-api| replace:: |CW| |api|
-.. |CW-cli| replace:: |CW| CLI |ref|
-.. |CW-dg| replace:: |CW| |dg|
-.. |CW-gsg| replace:: |CW| |gsg|
-.. |CW-qrc| replace:: |CW| |qrc|
-.. |CW-ug| replace:: |CW| |ug|
-.. |CWE-api| replace:: |CWE| |api|
-.. |CWL-api| replace:: |CWL| |api|
-.. |CWL-dg| replace:: |CWL| |dg|
-.. |DDB-api| replace:: |DDB| |api|
-.. |DDB-dg| replace:: |DDB| |dg|
-.. |DDB-gsg| replace:: |DDB| |gsg|
-.. |DDB-streams-api| replace:: |DDB| Streams |api|
-.. |DMS-api| replace:: |DMS| |api|
-.. |DMS-ug| replace:: |DMS| |ug|
-.. |DP-dg| replace:: |DP| |dg|
-.. |DP-gsg| replace:: |DP| |gsg|
-.. |DP-qrc| replace:: |DP| |qrc|
-.. |EB-dg| replace:: |EB| |dg|
-.. |EC2-api| replace:: |EC2| |api|
-.. |EC2-cli-ref| replace:: |EC2| CLI |ref|
-.. |EC2-gsg| replace:: |EC2| |gsg|
-.. |EC2-qrc| replace:: |EC2| |qrc|
-.. |EC2-ug-win| replace:: |EC2| |ug| for Windows Instances
-.. |EC2-ug| replace:: |EC2| |ug| for Linux Instances
-.. |ECR-api| replace:: |ECR| |api|
-.. |ECR-ug| replace:: |ECR| |ug|
-.. |ECS-api| replace:: |ECS| |api|
-.. |ECS-dg| replace:: |ECS| |dg|
-.. |EDP-api| replace:: |AWSDP| |api|
-.. |EDP-dg| replace:: |AWSDP| |dg|
-.. |EDP-gsg| replace:: |AWSDP| |gsg|
-.. |EFS-ug| replace:: |EFS| |ug|
-.. |ELB-api| replace:: |ELB| |api|
-.. |ELB-dg| replace:: |ELB| |dg|
-.. |ELB-qrc| replace:: |ELB| |qrc|
-.. |ELC-api| replace:: |ELC| |api|
-.. |ELC-cli-ref| replace:: |ELC| CLI |ref|
-.. |ELC-gsg| replace:: |ELC| |gsg|
-.. |ELC-qrc| replace:: |ELC| |qrc|
-.. |ELC-ug| replace:: |ELC| |ug|
-.. |EMR-api| replace:: |EMR| |api|
-.. |EMR-dg| replace:: |EMR| |dg|
-.. |EMR-gsg| replace:: |EMR| |gsg|
-.. |EMR-mg| replace:: |EMR| Management Guide
-.. |EMR-qrc| replace:: |EMR| |qrc|
-.. |ES-api| replace:: |ES| REST Configuration |api|
-.. |ES-dg| replace:: |ES| |dg|
-.. |ET-dg| replace:: Amazon Elastic Transcoder |dg|
-.. |FF-dg| replace:: |FF| for Java |dg|
-.. |FPS-amqs| replace:: |FPS| Account Management Quick Start Guide
-.. |FPS-apgq| replace:: |FPS| Aggregated Payments Quick Start Guide
-.. |FPS-api| replace:: |FPS| |api|
-.. |FPS-aqs| replace:: |FPS| Advanced Quick Start Guide
-.. |FPS-bqs| replace:: |FPS| Basic Quick Start Guide
-.. |FPS-gsg| replace:: |FPS| |gsg|
-.. |FPS-mqs| replace:: |FPS| Marketplace Quick Start Guide
-.. |FWS-api| replace:: |FWS| |api|
-.. |FWS-dg| replace:: |FWS| |dg|
-.. |FWS-gsg| replace:: |FWS| |gsg|
-.. |FWS-qrc-inbound| replace:: |FWS| |qrc| (Inbound)
-.. |FWS-qrc-inventory| replace:: |FWS| |qrc| (Inventory)
-.. |FWS-qrc-outbound| replace:: |FWS| |qrc| (Outbound)
-.. |GL-dg| replace:: |GL| |dg|
-.. |GOVCLOUD-US-ug| replace:: |GOVCLOUD-US| |ug|
-.. |GOVCLOUD-US| replace:: AWS GovCloud (US)
-.. |GSG-aws| replace:: |GSG|
-.. |GSG-deploy| replace:: |GSG|: Deploying a Web App
-.. |GSG-emr| replace:: |GSG|: Analyzing Big Data
-.. |GSG-free| replace:: |GSG|
-.. |GSG-lnx| replace:: |GSG|
-.. |GSG-swh| replace:: |GSG|: Hosting a Static Website
-.. |GSG-wahl| replace:: |GSG|: Hosting a Web App for Linux
-.. |GSG-wah| replace:: |GSG|: Hosting a .NET Web App
-.. |GSG-win| replace:: |GSG|
-.. |HSM-api| replace:: |HSM| |api|
-.. |HSM-cli| replace:: |HSM| CLI Guide
-.. |HSM-dg| replace:: |HSM| |dg|
-.. |HSM-gsg| replace:: |HSM| |gsg|
-.. |HSM-ug| replace:: |HSM| |ug|
-.. |IAM-api| replace:: |IAM| |api|
-.. |IAM-clt| replace:: |IAM| CLI |ref|
-.. |IAM-qrc| replace:: |IAM| |qrc|
-.. |IAM-ug| replace:: |IAM| |ug|
-.. |IE-dg| replace:: |IE| |dg|
-.. |IE-qrc| replace:: |IE| Command Line |qrc|
-.. |INS-api| replace:: |INS| |api|
-.. |INS-ug| replace:: |INS| |ug|
-.. |IOT-api| replace:: |IoT| |api|
-.. |IOT-gsg| replace:: |IoT| |gsg|
-.. |IOT-ug| replace:: |IoT| |ug|
-.. |JSB-api| replace:: |JSB| |api|
-.. |JSB-gsg| replace:: |JSB| |gsg|
-.. |KMS-api| replace:: |KMS| |api|
-.. |KMS-dg| replace:: |KMS| |dg|
-.. |LAM-dg| replace:: |LAM| |dg|
-.. |MA-api| replace:: |MA| |api|
-.. |MA-ug| replace:: |MA| |ug|
-.. |ML-api| replace:: |ML| |api|
-.. |ML-dg| replace:: |ML| |dg|
-.. |MT-api| replace:: |MT| |api|
-.. |MT-clt| replace:: |MT| CLI |ref|
-.. |MT-dg| replace:: |MT| |dg|
-.. |MT-gsg| replace:: |MT| |gsg|
-.. |MT-qrc| replace:: |MT| |qrc|
-.. |MT-rui| replace:: |MT| Requester User Interface
-.. |MT-wsdl| replace:: |MT| WSDL
-.. |OPS-api| replace:: |OPS| |api|
-.. |OPS-ug| replace:: |OPS| |ug|
-.. |PAAPI-dg| replace:: |PAAPI| |dg|
-.. |PAAPI-gsg| replace:: |PAAPI| Getting Started
-.. |PS-ug| replace:: |PS| |ug|
-.. |R53-api| replace:: |R53| |api|
-.. |R53-dg| replace:: |R53| |dg|
-.. |RC-api| replace:: |RS| |api|
-.. |RDS-api| replace:: |RDS| |api|
-.. |RDS-cli-ref| replace:: |RDS| CLI |ref|
-.. |RDS-gsg| replace:: |RDS| |gsg|
-.. |RDS-qrc| replace:: |RDS| |qrc|
-.. |RDS-ug| replace:: |RDS| |ug|
-.. |RS-api| replace:: |RS| |api|
-.. |RS-cli-ug| replace:: |RS| CLI |ug|
-.. |RS-dg| replace:: |RS| Database |dg|
-.. |RS-gsg| replace:: |RS| Getting Started
-.. |RS-mgmt| replace:: |RS| Cluster Management Guide
-.. |S3-api| replace:: |S3| |api|
-.. |S3-dg| replace:: |S3| |dg|
-.. |S3-gsg| replace:: |S3| |gsg|
-.. |S3-qrc| replace:: |S3| |qrc|
-.. |S3-ug| replace:: |S3| |ug|
-.. |SC-ag| replace:: |SC| |ag|
-.. |SC-ug| replace:: |SC| |ug|
-.. |SDB-dg| replace:: |SDB| |dg|
-.. |SDB-gsg| replace:: |SDB| |gsg|
-.. |SDB-qrc| replace:: |SDB| |qrc|
-.. |SES-api| replace:: |SES| |api|
-.. |SES-dg| replace:: |SES| |dg|
-.. |SLK-dg| replace:: |SLK| |dg|
-.. |SNS-api| replace:: |SNS| |api|
-.. |SNS-cli-ref| replace:: |SNS| CLI Reference
-.. |SNS-dg| replace:: |SNS| |dg|
-.. |SNS-gsg| replace:: |SNS| |gsg|
-.. |SNS-qrc| replace:: |SNS| |qrc|
-.. |SP-gsg| replace:: |SP| |gsg|
-.. |SP-ug| replace:: |SP| Advanced |ug|
-.. |SQS-api| replace:: |SQS| |api|
-.. |SQS-dg| replace:: |SQS| |dg|
-.. |SQS-gsg| replace:: |SQS| |gsg|
-.. |SQS-qrc| replace:: |SQS| |qrc|
-.. |SSM-api| replace:: |SSM| |api|
-.. |STS-api| replace:: |STS| |api|
-.. |STS-ug| replace:: |STS| |ug|
-.. |SUP-api| replace:: |SUP| |api|
-.. |SUP-ug| replace:: |SUP| |ug|
-.. |SWF-api| replace:: |SWF| |api|
-.. |SWF-dg| replace:: |SWF| |dg|
-.. |TVS-ug| replace:: |TVS| |ug|
-.. |TWP-ref| replace:: |TWP| Reference
-.. |TWP-ug| replace:: |TWP| |ug|
-.. |VPC-ag| replace:: |VPC| Network |ag|
-.. |VPC-gsg| replace:: |VPC| |gsg|
-.. |VPC-peer| replace:: |VPC| Peering Guide
-.. |VPC-qrc| replace:: |VPC| |qrc|
-.. |VPC-ug| replace:: |VPC| |ug|
-.. |WAF-api| replace:: |WAF| |api|
-.. |WAF-dg| replace:: |WAF| |dg|
-.. |WAM-ag| replace:: |WAM| |ag|
-.. |WAM-ug| replace:: |WAM| |ug|
-.. |WD-ag| replace:: |WD| |ag|
-.. |WD-ug| replace:: |WD| |ug|
-.. |WM-ag| replace:: |WM| |ag|
-.. |WM-ug| replace:: |WM| |ug|
-.. |WSP-ag| replace:: |WSP| |ag|
-.. |WSP-dg| replace:: |WSP| |dg|
-
+.. |AAS-dg| replace:: :title:`Amazon AppStream Developer Guide`
+.. |AB-ug| replace:: :title:`Billing and Cost Management User Guide`
+.. |ABP-dg| replace:: :title:`API Gateway Developer Guide`
+.. |ACC-api| replace:: :title:`AWS CodeCommit API Reference`
+.. |ACC-cli| replace:: :title:`AWS CodeCommit CLI Reference`
+.. |ACC-ug| replace:: :title:`AWS CodeCommit User Guide`
+.. |ACD-api| replace:: :title:`AWS CodeDeploy API Reference`
+.. |ACD-cli-ref| replace:: :title:`AWS CodeDeploy CLI Reference`
+.. |ACD-ug| replace:: :title:`AWS CodeDeploy User Guide`
+.. |ACM-api| replace:: :title:`ACM API Reference`
+.. |ACM-ug| replace:: :title:`ACM User Guide`
+.. |ACP-api| replace:: :title:`AWS CodePipeline API Reference`
+.. |ACP-cli-ref| replace:: :title:`AWS CodePipeline CLI Reference`
+.. |ACP-ug| replace:: :title:`AWS CodePipeline User Guide`
+.. |ADS-ag| replace:: :title:`AWS Directory Service Administration Guide`
+.. |ADS-dg| replace:: :title:`AWS Directory Service API Reference`
+.. |AEB-api| replace:: :title:`Elastic Beanstalk API Reference`
+.. |AEB-dg| replace:: :title:`Elastic Beanstalk Developer Guide`
+.. |AGS-api| replace:: :title:`GameLift API Reference`
+.. |AGS-dg| replace:: :title:`GameLift Developer Guide`
+.. |AK-api| replace:: :title:`Amazon Kinesis API Reference`
+.. |AK-dg| replace:: :title:`Amazon Kinesis Developer Guide`
+.. |AKA-dg| replace:: :title:`Analytics Developer Guide`
+.. |AKF-api| replace:: :title:`Firehose API Reference`
+.. |AKF-dg| replace:: :title:`Firehose Developer Guide`
+.. |AKS-api| replace:: :title:`Streams API Reference`
+.. |AKS-dg| replace:: :title:`Streams Developer Guide`
+.. |ALY-dg| replace:: :title:`Lumberyard Developer Guide`
+.. |ALY-gsg| replace:: :title:`Lumberyard Getting Started Guide`
+.. |ALY-qsg| replace:: :title:`Lumberyard Quick Start Guide`
+.. |ALY-ug| replace:: :title:`Lumberyard User Guide`
+.. |AMP-ug| replace:: :title:`Management Portal User Guide`
+.. |AS-api| replace:: :title:`AutoScaling API Reference`
+.. |AS-dg| replace:: :title:`AutoScaling Developer Guide`
+.. |AS-gsg| replace:: :title:`AutoScaling Getting Started Guide`
+.. |ATP-dg| replace:: :title:`Device Farm Developer Guide`
+.. |AWS-gr| replace:: :title:`Amazon Web Services General Reference`
+.. |AWSDC-api| replace:: :title:`AWS Direct Connect API Reference`
+.. |AWSDC-ug| replace:: :title:`AWS Direct Connect User Guide`
+.. |AWSSG-api| replace:: :title:`AWS Storage Gateway API Reference`
+.. |AWSSG-ug| replace:: :title:`AWS Storage Gateway User Guide`
+.. |CC-api| replace:: :title:`AWS Config API Reference`
+.. |CC-dg| replace:: :title:`AWS Config Developer Guide`
+.. |CF-api| replace:: :title:`CloudFront API Reference`
+.. |CF-dg| replace:: :title:`CloudFront Developer Guide`
+.. |CFN-api| replace:: :title:`CloudFormation API Reference`
+.. |CFN-gsg| replace:: :title:`CloudFormation Getting Started Guide`
+.. |CFN-ug| replace:: :title:`CloudFormation User Guide`
+.. |COG-api| replace:: :title:`Amazon Cognito API Reference`
+.. |COG-dg| replace:: :title:`Amazon Cognito Developer Guide`
+.. |COGSYNC-api| replace:: :title:`Amazon Cognito Sync API Reference`
+.. |CS-dg| replace:: :title:`Amazon CloudSearch Developer Guide`
+.. |CT-api| replace:: :title:`CloudTrail API Reference`
+.. |CT-cli| replace:: :title:`CloudTrail CLI Reference`
+.. |CT-ug| replace:: :title:`CloudTrail User Guide`
+.. |CW-api| replace:: :title:`CloudWatch API Reference`
+.. |CW-cli| replace:: :title:`CloudWatch CLI Reference`
+.. |CW-dg| replace:: :title:`CloudWatch Developer Guide`
+.. |CW-gsg| replace:: :title:`CloudWatch Getting Started Guide`
+.. |CW-qrc| replace:: :title:`CloudWatch Quick Reference Card`
+.. |CW-ug| replace:: :title:`CloudWatch User Guide`
+.. |CWE-api| replace:: :title:`CloudWatch Events API Reference`
+.. |CWL-api| replace:: :title:`CloudWatch Logs API Reference`
+.. |CWL-dg| replace:: :title:`CloudWatch Logs Developer Guide`
+.. |DDB-api| replace:: :title:`DynamoDB API Reference`
+.. |DDB-dg| replace:: :title:`DynamoDB Developer Guide`
+.. |DDB-gsg| replace:: :title:`DynamoDB Getting Started Guide`
+.. |DDB-streams-api| replace:: :title:`DynamoDB Streams API Reference`
+.. |DMS-api| replace:: :title:`AWS DMS API Reference`
+.. |DMS-ug| replace:: :title:`AWS DMS User Guide`
+.. |DP-dg| replace:: :title:`Amazon DevPay Developer Guide`
+.. |DP-gsg| replace:: :title:`Amazon DevPay Getting Started Guide`
+.. |DP-qrc| replace:: :title:`Amazon DevPay Quick Reference Card`
+.. |EB-dg| replace:: :title:`Elastic Beanstalk Developer Guide`
+.. |EC2-api| replace:: :title:`Amazon EC2 API Reference`
+.. |EC2-cli-ref| replace:: :title:`Amazon EC2 CLI Reference`
+.. |EC2-gsg| replace:: :title:`Amazon EC2 Getting Started Guide`
+.. |EC2-qrc| replace:: :title:`Amazon EC2 Quick Reference Card`
+.. |EC2-ug-win| replace:: :title:`Amazon EC2 User Guide for Windows Instances`
+.. |EC2-ug| replace:: :title:`Amazon EC2 User Guide for Linux Instances`
+.. |ECR-api| replace:: :title:`Amazon ECR API Reference`
+.. |ECR-ug| replace:: :title:`Amazon ECR User Guide`
+.. |ECS-api| replace:: :title:`Amazon ECS API Reference`
+.. |ECS-dg| replace:: :title:`Amazon ECS Developer Guide`
+.. |EDP-api| replace:: :title:`AWS Data Pipeline API Reference`
+.. |EDP-dg| replace:: :title:`AWS Data Pipeline Developer Guide`
+.. |EDP-gsg| replace:: :title:`AWS Data Pipeline Getting Started Guide`
+.. |EFS-ug| replace:: :title:`Amazon EFS User Guide`
+.. |ELB-api| replace:: :title:`Elastic Load Balancing API Reference`
+.. |ELB-dg| replace:: :title:`Elastic Load Balancing Developer Guide`
+.. |ELB-qrc| replace:: :title:`Elastic Load Balancing Quick Reference Card`
+.. |ELC-api| replace:: :title:`ElastiCache API Reference`
+.. |ELC-cli-ref| replace:: :title:`ElastiCache CLI Reference`
+.. |ELC-gsg| replace:: :title:`ElastiCache Getting Started Guide`
+.. |ELC-qrc| replace:: :title:`ElastiCache Quick Reference Card`
+.. |ELC-ug| replace:: :title:`ElastiCache User Guide`
+.. |EMR-api| replace:: :title:`Amazon EMR API Reference`
+.. |EMR-dg| replace:: :title:`Amazon EMR Developer Guide`
+.. |EMR-gsg| replace:: :title:`Amazon EMR Getting Started Guide`
+.. |EMR-mg| replace:: :title:`Amazon EMR Management Guide`
+.. |EMR-qrc| replace:: :title:`Amazon EMR Quick Reference Card`
+.. |ES-api| replace:: :title:`Amazon ES REST Configuration API Reference`
+.. |ES-dg| replace:: :title:`Amazon ES Developer Guide`
+.. |ET-dg| replace:: :title:`Amazon Elastic Transcoder Developer Guide`
+.. |FF-dg| replace:: :title:`The Framework for Java Developer Guide`
+.. |FPS-amqs| replace:: :title:`Amazon FPS Account Management Quick Start Guide`
+.. |FPS-apgq| replace:: :title:`Amazon FPS Aggregated Payments Quick Start Guide`
+.. |FPS-api| replace:: :title:`Amazon FPS API Reference`
+.. |FPS-aqs| replace:: :title:`Amazon FPS Advanced Quick Start Guide`
+.. |FPS-bqs| replace:: :title:`Amazon FPS Basic Quick Start Guide`
+.. |FPS-gsg| replace:: :title:`Amazon FPS Getting Started Guide`
+.. |FPS-mqs| replace:: :title:`Amazon FPS Marketplace Quick Start Guide`
+.. |FWS-api| replace:: :title:`Amazon FWS API Reference`
+.. |FWS-dg| replace:: :title:`Amazon FWS Developer Guide`
+.. |FWS-gsg| replace:: :title:`Amazon FWS Getting Started Guide`
+.. |FWS-qrc-inbound| replace:: :title:`Amazon FWS Quick Reference Card (Inbound)`
+.. |FWS-qrc-inventory| replace:: :title:`Amazon FWS Quick Reference Card (Inventory)`
+.. |FWS-qrc-outbound| replace:: :title:`Amazon FWS Quick Reference Card (Outbound)`
+.. |GL-dg| replace:: :title:`Amazon Glacier Developer Guide`
+.. |GOVCLOUD-US-ug| replace:: :title:`AWS GovCloud (US) User Guide`
+.. |GSG-aws| replace:: :title:`Getting Started Guide`
+.. |GSG-deploy| replace:: :title:`Getting Started Guide: Deploying a Web App`
+.. |GSG-emr| replace:: :title:`Getting Started Guide: Analyzing Big Data`
+.. |GSG-free| replace:: :title:`Getting Started Guide`
+.. |GSG-lnx| replace:: :title:`Getting Started Guide (Linux)`
+.. |GSG-swh| replace:: :title:`Getting Started Guide: Hosting a Static Website`
+.. |GSG-wahl| replace:: :title:`Getting Started Guide: Hosting a Web App for Linux`
+.. |GSG-wah| replace:: :title:`Getting Started Guide: Hosting a .NET Web App`
+.. |GSG-win| replace:: :title:`Getting Started Guide (Windows)`
+.. |HSM-api| replace:: :title:`AWS CloudHSM API Reference`
+.. |HSM-cli| replace:: :title:`AWS CloudHSM CLI Guide`
+.. |HSM-dg| replace:: :title:`AWS CloudHSM Developer Guide`
+.. |HSM-gsg| replace:: :title:`AWS CloudHSM Getting Started Guide`
+.. |HSM-ug| replace:: :title:`AWS CloudHSM User Guide`
+.. |IAM-api| replace:: :title:`IAM API Reference`
+.. |IAM-clt| replace:: :title:`IAM CLI Reference`
+.. |IAM-qrc| replace:: :title:`IAM Quick Reference Card`
+.. |IAM-ug| replace:: :title:`IAM User Guide`
+.. |IE-dg| replace:: :title:`AWS Import/Export Developer Guide`
+.. |IE-qrc| replace:: :title:`AWS Import/Export Command Line Quick Reference Card`
+.. |INS-api| replace:: :title:`Amazon Inspector API Reference`
+.. |INS-ug| replace:: :title:`Amazon Inspector User Guide`
+.. |IOT-api| replace:: :title:`AWS IoT API Reference`
+.. |IOT-gsg| replace:: :title:`AWS IoT Getting Started Guide`
+.. |IOT-ug| replace:: :title:`AWS IoT User Guide`
+.. |JSB-api| replace:: :title:`SDK for JavaScript in the Browser API Reference`
+.. |JSB-gsg| replace:: :title:`SDK for JavaScript in the Browser Getting Started Guide`
+.. |KMS-api| replace:: :title:`AWS KMS API Reference`
+.. |KMS-dg| replace:: :title:`AWS KMS Developer Guide`
+.. |LAM-dg| replace:: :title:`Lambda Developer Guide`
+.. |MA-api| replace:: :title:`Mobile Analytics API Reference`
+.. |MA-ug| replace:: :title:`Mobile Analytics User Guide`
+.. |ML-api| replace:: :title:`Amazon ML API Reference`
+.. |ML-dg| replace:: :title:`Amazon ML Developer Guide`
+.. |MT-api| replace:: :title:`Mechanical Turk API Reference`
+.. |MT-clt| replace:: :title:`Mechanical Turk CLI Reference`
+.. |MT-dg| replace:: :title:`Mechanical Turk Developer Guide`
+.. |MT-gsg| replace:: :title:`Mechanical Turk Getting Started Guide`
+.. |MT-qrc| replace:: :title:`Mechanical Turk Quick Reference Card`
+.. |MT-rui| replace:: :title:`Mechanical Turk Requester User Interface`
+.. |MT-wsdl| replace:: :title:`Mechanical Turk WSDL`
+.. |OPS-api| replace:: :title:`AWS OpsWorks API Reference`
+.. |OPS-ug| replace:: :title:`AWS OpsWorks User Guide`
+.. |PAAPI-dg| replace:: :title:`PA API Developer Guide`
+.. |PAAPI-gsg| replace:: :title:`PA API Getting Started`
+.. |PS-ug| replace:: :title:`Policy Simulator User Guide`
+.. |R53-api| replace:: :title:`Amazon Route 53 API Reference`
+.. |R53-dg| replace:: :title:`Amazon Route 53 Developer Guide`
+.. |RC-api| replace:: :title:`Amazon Remote Configuration API Reference`
+.. |RDS-api| replace:: :title:`Amazon RDS API Reference`
+.. |RDS-cli-ref| replace:: :title:`Amazon RDS CLI Reference`
+.. |RDS-gsg| replace:: :title:`Amazon RDS Getting Started Guide`
+.. |RDS-qrc| replace:: :title:`Amazon RDS Quick Reference Card`
+.. |RDS-ug| replace:: :title:`Amazon RDS User Guide`
+.. |RS-api| replace:: :title:`Amazon Redshift API Reference`
+.. |RS-cli-ug| replace:: :title:`Amazon Redshift CLI User Guide`
+.. |RS-dg| replace:: :title:`Amazon Redshift Database Developer Guide`
+.. |RS-gsg| replace:: :title:`Amazon Redshift Getting Started`
+.. |RS-mgmt| replace:: :title:`Amazon Redshift Cluster Management Guide`
+.. |S3-api| replace:: :title:`Amazon S3 API Reference`
+.. |S3-dg| replace:: :title:`Amazon S3 Developer Guide`
+.. |S3-gsg| replace:: :title:`Amazon S3 Getting Started Guide`
+.. |S3-qrc| replace:: :title:`Amazon S3 Quick Reference Card`
+.. |S3-ug| replace:: :title:`Amazon S3 User Guide`
+.. |SC-ag| replace:: :title:`AWS Service Catalog Administration Guide`
+.. |SC-ug| replace:: :title:`AWS Service Catalog User Guide`
+.. |SDB-dg| replace:: :title:`Amazon SimpleDB Developer Guide`
+.. |SDB-gsg| replace:: :title:`Amazon SimpleDB Getting Started Guide`
+.. |SDB-qrc| replace:: :title:`Amazon SimpleDB Quick Reference Card`
+.. |SES-api| replace:: :title:`Amazon SES API Reference`
+.. |SES-dg| replace:: :title:`Amazon SES Developer Guide`
+.. |SLK-dg| replace:: :title:`Amazon Silk Developer Guide`
+.. |SNS-api| replace:: :title:`Amazon SNS API Reference`
+.. |SNS-cli-ref| replace:: :title:`Amazon SNS CLI Reference`
+.. |SNS-dg| replace:: :title:`Amazon SNS Developer Guide`
+.. |SNS-gsg| replace:: :title:`Amazon SNS Getting Started Guide`
+.. |SNS-qrc| replace:: :title:`Amazon SNS Quick Reference Card`
+.. |SP-gsg| replace:: :title:`Amazon Simple Pay Getting Started Guide`
+.. |SP-ug| replace:: :title:`Amazon Simple Pay Advanced User Guide`
+.. |SQS-api| replace:: :title:`Amazon SQS API Reference`
+.. |SQS-dg| replace:: :title:`Amazon SQS Developer Guide`
+.. |SQS-gsg| replace:: :title:`Amazon SQS Getting Started Guide`
+.. |SQS-qrc| replace:: :title:`Amazon SQS Quick Reference Card`
+.. |SSM-api| replace:: :title:`SSM API Reference`
+.. |STS-api| replace:: :title:`AWS STS API Reference`
+.. |STS-ug| replace:: :title:`AWS STS User Guide`
+.. |SUP-api| replace:: :title:`AWS Support API Reference`
+.. |SUP-ug| replace:: :title:`AWS Support User Guide`
+.. |SWF-api| replace:: :title:`Amazon SWF API Reference`
+.. |SWF-dg| replace:: :title:`Amazon SWF Developer Guide`
+.. |TVS-ug| replace:: :title:`Toolkit for Visual Studio User Guide`
+.. |TWP-ref| replace:: :title:`Tools for Windows PowerShell Reference`
+.. |TWP-ug| replace:: :title:`Tools for Windows PowerShell User Guide`
+.. |VPC-ag| replace:: :title:`Amazon VPC Network Administration Guide`
+.. |VPC-gsg| replace:: :title:`Amazon VPC Getting Started Guide`
+.. |VPC-peer| replace:: :title:`Amazon VPC Peering Guide`
+.. |VPC-qrc| replace:: :title:`Amazon VPC Quick Reference Card`
+.. |VPC-ug| replace:: :title:`Amazon VPC User Guide`
+.. |WAF-api| replace:: :title:`AWS WAF API Reference`
+.. |WAF-dg| replace:: :title:`AWS WAF Developer Guide`
+.. |WAM-ag| replace:: :title:`Amazon WAM Administration Guide`
+.. |WAM-ug| replace:: :title:`Amazon WAM User Guide`
+.. |WD-ag| replace:: :title:`Amazon WorkDocs Administration Guide`
+.. |WD-ug| replace:: :title:`Amazon WorkDocs User Guide`
+.. |WM-ag| replace:: :title:`Amazon WorkMail Administration Guide`
+.. |WM-ug| replace:: :title:`Amazon WorkMail User Guide`
+.. |WSP-ag| replace:: :title:`Amazon WorkSpaces Administration Guide`
+.. |WSP-dg| replace:: :title:`Amazon WorkSpaces Developer Guide`
 
 .. SDK/framework/toolkit guide names
    ---------------------------------
-.. |cli-ref| replace:: |CLI| Reference
-.. |cli-ug| replace:: |CLI| |ug|
-.. |jflow-dg| replace:: |jflow| |dg|
-.. |jflow-ref| replace:: |jflow| |ref|
-.. |pst-ug| replace:: |pstlong| |ug|
-.. |rbflow-dg| replace:: |rbflow| |dg|
-.. |rbflow-ref| replace:: |rbflow| |ref|
-.. |sdk-android-api| replace:: |sdk-android| |api|
-.. |sdk-android-dg| replace:: |sdk-android| |dg|
-.. |sdk-android-gsg| replace:: |sdk-android| |gsg|
-.. |sdk-cpp-dg| replace:: AWS C++ |dg|
-.. |sdk-go-dg| replace:: AWS Go |dg|
-.. |sdk-ios-api| replace:: |sdk-ios| |api|
-.. |sdk-ios-dg| replace:: |sdk-ios| |dg|
-.. |sdk-ios-gsg| replace:: |sdk-ios| |gsg|
-.. |sdk-java-api| replace:: |sdk-java| |api|
-.. |sdk-java-dg| replace:: AWS Java |dg|
-.. |sdk-java-ref| replace:: |sdk-java| |ref|
-.. |sdk-js-dg| replace:: |sdk-js| |dg|
-.. |sdk-js-ref| replace:: |sdk-js| |ref|
-.. |sdk-net-api| replace:: |sdk-net| |api|
-.. |sdk-net-dg| replace:: |sdk-net| |dg|
-.. |sdk-net-ref| replace:: |sdk-net| |ref|
-.. |sdk-nodejs-api| replace:: |sdk-nodejs| |api|
-.. |sdk-nodejs-gsg| replace:: |sdk-nodejs| |gsg|
-.. |sdk-php-api-v2| replace:: |sdk-php-v2| |api|
-.. |sdk-php-api| replace:: |sdk-php| |api|
-.. |sdk-php-dg| replace:: |sdk-php| |dg|
-.. |sdk-php-gsg-v2| replace:: |sdk-php-v2| |gsg|
-.. |sdk-php-gsg| replace:: |sdk-php| |gsg|
-.. |sdk-php-mg-v2| replace:: |sdk-php-v2| Migration Guide
-.. |sdk-php-mg| replace:: |sdk-php| Migration Guide
-.. |sdk-php-ref| replace:: |sdk-php| |ref|
-.. |sdk-php-sbsg-v2| replace:: |sdk-php-v2| Side-by-Side Guide
-.. |sdk-php-tt| replace:: |sdk-php| Tips and Tricks
-.. |sdk-python-api-v3| replace:: AWS SDK for Python (Boto 3) |api|
-.. |sdk-python-api| replace:: AWS SDK for Python (Boto) |api|
-.. |sdk-python-dg| replace:: |sdk-python| |dg|
-.. |sdk-python-gsg-v3| replace:: AWS SDK for Python (Boto 3) Getting Started
-.. |sdk-python-gsg| replace:: boto: A Python interface to AWS
-.. |sdk-python-ref| replace:: |sdk-python| |ref|
-.. |sdk-ruby-api| replace:: |sdk-ruby| |api|
-.. |sdk-ruby-dg| replace:: |sdk-ruby| |dg|
-.. |sdk-ruby-gsg| replace:: |sdk-ruby| |gsg|
-.. |sdk-ruby-ref| replace:: |sdk-ruby| |ref|
-.. |tke-ug| replace:: |tke| |ug|
+.. |cli-ref| replace:: :title:`AWS CLI Reference`
+.. |cli-ug| replace:: :title:`AWS CLI User Guide`
+.. |jflow-dg| replace:: :title:`AWS Flow Framework for Java Developer Guide`
+.. |jflow-ref| replace:: :title:`AWS Flow Framework for Java Reference`
+.. |pst-ug| replace:: :title:`AWS Tools for Windows PowerShell User Guide`
+.. |rbflow-dg| replace:: :title:`AWS Flow Framework for Ruby Developer Guide`
+.. |rbflow-ref| replace:: :title:`AWS Flow Framework for Ruby Reference`
+.. |sdk-android-api| replace:: :title:`AWS Mobile SDK for Android API Reference`
+.. |sdk-android-dg| replace:: :title:`AWS Mobile SDK for Android Developer Guide`
+.. |sdk-android-gsg| replace:: :title:`AWS Mobile SDK for Android Getting Started Guide`
+.. |sdk-cpp-dg| replace:: :title:`AWS C++ Developer Guide`
+.. |sdk-go-dg| replace:: :title:`AWS Go Developer Guide`
+.. |sdk-ios-api| replace:: :title:`AWS Mobile SDK for iOS API Reference`
+.. |sdk-ios-dg| replace:: :title:`AWS Mobile SDK for iOS Developer Guide`
+.. |sdk-ios-gsg| replace:: :title:`AWS Mobile SDK for iOS Getting Started Guide`
+.. |sdk-java-api| replace:: :title:`AWS SDK for Java Reference`
+.. |sdk-java-dg| replace:: :title:`AWS Java Developer Guide`
+.. |sdk-java-ref| replace:: |sdk-java-api|
+.. |sdk-js-dg| replace:: :title:`AWS SDK for JavaScript Developer Guide`
+.. |sdk-js-ref| replace:: :title:`AWS SDK for JavaScript Reference`
+.. |sdk-net-api| replace:: :title:`AWS SDK for .NET API Reference`
+.. |sdk-net-dg| replace:: :title:`AWS SDK for .NET Developer Guide`
+.. |sdk-net-ref| replace:: :title:`AWS SDK for .NET Reference`
+.. |sdk-nodejs-api| replace:: :title:`AWS SDK for NodeJS API Reference`
+.. |sdk-nodejs-gsg| replace:: :title:`AWS SDK for NodeJS Getting Started Guide`
+.. |sdk-php-api-v2| replace:: :title:`AWS SDK for PHP (V2) API Reference`
+.. |sdk-php-api| replace:: :title:`AWS SDK for PHP API Reference`
+.. |sdk-php-dg| replace:: :title:`AWS SDK for PHP Developer Guide`
+.. |sdk-php-gsg-v2| replace:: :title:`AWS SDK for PHP (V2) Getting Started Guide`
+.. |sdk-php-gsg| replace:: :title:`AWS SDK for PHP Getting Started Guide`
+.. |sdk-php-mg-v2| replace:: :title:`AWS SDK for PHP (V2) Migration Guide`
+.. |sdk-php-mg| replace:: :title:`AWS SDK for PHP Migration Guide`
+.. |sdk-php-ref| replace:: :title:`AWS SDK for PHP Reference`
+.. |sdk-php-sbsg-v2| replace:: :title:`AWS SDK for PHP (V2) Side-by-Side Guide`
+.. |sdk-php-tt| replace:: :title:`AWS SDK for PHP Tips and Tricks`
+.. |sdk-python-api-v3| replace:: :title:`AWS SDK for Python (Boto 3) API Reference`
+.. |sdk-python-api| replace:: :title:`AWS SDK for Python (Boto) API Reference`
+.. |sdk-python-dg| replace:: :title:`AWS SDK for Python  Developer Guide`
+.. |sdk-python-gsg-v3| replace:: :title:`AWS SDK for Python (Boto 3) Getting Started`
+.. |sdk-python-gsg| replace:: :title:`boto: A Python interface to AWS`
+.. |sdk-python-ref| replace:: :title:`AWS SDK for Python Reference`
+.. |sdk-ruby-api| replace:: :title:`AWS SDK for Ruby API Reference`
+.. |sdk-ruby-dg| replace:: :title:`AWS SDK for Ruby Developer Guide`
+.. |sdk-ruby-gsg| replace:: :title:`AWS SDK for Ruby Getting Started Guide`
+.. |sdk-ruby-ref| replace:: :title:`AWS SDK for Ruby Reference`
+.. |tke-ug| replace:: :title:`AWS Toolkit for Eclipse User Guide`
 
