@@ -67,12 +67,15 @@
 .. _CT-ug: https://docs.aws.amazon.com/awscloudtrail/latest/userguide/
 .. _CW-api: https://docs.aws.amazon.com/AmazonCloudWatch/latest/APIReference/
 .. _CW-cli: https://docs.aws.amazon.com/AmazonCloudWatch/latest/cli/
-.. _CW-dg: https://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/
+.. _CW-ug: https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/
+.. _CW-dg: https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/
 .. _CW-gsg: https://docs.aws.amazon.com/AmazonCloudWatch/latest/GettingStartedGuide/
 .. _CWE-api: https://docs.aws.amazon.com/AmazonCloudWatchEvents/latest/APIReference/
+.. _CWE-ug: https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/
 .. _CWE-dg: https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/
 .. _CWL-api: https://docs.aws.amazon.com/AmazonCloudWatchLogs/latest/APIReference/
-.. _CWL-dg: https://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/
+.. _CWL-ug: https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/
+.. _CWL-dg: https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/
 .. _DDB-api: https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/
 .. _DDB-dg: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/
 .. _DDB-gsg: https://docs.aws.amazon.com/amazondynamodb/latest/gettingstartedguide/

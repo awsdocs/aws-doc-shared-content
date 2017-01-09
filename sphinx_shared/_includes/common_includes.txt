@@ -422,10 +422,10 @@
 .. |CT-ug| replace:: :title:`CloudTrail User Guide`
 .. |CW-api| replace:: :title:`CloudWatch API Reference`
 .. |CW-cli| replace:: :title:`CloudWatch CLI Reference`
-.. |CW-dg| replace:: :title:`CloudWatch Developer Guide`
+.. |CW-ug| replace:: :title:`CloudWatch User Guide`
+.. |CW-dg| replace:: :title:`CloudWatch User Guide`
 .. |CW-gsg| replace:: :title:`CloudWatch Getting Started Guide`
 .. |CW-qrc| replace:: :title:`CloudWatch Quick Reference Card`
-.. |CW-ug| replace:: :title:`CloudWatch User Guide`
 .. |CWE-api| replace:: :title:`CloudWatch Events API Reference`
 .. |CWE-ug| replace:: :title:`CloudWatch Events User Guide`
 .. |CWL-api| replace:: :title:`CloudWatch Logs API Reference`
