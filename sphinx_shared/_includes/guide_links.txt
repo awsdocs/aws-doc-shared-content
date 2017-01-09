@@ -70,6 +70,7 @@
 .. _CW-dg: https://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/
 .. _CW-gsg: https://docs.aws.amazon.com/AmazonCloudWatch/latest/GettingStartedGuide/
 .. _CWE-api: https://docs.aws.amazon.com/AmazonCloudWatchEvents/latest/APIReference/
+.. _CWE-dg: https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/
 .. _CWL-api: https://docs.aws.amazon.com/AmazonCloudWatchLogs/latest/APIReference/
 .. _CWL-dg: https://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/
 .. _DDB-api: https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/
