@@ -429,7 +429,8 @@
 .. |CWE-api| replace:: :title:`CloudWatch Events API Reference`
 .. |CWE-ug| replace:: :title:`CloudWatch Events User Guide`
 .. |CWL-api| replace:: :title:`CloudWatch Logs API Reference`
-.. |CWL-dg| replace:: :title:`CloudWatch Logs Developer Guide`
+.. |CWL-ug| replace:: :title:`CloudWatch Logs User Guide`
+.. |CWL-dg| replace:: :title:`CloudWatch Logs User Guide`
 .. |DDB-api| replace:: :title:`DynamoDB API Reference`
 .. |DDB-dg| replace:: :title:`DynamoDB Developer Guide`
 .. |DDB-gsg| replace:: :title:`DynamoDB Getting Started Guide`
