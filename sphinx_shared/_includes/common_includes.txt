@@ -609,6 +609,7 @@
 .. |sdk-android-dg| replace:: :title:`AWS Mobile SDK for Android Developer Guide`
 .. |sdk-android-gsg| replace:: :title:`AWS Mobile SDK for Android Getting Started Guide`
 .. |sdk-cpp-dg| replace:: :title:`AWS C++ Developer Guide`
+.. |sdk-cpp-ref| replace:: :title:`AWS SDK for C++ Reference`
 .. |sdk-go-dg| replace:: :title:`AWS Go Developer Guide`
 .. |sdk-ios-api| replace:: :title:`AWS Mobile SDK for iOS API Reference`
 .. |sdk-ios-dg| replace:: :title:`AWS Mobile SDK for iOS Developer Guide`

@@ -71,6 +71,7 @@
 .. _SWF: https://aws.amazon.com/swf/
 .. _SWFlong: SWF_
 
+
 .. Links to things within service guides and other non-standard guide links
    ------------------------------------------------------------------------
 .. _AMI: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
@@ -87,6 +88,7 @@
 .. _sdk-php-sbsg-v2: https://docs.aws.amazon.com/aws-sdk-php/guide/latest/side-by-side.html
 .. _sdk-ruby-dg: https://github.com/aws/aws-sdk-core-ruby#aws-sdk-for-ruby---v2
 
+
 .. Links to "Quick Reference Card" docs
    ------------------------------------
 .. _CW-qrc: https://awsdocs.s3.amazonaws.com/AmazonCloudWatch/latest/acw-qrc.pdf
@@ -97,6 +99,7 @@
 .. _RDS-qrc: https://awsdocs.s3.amazonaws.com/RDS/latest/rds-qrc.pdf
 .. _S3-qrc: https://awsdocs.s3.amazonaws.com/S3/latest/s3-qrc.pdf
 
+
 .. SDKs, frameworks, toolkits and other interface links
    ----------------------------------------------------
 .. _cli-docs: https://aws.amazon.com/documentation/cli/
@@ -104,6 +107,7 @@
 .. _clilong: cli_
 .. _console: https://console.aws.amazon.com/console/home
 .. _sdk-android: https://aws.amazon.com/mobile/sdk/
+.. _sdk-cpp: https://aws.amazon.com/sdk-for-cpp/
 .. _sdk-ios: https://aws.amazon.com/mobile/sdk/
 .. _sdk-java: https://aws.amazon.com/sdk-for-java/
 .. _sdk-js: https://aws.amazon.com/javascript/
@@ -119,7 +123,6 @@
 
 .. Common references in documentation:
    -----------------------------------
-
 .. |regions-and-endpoints| replace:: Regions and Endpoints
 .. _regions-and-endpoints: https://docs.aws.amazon.com/general/latest/gr/rande.html
 

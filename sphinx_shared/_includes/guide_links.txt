@@ -244,7 +244,8 @@
 .. _sdk-android-gsg: https://docs.aws.amazon.com/mobile/sdkforandroid/gsg/
 .. _sdk-android-ref: https://docs.aws.amazon.com/AWSAndroidSDK/latest/javadoc/
 .. _sdk-cpp-dg-v1: https://docs.aws.amazon.com/sdk-for-cpp/v1/developer-guide/
-.. _sdk-cpp-dg: https://docs.aws.amazon.com/sdk-for-cpp/latest/developer-guide/
+.. _sdk-cpp-dg: https://docs.aws.amazon.com/sdk-for-cpp/v1/developer-guide/
+.. _sdk-cpp-ref: https://sdk.amazonaws.com/cpp/api/
 .. _sdk-go-dg-v1: https://docs.aws.amazon.com/sdk-for-go/v1/developerguide/welcome.html
 .. _sdk-go-dg: https://docs.aws.amazon.com/sdk-for-go/v1/developerguide/welcome.html
 .. _sdk-ios-api: https://docs.aws.amazon.com/AWSiOSSDK/latest/
