@@ -98,7 +98,6 @@ extlinks.update({
     'iam-api': (aws_docs_url + 'IAM/latest/APIReference/API_%s.html', ''),
     'lam-api': (aws_docs_url + 'lambda/latest/dg/API_%s.html', ''),
     'r53-api': (aws_docs_url + 'Route53/latest/APIReference/API_%s.html', ''),
-    'ruby-api': (aws_docs_url + 'sdkforruby/api/%s', ''),
     's3-bucket-api': (aws_docs_url + 'AmazonS3/latest/API/RESTBucket%s.html', ''),
     's3-object-api': (aws_docs_url + 'AmazonS3/latest/API/RESTObject%s.html', ''),
     's3-service-api': (aws_docs_url + 'AmazonS3/latest/API/RESTService%s.html', ''),
