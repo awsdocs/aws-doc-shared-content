@@ -47,7 +47,7 @@
 .. |cli| replace:: AWS CLI
 .. |console| replace:: AWS Management Console
 .. |explorer| replace:: AWS Explorer
-.. |unixes| replace:: Linux, OS X, or Unix
+.. |unixes| replace:: Linux, macOS, or Unix
 
 .. General informational links
    ---------------------------
