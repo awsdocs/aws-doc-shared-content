@@ -38,6 +38,7 @@
 .. _COGID: COG_
 .. _COGSync: COG_
 .. _COGlong: COG_
+.. _CW: https://aws.amazon.com/cloudwatch/
 .. _DDB: https://aws.amazon.com/dynamodb/
 .. _DDBlong: DDB_
 .. _EB: https://aws.amazon.com/elasticbeanstalk/
