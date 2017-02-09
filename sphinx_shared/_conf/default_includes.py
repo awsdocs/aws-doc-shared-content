@@ -32,5 +32,5 @@ for i in common_includes:
 if 'exclude_patterns' not in vars():
     exclude_patterns = []
 
-exclude_patterns.append('**/README.*')
+exclude_patterns += ['README.*', '**/README.*']
 
