@@ -300,6 +300,8 @@
 .. |SDB| replace:: Amazon SimpleDB
 .. |SESlong| replace:: Amazon Simple Email Service
 .. |SES| replace:: Amazon SES
+.. |SFNlong| replace:: AWS Step Functions
+.. |SFN| replace:: Step Functions
 .. |SLKlong| replace:: Amazon Silk
 .. |SLK| replace:: Amazon Silk
 .. |SNSlong| replace:: Amazon Simple Notification Service
@@ -337,6 +339,8 @@
 .. |WM| replace:: Amazon WorkMail
 .. |WSPlong| replace:: Amazon WorkSpaces
 .. |WSP| replace:: Amazon WorkSpaces
+.. |xraylong| replace:: AWS X-Ray
+.. |xray| replace:: X-Ray
 
 
 .. SDKs, frameworks, toolkits and other interfaces
@@ -558,6 +562,8 @@
 .. |SDB-qrc| replace:: :title:`Amazon SimpleDB Quick Reference Card`
 .. |SES-api| replace:: :title:`Amazon SES API Reference`
 .. |SES-dg| replace:: :title:`Amazon SES Developer Guide`
+.. |SFN-api| replace:: :title:`AWS Step Functions API Reference`
+.. |SFN-dg| replace:: :title:`AWS Step Functions Developer Guide`
 .. |SLK-dg| replace:: :title:`Amazon Silk Developer Guide`
 .. |SNS-api| replace:: :title:`Amazon SNS API Reference`
 .. |SNS-cli-ref| replace:: :title:`Amazon SNS CLI Reference`
@@ -595,6 +601,9 @@
 .. |WM-ug| replace:: :title:`Amazon WorkMail User Guide`
 .. |WSP-ag| replace:: :title:`Amazon WorkSpaces Administration Guide`
 .. |WSP-dg| replace:: :title:`Amazon WorkSpaces Developer Guide`
+.. |xray-api| replace:: :title:`AWS X-Ray API Reference`
+.. |xray-dg| replace:: :title:`AWS X-Ray Developer Guide`
+
 
 .. SDK/framework/toolkit guide names
    ---------------------------------
@@ -644,5 +653,8 @@
 .. |sdk-ruby-dg| replace:: :title:`AWS SDK for Ruby Developer Guide`
 .. |sdk-ruby-gsg| replace:: :title:`AWS SDK for Ruby Getting Started Guide`
 .. |sdk-ruby-ref| replace:: :title:`AWS SDK for Ruby Reference`
+.. |sdk-xray-java-api| replace:: :title:`AWS X-Ray SDK for Java API Reference`
+.. |sdk-xray-net-api| replace:: :title:`AWS X-Ray SDK for .NET API Reference`
+.. |sdk-xray-nodejs-api| replace:: :title:`AWS X-Ray SDK for Node.js API Reference`
 .. |tke-ug| replace:: :title:`AWS Toolkit for Eclipse User Guide`
 
