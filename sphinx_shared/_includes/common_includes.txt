@@ -83,6 +83,9 @@
    the pattern 'code-language'. The available languages for syntax highlighting are provided at
    http://pygments.org/docs/lexers/
 
+.. role:: code-cpp(code)
+   :language: cpp
+
 .. role:: code-csharp(code)
    :language: csharp
 
