@@ -577,7 +577,6 @@
 .. |SP-ug| replace:: :title:`Amazon Simple Pay Advanced User Guide`
 .. |SQS-api| replace:: :title:`Amazon SQS API Reference`
 .. |SQS-dg| replace:: :title:`Amazon SQS Developer Guide`
-.. |SQS-gsg| replace:: :title:`Amazon SQS Getting Started Guide`
 .. |SQS-qrc| replace:: :title:`Amazon SQS Quick Reference Card`
 .. |SSM-api| replace:: :title:`SSM API Reference`
 .. |STS-api| replace:: :title:`AWS STS API Reference`
