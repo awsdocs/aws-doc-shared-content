@@ -8,8 +8,6 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-|lamlong|_ (|lam|) is a compute service where you can upload your code to |lam| and the service can
-run the code on your behalf using AWS infrastructure. After you upload your code and create what we
-call a *Lambda function*, |lam| takes care of provisioning and managing the servers that you use to
-run the code. For complete information about |lam|, visit the |lam-dg|_.
-
+|iamlong| (|IAM|) enables you to securely control access to AWS services and resources for your
+users. Using |iam|, you can create and manage AWS users and groups, and use permissions to allow and
+deny their access to AWS resources. For a complete guide to |IAM|, visit the |iam-ug|_.
