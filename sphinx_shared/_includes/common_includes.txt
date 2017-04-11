@@ -293,6 +293,8 @@
 .. |RDS-pricing| replace:: Amazon RDS Pricing
 .. |RDSlong| replace:: Amazon Relational Database Service
 .. |RDS| replace:: Amazon RDS
+.. |REKlong| replace:: Amazon Rekognition
+.. |REK| replace:: Amazon Rekognition
 .. |RSlong| replace:: Amazon Redshift
 .. |RS| replace:: Amazon Redshift
 .. |S3long| replace:: Amazon Simple Storage Service
@@ -548,6 +550,7 @@
 .. |RDS-gsg| replace:: :title:`Amazon RDS Getting Started Guide`
 .. |RDS-qrc| replace:: :title:`Amazon RDS Quick Reference Card`
 .. |RDS-ug| replace:: :title:`Amazon RDS User Guide`
+.. |REK-dg| replace:: Amazon Rekognition Developer Guide
 .. |RS-api| replace:: :title:`Amazon Redshift API Reference`
 .. |RS-cli-ug| replace:: :title:`Amazon Redshift CLI User Guide`
 .. |RS-dg| replace:: :title:`Amazon Redshift Database Developer Guide`

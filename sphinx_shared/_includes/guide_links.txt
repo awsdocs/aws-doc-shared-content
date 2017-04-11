@@ -178,6 +178,7 @@
 .. _RDS-clt: https://docs.aws.amazon.com/AmazonRDS/latest/CommandLineReference/
 .. _RDS-gsg: https://docs.aws.amazon.com/AmazonRDS/latest/GettingStartedGuide/
 .. _RDS-ug: https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/
+.. _REK-dg: https://docs.aws.amazon.com/rekognition/latest/dg/
 .. _RS-api: https://docs.aws.amazon.com/redshift/latest/APIReference/
 .. _RS-cli: https://docs.aws.amazon.com/cli/latest/reference/redshift/
 .. _RS-dg: https://docs.aws.amazon.com/redshift/latest/dg/
