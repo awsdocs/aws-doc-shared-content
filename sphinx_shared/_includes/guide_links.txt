@@ -17,6 +17,9 @@
    -------------------
 .. _AAS-dg: https://docs.aws.amazon.com/appstream/latest/developerguide/
 .. _ABP-dg: https://docs.aws.amazon.com/apigateway/latest/developerguide/
+.. _ACB-api: https://docs.aws.amazon.com/codebuild/latest/APIReference/
+.. _ACB-cli: https://docs.aws.amazon.com/cli/latest/reference/codebuild/
+.. _ACB-ug: https://docs.aws.amazon.com/codebuild/latest/userguide/
 .. _ACC-api: https://docs.aws.amazon.com/codecommit/latest/APIReference/
 .. _ACC-cli: https://docs.aws.amazon.com/cli/latest/reference/codecommit/
 .. _ACC-ug: https://docs.aws.amazon.com/codecommit/latest/userguide/
@@ -290,7 +293,9 @@
 .. _sdk-python3-gsg: https://boto3.readthedocs.org/en/latest/
 .. _sdk-ruby-api: https://docs.aws.amazon.com/sdkforruby/api/
 .. _sdk-ruby-ref: https://docs.aws.amazon.com/sdkforruby/api/
-.. _sdk-ruby1-dg: https://docs.aws.amazon.com/sdk-for-ruby/latest/developer-guide/
+.. _sdk-ruby-dg: https://docs.aws.amazon.com/sdk-for-ruby/latest/developer-guide/
+.. _sdk-ruby1-dg: https://docs.aws.amazon.com/sdk-for-ruby/v1/developer-guide/
+.. _sdk-ruby2-dg: https://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/
 .. _sdk-unity-dg: https://docs.aws.amazon.com/mobile/sdkforunity/developerguide/
 .. _sdk-unity-ref: https://docs.aws.amazon.com/mobile/sdkforunity/developerguide/
 .. _sdk-xamarin-dg: https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/

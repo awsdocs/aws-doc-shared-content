@@ -134,6 +134,8 @@
    --------
 .. |AASlong| replace:: Amazon AppStream
 .. |AAS| replace:: Amazon AppStream
+.. |ACBlong| replace: AWS CodeBuild
+.. |ACB| replace: AWS CodeBuild
 .. |ABPlong| replace:: Amazon API Gateway
 .. |ABP| replace:: API Gateway
 .. |ABlong| replace:: AWS |AB|
@@ -377,6 +379,9 @@
 .. |AAS-dg| replace:: :title:`Amazon AppStream Developer Guide`
 .. |AB-ug| replace:: :title:`Billing and Cost Management User Guide`
 .. |ABP-dg| replace:: :title:`API Gateway Developer Guide`
+.. |ACB-api| replace:: :title:`AWS CodeBuild API Reference`
+.. |ACB-cli| replace:: :title:`AWS CodeBuild CLI Reference`
+.. |ACB-ug| replace:: :title:`AWS CodeBuild User Guide`
 .. |ACC-api| replace:: :title:`AWS CodeCommit API Reference`
 .. |ACC-cli| replace:: :title:`AWS CodeCommit CLI Reference`
 .. |ACC-ug| replace:: :title:`AWS CodeCommit User Guide`
