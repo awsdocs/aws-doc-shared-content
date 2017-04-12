@@ -134,12 +134,12 @@
    --------
 .. |AASlong| replace:: Amazon AppStream
 .. |AAS| replace:: Amazon AppStream
-.. |ACBlong| replace: AWS CodeBuild
-.. |ACB| replace: AWS CodeBuild
 .. |ABPlong| replace:: Amazon API Gateway
 .. |ABP| replace:: API Gateway
 .. |ABlong| replace:: AWS |AB|
 .. |AB| replace:: Billing and Cost Management
+.. |ACBlong| replace:: AWS CodeBuild
+.. |ACB| replace:: AWS CodeBuild
 .. |ACClong| replace:: AWS CodeCommit
 .. |ACC| replace:: AWS CodeCommit
 .. |ACDlong| replace:: AWS CodeDeploy
@@ -235,7 +235,6 @@
 .. |EFSlong| replace:: Amazon Elastic File System
 .. |EFS| replace:: Amazon EFS
 .. |ELBlong| replace:: Elastic Load Balancing
-.. |GOVCLOUD-US| replace:: AWS GovCloud (US)
 .. |ELB| replace:: Elastic Load Balancing
 .. |ELClong| replace:: Amazon ElastiCache
 .. |ELC| replace:: ElastiCache
@@ -253,6 +252,7 @@
 .. |FWS| replace:: Amazon FWS
 .. |GLlong| replace:: Amazon Glacier
 .. |GL| replace:: Amazon Glacier
+.. |GOVCLOUD-US| replace:: AWS GovCloud (US)
 .. |GSG| replace:: Getting Started with AWS
 .. |HSMlong| replace:: |HSM|
 .. |HSM| replace:: AWS CloudHSM
