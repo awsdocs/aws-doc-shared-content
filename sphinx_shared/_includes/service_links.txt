@@ -26,22 +26,22 @@
 .. Service links
 .. -------------
 .. _ABP: https://aws.amazon.com/api-gateway/
-.. _ACBlong: ACB_
 .. _ACB: https://aws.amazon.com/codebuild/
-.. _ACClong: ACC_
+.. _ACBlong: ACB_
 .. _ACC: https://aws.amazon.com/codecommit/
-.. _ACBlong: ACD_
+.. _ACClong: ACC_
 .. _ACD: https://aws.amazon.com/codedeploy/
-.. _ACPlong: ACP_
+.. _ACDlong: ACD_
 .. _ACP: https://aws.amazon.com/codepipeline/
+.. _ACPlong: ACP_
 .. _AK: https://aws.amazon.com/kinesis/
 .. _AKF: https://aws.amazon.com/kinesis/firehose/
 .. _AKFlong: AKF_
 .. _AKlong: AK_
 .. _CF: https://aws.amazon.com/cloudfront/
-.. _CFlong: CF_
 .. _CFN: https://aws.amazon.com/cloudformation/
 .. _CFNlong: CFN_
+.. _CFlong: CF_
 .. _COG: https://aws.amazon.com/cognito/
 .. _COGID: COG_
 .. _COGSync: COG_
