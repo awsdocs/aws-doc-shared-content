@@ -95,7 +95,6 @@
 .. _sdk-php-mg-v2: https://docs.aws.amazon.com/aws-sdk-php/guide/latest/migration-guide.html
 .. _sdk-php-mg-v3: https://docs.aws.amazon.com/aws-sdk-php/v3/guide/guide/migration.html
 .. _sdk-php-sbsg-v2: https://docs.aws.amazon.com/aws-sdk-php/guide/latest/side-by-side.html
-.. _sdk-ruby-dg: https://github.com/aws/aws-sdk-core-ruby#aws-sdk-for-ruby---v2
 
 
 .. Links to "Quick Reference Card" docs
