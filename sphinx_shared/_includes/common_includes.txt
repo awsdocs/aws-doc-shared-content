@@ -668,3 +668,8 @@
 .. |sdk-xray-nodejs-api| replace:: :title:`AWS X-Ray SDK for Node.js API Reference`
 .. |tke-ug| replace:: :title:`AWS Toolkit for Eclipse User Guide`
 
+.. From Zonbook entities
+   ---------------------
+.. |Rubylong| replace:: AWS SDK for Ruby
+.. |Ruby| replace:: SDK for Ruby
+.. |link-ruby-api| replace:: http://docs.aws.amazon.com/sdkforruby/api
