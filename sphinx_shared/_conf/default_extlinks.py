@@ -81,7 +81,10 @@ def get_guide_extlinks():
     m = '.. _(.*):\s+(.*)/'
     matches = re.findall(m, guide_links_contents)
     for i in matches:
-        guide_extlinks[str.lower(i[0])] = (i[1] + '/%s.html', '')
+        if 'sdk-net-api' in i[0]:
+            guide_extlinks[str.lower(i[0])] = (i[1] + '/items/%s.html', '')
+        else:
+            guide_extlinks[str.lower(i[0])] = (i[1] + '/%s.html', '')
     return guide_extlinks
 
 extlinks.update(get_guide_extlinks())
