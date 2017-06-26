@@ -10,7 +10,7 @@
 
    -----------------------------------------------------------------------------
 
-   This file explains how to set a shared AWS region for the AWS SDKs and the
+   This file explains how to set a shared AWS Region for the AWS SDKs and the
    AWS CLI.
 
    To use it, add a line such as the following to your topic:
@@ -19,7 +19,7 @@
 
    -----------------------------------------------------------------------------
 
-* Set the AWS region in the AWS config file on your local system, located at:
+* Set the AWS Region in the AWS config file on your local system, located at:
 
     * |aws-configfile-loc-unixes| on |unixes|
     * |aws-configfile-loc-windows| on Windows
@@ -31,7 +31,7 @@
        [default]
        region = your_aws_region
 
-    Substitute your desired AWS region (for example, "us-west-2") for *your_aws_region*.
+    Substitute your desired AWS Region (for example, "us-west-2") for *your_aws_region*.
 
 * Set the :envvar:`AWS_REGION` environment variable.
 
@@ -47,5 +47,5 @@
 
        set AWS_REGION=your_aws_region
 
-    Where *your_aws_region* is the desired AWS region name.
+    Where *your_aws_region* is the desired AWS Region name.
 
