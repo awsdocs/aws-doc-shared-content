@@ -24,10 +24,9 @@
             user has two access keys already, then you'll need to delete one of them before creating a
             new key.
 
-    #.  On the resulting dialog, click the :guilabel:`Download Credentials` button to download the
+    #.  On the resulting dialog box, click the :guilabel:`Download Credentials` button to download the
         credential file to your computer, or click :guilabel:`Show User Security Credentials` to view
         the IAM user's access key ID and secret access key (which you can copy and paste).
 
-        .. important:: There is no way to obtain the secret access key once you close the dialog. You
+        .. important:: There is no way to obtain the secret access key once you close the dialog box. You
             can, however, delete its associated access key ID and create a new one.
-
