@@ -627,14 +627,15 @@
 .. |sdk-android-api| replace:: :title:`AWS Mobile SDK for Android API Reference`
 .. |sdk-android-dg| replace:: :title:`AWS Mobile SDK for Android Developer Guide`
 .. |sdk-android-gsg| replace:: :title:`AWS Mobile SDK for Android Getting Started Guide`
-.. |sdk-cpp-dg| replace:: :title:`AWS C++ Developer Guide`
+.. |sdk-cpp-dg| replace:: :title:`AWS SDK for C++ Developer Guide`
 .. |sdk-cpp-ref| replace:: :title:`AWS SDK for C++ Reference`
-.. |sdk-go-dg| replace:: :title:`AWS Go Developer Guide`
+.. |sdk-go-dg| replace:: :title:`AWS SDK for Go Developer Guide`
+.. |sdk-go-api| replace:: :title:`AWS SDK for Go API Reference`
 .. |sdk-ios-api| replace:: :title:`AWS Mobile SDK for iOS API Reference`
 .. |sdk-ios-dg| replace:: :title:`AWS Mobile SDK for iOS Developer Guide`
 .. |sdk-ios-gsg| replace:: :title:`AWS Mobile SDK for iOS Getting Started Guide`
 .. |sdk-java-api| replace:: :title:`AWS SDK for Java Reference`
-.. |sdk-java-dg| replace:: :title:`AWS Java Developer Guide`
+.. |sdk-java-dg| replace:: :title:`AWS SDK for Java Developer Guide`
 .. |sdk-java-ref| replace:: |sdk-java-api|
 .. |sdk-js-dg| replace:: :title:`AWS SDK for JavaScript Developer Guide`
 .. |sdk-js-ref| replace:: :title:`AWS SDK for JavaScript Reference`
