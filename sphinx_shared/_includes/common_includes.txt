@@ -134,10 +134,13 @@
    --------
 .. |AASlong| replace:: Amazon AppStream
 .. |AAS| replace:: Amazon AppStream
-.. |ABPlong| replace:: Amazon API Gateway
-.. |ABP| replace:: API Gateway
+.. |AAS2long| replace:: Amazon AppStream 2.0
+.. |AAS2| replace:: AppStream 2.0
 .. |ABlong| replace:: AWS |AB|
 .. |AB| replace:: Billing and Cost Management
+.. |ABPlong| replace:: Amazon API Gateway
+.. |ABP| replace:: API Gateway
+
 .. |ACBlong| replace:: AWS CodeBuild
 .. |ACB| replace:: AWS CodeBuild
 .. |ACClong| replace:: AWS CodeCommit
@@ -148,20 +151,21 @@
 .. |ACM| replace:: ACM
 .. |ACPlong| replace:: AWS CodePipeline
 .. |ACP| replace:: AWS CodePipeline
+.. |ACSlong| replace:: AWS CodeStar
 .. |ADSlong| replace:: AWS Directory Service
 .. |ADS| replace:: AWS Directory Service
 .. |AEBlong| replace:: AWS Elastic Beanstalk
 .. |AEB| replace:: Elastic Beanstalk
 .. |AGSlong| replace:: Amazon GameLift
-.. |AGS| replace:: GameLift
+.. |AGS| replace:: Amazon GameLift
 .. |AKAlong| replace:: Amazon Kinesis Analytics
-.. |AKA| replace:: Analytics
+.. |AKA| replace:: Kinesis Analytics
 .. |AKFlong| replace:: Amazon Kinesis Firehose
-.. |AKF| replace:: Firehose
+.. |AKF| replace:: Kinesis Firehose
 .. |AKSlong| replace:: Amazon Kinesis Streams
-.. |AKS| replace:: Streams
+.. |AKS| replace:: Kinesis Streams
 .. |AKlong| replace:: Amazon Kinesis
-.. |AK| replace:: Amazon Kinesis
+.. |AK| replace:: Kinesis
 .. |ALYlong| replace:: Amazon Lumberyard
 .. |ALY| replace:: Lumberyard
 .. |AMHlong| replace:: AWS Mobile Hub
@@ -170,8 +174,18 @@
 .. |AMPC| replace:: connector
 .. |AMPlong| replace:: AWS Management Portal for vCenter
 .. |AMP| replace:: management portal
+.. |AOlong| replace:: AWS Organizations
+.. |AO| replace:: Organizations
+.. |APPAlong| replace:: AWS Application Auto Scaling
+.. |APPA| replace:: Application Auto Scaling
+.. |APPDlong| replace:: AWS Application Discovery Service
+.. |APPD| replace:: Application Discovery Service
+.. |ARTlong| replace:: AWS Artifact
+.. |ART| replace:: AWS Artifact
 .. |ASlong| replace:: Auto Scaling
 .. |AS| replace:: Auto Scaling
+.. |ATElong| replace:: Amazon Athena
+.. |ATE| replace:: Athena
 .. |ATPlong| replace:: AWS Device Farm
 .. |ATP| replace:: Device Farm
 .. |ATSlong| replace:: Alexa Top Sites
@@ -179,21 +193,23 @@
 .. |AWISlong| replace:: Alexa Web Information Service
 .. |AWIS| replace:: Alexa Web Information Service
 .. |AWSDClong| replace:: AWS Direct Connect
-.. |AWSDC| replace:: AWS Direct Connect
+.. |AWSDC| replace:: Direct Connect
 .. |AWSDPlong| replace:: AWS Data Pipeline
-.. |AWSDP| replace:: AWS Data Pipeline
+.. |AWSDP| replace:: Data Pipeline
 .. |AWSSGlong| replace:: AWS Storage Gateway
-.. |AWSSG| replace:: AWS Storage Gateway
+.. |AWSSG| replace:: Storage Gateway
 .. |AWSTAlong| replace:: AWS Trusted Advisor
 .. |AWSTA| replace:: Trusted Advisor
+.. |BATCHlong| replace:: AWS Batch
 .. |CClong| replace:: AWS Config
 .. |CC| replace:: AWS Config
 .. |CDlong| replace:: AWS CodeDeploy
-.. |CD| replace:: CodeDeploy
+.. |CD| replace:: AWSCodeDeploy
 .. |CFNlong| replace:: AWS CloudFormation
-.. |CFN| replace:: CloudFormation
+.. |CFN| replace:: AWS CloudFormation
 .. |CFlong| replace:: Amazon CloudFront
 .. |CF| replace:: CloudFront
+.. |CHMlong| Amazon Chime
 .. |CLIlong| replace:: AWS Command Line Interface
 .. |CLI| replace:: AWS CLI
 .. |COGID| replace:: Amazon Cognito Identity
@@ -201,8 +217,9 @@
 .. |COGSYNC| replace:: Amazon Cognito Sync
 .. |COGlong| replace:: Amazon Cognito
 .. |COG| replace:: Amazon Cognito
+.. |CON| replace:: Amazon Connect
 .. |CSlong| replace:: Amazon CloudSearch
-.. |CS| replace:: Amazon CloudSearch
+.. |CS| replace:: CloudSearch
 .. |CTlong| replace:: AWS CloudTrail
 .. |CT| replace:: CloudTrail
 .. |CWElong| replace:: Amazon CloudWatch Events
@@ -216,11 +233,11 @@
 .. |DMSlong| replace:: AWS Database Migration Service
 .. |DMS| replace:: AWS DMS
 .. |DPlong| replace:: Amazon DevPay
-.. |DP| replace:: Amazon DevPay
-.. |DSlong| replace:: DynamoDB Streams
-.. |DS| replace:: Streams
+.. |DP| replace:: DevPay
+.. |DSlong| replace:: Amazon DynamoDB Streams
+.. |DS| replace:: DynamoDB Streams
 .. |Disklong| replace:: AWS Import/Export Disk
-.. |EBSencryptlong| replace:: Amazon EBS Encryption
+.. |EBSencryptlong| replace:: Amazon EBS encryption
 .. |EBSencrypt| replace:: Amazon EBS encryption
 .. |EBSlong| replace:: Amazon Elastic Block Store
 .. |EBS| replace:: Amazon EBS
@@ -235,10 +252,10 @@
 .. |EFSlong| replace:: Amazon Elastic File System
 .. |EFS| replace:: Amazon EFS
 .. |ELBlong| replace:: Elastic Load Balancing
-.. |ELB| replace:: Elastic Load Balancing
+.. |ELB| replace:: ELB
 .. |ELClong| replace:: Amazon ElastiCache
 .. |ELC| replace:: ElastiCache
-.. |EMRlong| replace:: Amazon Elastic MapReduce
+.. |EMRlong| replace:: Amazon EMR
 .. |EMR| replace:: Amazon EMR
 .. |ESlong| replace:: Amazon Elasticsearch Service
 .. |ES| replace:: Amazon ES
@@ -248,6 +265,8 @@
 .. |FF| replace:: the framework
 .. |FPSlong| replace:: Amazon Flexible Payments Service
 .. |FPS| replace:: Amazon FPS
+.. |Frozenlong| replace:: AWS Snowball
+.. |Frozen| replace:: Snowball
 .. |FWSlong| replace:: Amazon Fulfillment Web Service
 .. |FWS| replace:: Amazon FWS
 .. |GLlong| replace:: Amazon Glacier
@@ -259,23 +278,26 @@
 .. |IAMlong| replace:: AWS Identity and Access Management
 .. |IAM| replace:: IAM
 .. |IElong| replace:: AWS Import/Export
-.. |IE| replace:: AWS Import/Export
+.. |IE| replace:: Import/Export
 .. |INS| replace:: Amazon Inspector
 .. |IoTC| replace:: AWS IoT Device SDK for C
 .. |IoTJS| replace:: AWS IoT Device SDK for Node.js
 .. |IoTlong| replace:: AWS IoT
 .. |IoT| replace:: AWS IoT
-.. |JSBlong| replace:: AWS SDK for JavaScript in the Browser
-.. |JSB| replace:: SDK for JavaScript in the Browser
+.. |JSBlong| replace:: AWS SDK for JavaScript
+.. |JSB| replace:: SDK for JavaScript
 .. |KMSlong| replace:: AWS Key Management Service
 .. |KMS| replace:: AWS KMS
 .. |LAMlong| replace:: AWS Lambda
 .. |LAM| replace:: Lambda
+.. |LEXlong| replace:: Amazon Lex
+.. |lightsaillong| replace:: Amazon Lightsail
+.. |lightsail| replace:: Lightsail
 .. |MAlong| replace:: Amazon Mobile Analytics
 .. |MA| replace:: Mobile Analytics
 .. |MKTlong| replace:: AWS Marketplace
-.. |MKT| replace:: AWS Marketplace
-.. |MLlong| replace:: Amazon Machine Learning
+.. |MKT| replace:: Marketplace
+.. |MLlong| replace:: Amazon Machine Learning |ML|
 .. |ML| replace:: Amazon ML
 .. |MMPlong| replace:: AWS Marketplace Management Portal
 .. |MMlong| replace:: AWS Molecular Modeling
@@ -283,17 +305,22 @@
 .. |MTlong| replace:: Amazon Mechanical Turk
 .. |MT| replace:: Mechanical Turk
 .. |OPSlong| replace:: AWS OpsWorks
-.. |OPS| replace:: AWS OpsWorks
+.. |OPS| replace:: OpsWorks
+.. |OPSStacklong| replace:: AWS OpsWorks Stacks
+.. |OPSStack| replace:: OpsWorks Stacks
+.. |OPSCAlong| replace:: AWS OpsWorks for Chef Automate
+.. |OPSCA| replace:: OpsWorks for Chef Automate
 .. |PAAPIlong| replace:: Product Advertising API
 .. |PAAPI| replace:: PA API
+.. |PINlong| replace:: Amazon Pinpoint
+.. |POLlong| replace:: Amazon Polly
 .. |PSlong| replace:: IAM Policy Simulator
 .. |PS| replace:: Policy Simulator
+.. |QSlong| replace:: Amazon QuickSight
 .. |R53long| replace:: Amazon Route 53
-.. |R53| replace:: Amazon Route 53
-.. |RClong| replace:: Amazon Remote Configuration
-.. |RC| replace:: Amazon Remote Configuration
+.. |R53| replace:: Route 53
 .. |RDS-pricing| replace:: Amazon RDS Pricing
-.. |RDSlong| replace:: Amazon Relational Database Service
+.. |RDSlong| replace:: Amazon Relational Database Service |RDS|
 .. |RDS| replace:: Amazon RDS
 .. |REKlong| replace:: Amazon Rekognition
 .. |REK| replace:: Amazon Rekognition
@@ -303,15 +330,21 @@
 .. |S3| replace:: Amazon S3
 .. |SClong| replace:: AWS Service Catalog
 .. |SC| replace:: AWS Service Catalog
+.. |SCTlong| replace:: AWS Schema Conversion Tool
+.. |SCT| replace:: AWS SCT
 .. |SDBlong| replace:: Amazon SimpleDB
-.. |SDB| replace:: Amazon SimpleDB
+.. |SDB| replace:: SimpleDB
 .. |SESlong| replace:: Amazon Simple Email Service
 .. |SES| replace:: Amazon SES
 .. |SFNlong| replace:: AWS Step Functions
 .. |SFN| replace:: Step Functions
 .. |SLKlong| replace:: Amazon Silk
-.. |SLK| replace:: Amazon Silk
-.. |SNSlong| replace:: Amazon Simple Notification Service
+.. |SLK| replace:: Silk
+.. |SMSlong| replace:: AWS Server Migration Service 
+.. |SMS| replace:: AWS SMS
+.. |Snowball| replace:: Snowball
+.. |Snowlong| replace:: Snowball appliance
+.. |SNSlong| replace:: Amazon Simple Notification Service 
 .. |SNS| replace:: Amazon SNS
 .. |SPlong| replace:: Amazon Simple Pay
 .. |SP| replace:: Amazon Simple Pay
@@ -322,16 +355,10 @@
 .. |STSlong| replace:: AWS Security Token Service
 .. |STS| replace:: AWS STS
 .. |SUPlong| replace:: AWS Support
-.. |SUP| replace:: AWS Support
+.. |SUP| replace:: Support
 .. |SWFlong| replace:: Amazon Simple Workflow Service
 .. |SWF| replace:: Amazon SWF
-.. |Snowball| replace:: Snowball
-.. |Snowlong| replace:: Snowball appliance
 .. |TFW| replace:: AWS Tools for Windows
-.. |TTSlong| replace:: AWS Tools for Microsoft Visual Studio Team Services
-.. |TTS| replace:: AWS Tools for Team Services
-.. |TVSlong| replace:: AWS Toolkit for Visual Studio
-.. |TVS| replace:: Toolkit for Visual Studio
 .. |TWPlong| replace:: AWS Tools for Windows PowerShell
 .. |TWP| replace:: Tools for Windows PowerShell
 .. |VMIElong| replace:: VM Import/Export
@@ -343,9 +370,9 @@
 .. |WAMlong| replace:: Amazon WorkSpaces Application Manager
 .. |WAM| replace:: Amazon WAM
 .. |WDlong| replace:: Amazon WorkDocs
-.. |WD| replace:: Amazon WorkDocs
+.. |WD| replace:: WorkDocs
 .. |WMlong| replace:: Amazon WorkMail
-.. |WM| replace:: Amazon WorkMail
+.. |WM| replace:: WorkMail
 .. |WSPlong| replace:: Amazon WorkSpaces
 .. |WSP| replace:: Amazon WorkSpaces
 .. |xraylong| replace:: AWS X-Ray
@@ -364,7 +391,7 @@
 .. |sdk-go| replace:: AWS SDK for Go
 .. |sdk-ios| replace:: AWS Mobile SDK for iOS
 .. |sdk-java| replace:: AWS SDK for Java
-.. |sdk-javaV2| replace:: AWS SDK for Java 2.0
+.. |sdk-java-v2| replace:: AWS SDK for Java 2.0
 .. |sdk-js| replace:: AWS SDK for JavaScript
 .. |sdk-net| replace:: AWS SDK for .NET
 .. |sdk-nodejs| replace:: AWS SDK for JavaScript
@@ -375,6 +402,10 @@
 .. |sdk-unity| replace:: AWS Mobile SDK for Unity
 .. |sdk-xamarin| replace:: AWS Mobile SDK for .NET and Xamarin
 .. |tke| replace:: AWS Toolkit for Eclipse
+.. |TTSlong| replace:: AWS Tools for Microsoft Visual Studio Team Services
+.. |TTS| replace:: AWS Tools for Team Services
+.. |TVSlong| replace:: AWS Toolkit for Visual Studio
+.. |TVS| replace:: Toolkit for Visual Studio
 
 
 .. Service Guide names
@@ -396,6 +427,8 @@
 .. |ACP-api| replace:: :title:`AWS CodePipeline API Reference`
 .. |ACP-cli-ref| replace:: :title:`AWS CodePipeline CLI Reference`
 .. |ACP-ug| replace:: :title:`AWS CodePipeline User Guide`
+.. |ACS-ug| replace:: :title:`AWS CodeStar User Guide`
+.. |ACS-api| replace:: :title:`AWS CodeStar API Reference`
 .. |ADS-ag| replace:: :title:`AWS Directory Service Administration Guide`
 .. |ADS-dg| replace:: :title:`AWS Directory Service API Reference`
 .. |AEB-api| replace:: :title:`Elastic Beanstalk API Reference`
@@ -414,15 +447,24 @@
 .. |ALY-qsg| replace:: :title:`Lumberyard Quick Start Guide`
 .. |ALY-ug| replace:: :title:`Lumberyard User Guide`
 .. |AMP-ug| replace:: :title:`Management Portal User Guide`
+.. |APPA-ug| replace:: :title:`AWS Application Auto Scaling User Guide`
+.. |APPD-ug| replace:: :title:`AWS Application Discovery Service User Guide`
+.. |ART-ug| replace:: :title:`AWS Artifact User Guide`
 .. |AS-api| replace:: :title:`AutoScaling API Reference`
 .. |AS-dg| replace:: :title:`AutoScaling Developer Guide`
 .. |AS-gsg| replace:: :title:`AutoScaling Getting Started Guide`
+.. |ATE-ug| replace:: :title:`Amazon Athena User Guide`
+.. |ATE-api| replace:: :title:`Amazon Athena API Reference`
 .. |ATP-dg| replace:: :title:`Device Farm Developer Guide`
 .. |AWS-gr| replace:: :title:`Amazon Web Services General Reference`
 .. |AWSDC-api| replace:: :title:`AWS Direct Connect API Reference`
 .. |AWSDC-ug| replace:: :title:`AWS Direct Connect User Guide`
+.. |AWSDP-ug| replace:: :title:`AWS Data Pipeline User Guide`
+.. |AWSDP-api| replace:: :title:`AWS Data Pipeline API Reference`
 .. |AWSSG-api| replace:: :title:`AWS Storage Gateway API Reference`
 .. |AWSSG-ug| replace:: :title:`AWS Storage Gateway User Guide`
+.. |BATCH-ug| replace:: :title:`AWS Batch User Guide`
+.. |BATCH-api| replace:: :title:`AWS Batch API Reference`
 .. |CC-api| replace:: :title:`AWS Config API Reference`
 .. |CC-dg| replace:: :title:`AWS Config Developer Guide`
 .. |CF-api| replace:: :title:`CloudFront API Reference`
@@ -433,6 +475,8 @@
 .. |COG-api| replace:: :title:`Amazon Cognito API Reference`
 .. |COG-dg| replace:: :title:`Amazon Cognito Developer Guide`
 .. |COGSYNC-api| replace:: :title:`Amazon Cognito Sync API Reference`
+.. |CON-ug| replace:: :title:`Amazon Connect User Guide`
+.. |CON-ag| replace:: :title:`Amazon Connect Administrator Guide`
 .. |CS-dg| replace:: :title:`Amazon CloudSearch Developer Guide`
 .. |CT-api| replace:: :title:`CloudTrail API Reference`
 .. |CT-cli| replace:: :title:`CloudTrail CLI Reference`
@@ -457,7 +501,8 @@
 .. |DP-dg| replace:: :title:`Amazon DevPay Developer Guide`
 .. |DP-gsg| replace:: :title:`Amazon DevPay Getting Started Guide`
 .. |DP-qrc| replace:: :title:`Amazon DevPay Quick Reference Card`
-.. |EB-dg| replace:: :title:`Elastic Beanstalk Developer Guide`
+.. |EB-dg| replace:: :title:`AWS Elastic Beanstalk Developer Guide`
+.. |EB-api| replace:: :title:`AWS Elastic Beanstalk API Reference`
 .. |EC2-api| replace:: :title:`Amazon EC2 API Reference`
 .. |EC2-cli-ref| replace:: :title:`Amazon EC2 CLI Reference`
 .. |EC2-gsg| replace:: :title:`Amazon EC2 Getting Started Guide`
@@ -639,11 +684,11 @@
 .. |sdk-ios-dg| replace:: :title:`AWS Mobile SDK for iOS Developer Guide`
 .. |sdk-ios-gsg| replace:: :title:`AWS Mobile SDK for iOS Getting Started Guide`
 .. |sdk-java-api| replace:: :title:`AWS SDK for Java API Reference`
-.. |sdk-javaV2-api| replace:: :title:`AWS SDK for Java 2.0 API Reference`
+.. |sdk-java-api-v2| replace:: :title:`AWS SDK for Java 2.0 API Reference`
 .. |sdk-java-dg| replace:: :title:`AWS SDK for Java Developer Guide`
-.. |sdk-javaV2-dg| replace:: :title:`AWS SDK for Java 2.0 Developer Guide`
+.. |sdk-java-dg-v2| replace:: :title:`AWS SDK for Java 2.0 Developer Guide`
 .. |sdk-java-ref| replace:: |sdk-java-api|
-.. |sdk-javaV2-ref| replace:: |sdk-javaV2-api|
+.. |sdk-java-ref-v2| replace:: |sdk-java-api-v2|
 .. |sdk-js-dg| replace:: :title:`AWS SDK for JavaScript Developer Guide`
 .. |sdk-js-ref| replace:: :title:`AWS SDK for JavaScript Reference`
 .. |sdk-net-api| replace:: :title:`AWS SDK for .NET API Reference`

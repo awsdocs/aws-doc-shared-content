@@ -30,14 +30,20 @@
 .. |apsoutheast2-name| replace:: Asia Pacific (Sydney) Region
 .. |region-ap-southeast-2| replace:: Asia Pacific (Sydney)
 
+.. |cacentral1-name| replace:: Canada (Central) Region
+.. |region-ca-central-1| replace:: Canada (Central)
+
 .. |cnnorth1-name| replace:: China (Beijing) Region
 .. |region-cn-north-1| replace:: China (Beijing)
+
+.. |eucentral1-name| replace:: EU (Frankfurt) Region
+.. |region-eu-central-1| replace:: EU (Frankfurt)
 
 .. |euwest1-name| replace:: EU (Ireland) Region
 .. |region-eu-west-1| replace:: EU (Ireland)
 
-.. |eucentral1-name| replace:: EU (Frankfurt) Region
-.. |region-eu-central-1| replace:: EU (Frankfurt)
+.. |euwest2-name| replace:: EU (London) Region
+.. |region-eu-west-2| replace:: EU (London)
 
 .. |govuswest1-name| replace:: AWS GovCloud (US)
 .. |region-gov-us-west-1| replace:: AWS GovCloud (US)
