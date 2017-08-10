@@ -719,5 +719,6 @@
 .. |sdk-xray-java-api| replace:: :title:`AWS X-Ray SDK for Java API Reference`
 .. |sdk-xray-net-api| replace:: :title:`AWS X-Ray SDK for .NET API Reference`
 .. |sdk-xray-nodejs-api| replace:: :title:`AWS X-Ray SDK for Node.js API Reference`
+.. |sdk-xray-python-api| replace:: :title:`AWS X-Ray SDK for Python API Reference`
 .. |tke-ug| replace:: :title:`AWS Toolkit for Eclipse User Guide`
 

@@ -239,7 +239,6 @@
 .. _xray-dg: https://docs.aws.amazon.com/xray/latest/devguide/
 
 
-
 .. SDK/framework/toolkit guide links
    ---------------------------------
 .. _cli-ref: https://docs.aws.amazon.com/cli/latest/reference/
@@ -266,6 +265,8 @@
 .. _sdk-java-dg-v1: https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/
 .. _sdk-java-dg: https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/
 .. _sdk-java-ref: https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/
+.. _sdk-java-dg-v2: https://docs.aws.amazon.com/sdk-for-java/v2/developer-guide/
+.. _sdk-java-api-v2: https://aws-java-sdk-javadoc.s3-website-us-west-2.amazonaws.com/latest/
 .. _sdk-js-ref: https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/
 .. _sdk-mobile-dg: https://docs.aws.amazon.com/mobile-hub/latest/developerguide/
 .. _sdk-net-api-v2: https://docs.aws.amazon.com/sdkfornet/latest/apidocs/
@@ -303,6 +304,7 @@
 .. _sdk-xray-java-api: https://docs.aws.amazon.com/xray-sdk-for-java/latest/javadoc/
 .. _sdk-xray-net-api: https://docs.aws.amazon.com/xray-sdk-for-dotnet/latest/reference/
 .. _sdk-xray-nodejs-api: https://docs.aws.amazon.com/xray-sdk-for-nodejs/latest/reference/
+.. _sdk-xray-python-api: https://docs.aws.amazon.com/xray-sdk-for-python/latest/reference/
 .. _tke-gsg-v1: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _tke-gsg: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _tke-ug-v1: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
