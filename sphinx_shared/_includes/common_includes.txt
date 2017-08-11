@@ -140,7 +140,6 @@
 .. |AB| replace:: Billing and Cost Management
 .. |ABPlong| replace:: Amazon API Gateway
 .. |ABP| replace:: API Gateway
-
 .. |ACBlong| replace:: AWS CodeBuild
 .. |ACB| replace:: AWS CodeBuild
 .. |ACClong| replace:: AWS CodeCommit
