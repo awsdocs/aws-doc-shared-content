@@ -309,6 +309,7 @@
 .. _tke-gsg: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _tke-ug-v1: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _tke-ug: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
+.. _TTS-ug: http://docs.aws.amazon.com/vsts/latest/userguide/
 
 
 

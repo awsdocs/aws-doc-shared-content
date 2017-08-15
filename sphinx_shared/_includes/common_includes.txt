@@ -640,7 +640,8 @@
 .. |SUP-ug| replace:: :title:`AWS Support User Guide`
 .. |SWF-api| replace:: :title:`Amazon SWF API Reference`
 .. |SWF-dg| replace:: :title:`Amazon SWF Developer Guide`
-.. |TTS-dg| replace:: :title:`AWS Tools for Microsoft Visual Studio Team Services Developer Guide`
+.. |TTS-dg| replace:: :title:`AWS Tools for Microsoft Visual Studio Team Services User Guide`
+.. |TTS-ug| replace:: :title:`AWS Tools for Microsoft Visual Studio Team Services User Guide`
 .. |TVS-ug| replace:: :title:`Toolkit for Visual Studio User Guide`
 .. |TWP-ref| replace:: :title:`Tools for Windows PowerShell Reference`
 .. |TWP-ug| replace:: :title:`Tools for Windows PowerShell User Guide`
