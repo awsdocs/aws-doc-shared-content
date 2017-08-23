@@ -430,22 +430,22 @@
 .. |ACS-api| replace:: :title:`AWS CodeStar API Reference`
 .. |ADS-ag| replace:: :title:`AWS Directory Service Administration Guide`
 .. |ADS-dg| replace:: :title:`AWS Directory Service API Reference`
-.. |AEB-api| replace:: :title:`Elastic Beanstalk API Reference`
-.. |AEB-dg| replace:: :title:`Elastic Beanstalk Developer Guide`
-.. |AGS-api| replace:: :title:`GameLift API Reference`
-.. |AGS-dg| replace:: :title:`GameLift Developer Guide`
+.. |AEB-api| replace:: :title:`AWS Elastic Beanstalk API Reference`
+.. |AEB-dg| replace:: :title:`AWS Elastic Beanstalk Developer Guide`
+.. |AGS-api| replace:: :title:`Amazon GameLift API Reference`
+.. |AGS-dg| replace:: :title:`Amazon GameLift Developer Guide`
 .. |AK-api| replace:: :title:`Amazon Kinesis API Reference`
 .. |AK-dg| replace:: :title:`Amazon Kinesis Developer Guide`
-.. |AKA-dg| replace:: :title:`Analytics Developer Guide`
-.. |AKF-api| replace:: :title:`Firehose API Reference`
-.. |AKF-dg| replace:: :title:`Firehose Developer Guide`
-.. |AKS-api| replace:: :title:`Streams API Reference`
-.. |AKS-dg| replace:: :title:`Streams Developer Guide`
-.. |ALY-dg| replace:: :title:`Lumberyard Developer Guide`
-.. |ALY-gsg| replace:: :title:`Lumberyard Getting Started Guide`
-.. |ALY-qsg| replace:: :title:`Lumberyard Quick Start Guide`
-.. |ALY-ug| replace:: :title:`Lumberyard User Guide`
-.. |AMP-ug| replace:: :title:`Management Portal User Guide`
+.. |AKA-dg| replace:: :title:`Amazon Kinesis Analytics Developer Guide`
+.. |AKF-api| replace:: :title:`Amazon Kinesis Firehose API Reference`
+.. |AKF-dg| replace:: :title:`Amazon Kinesis Firehose Developer Guide`
+.. |AKS-api| replace:: :title:`Amazon Kinesis Streams API Reference`
+.. |AKS-dg| replace:: :title:`Amazon Kinesis Streams Developer Guide`
+.. |ALY-dg| replace:: :title:`Amazon Lumberyard Developer Guide`
+.. |ALY-gsg| replace:: :title:`Amazon Lumberyard Getting Started Guide`
+.. |ALY-qsg| replace:: :title:`Amazon Lumberyard Quick Start Guide`
+.. |ALY-ug| replace:: :title:`Amazon Lumberyard User Guide`
+.. |AMP-ug| replace:: :title:`AWS Management Portal for vCenter User Guide`
 .. |APPA-ug| replace:: :title:`AWS Application Auto Scaling User Guide`
 .. |APPD-ug| replace:: :title:`AWS Application Discovery Service User Guide`
 .. |ART-ug| replace:: :title:`AWS Artifact User Guide`
@@ -454,7 +454,7 @@
 .. |AS-gsg| replace:: :title:`AutoScaling Getting Started Guide`
 .. |ATE-ug| replace:: :title:`Amazon Athena User Guide`
 .. |ATE-api| replace:: :title:`Amazon Athena API Reference`
-.. |ATP-dg| replace:: :title:`Device Farm Developer Guide`
+.. |ATP-dg| replace:: :title:`AWS Device Farm Developer Guide`
 .. |AWS-gr| replace:: :title:`Amazon Web Services General Reference`
 .. |AWSDC-api| replace:: :title:`AWS Direct Connect API Reference`
 .. |AWSDC-ug| replace:: :title:`AWS Direct Connect User Guide`
@@ -466,35 +466,35 @@
 .. |BATCH-api| replace:: :title:`AWS Batch API Reference`
 .. |CC-api| replace:: :title:`AWS Config API Reference`
 .. |CC-dg| replace:: :title:`AWS Config Developer Guide`
-.. |CF-api| replace:: :title:`CloudFront API Reference`
-.. |CF-dg| replace:: :title:`CloudFront Developer Guide`
-.. |CFN-api| replace:: :title:`CloudFormation API Reference`
-.. |CFN-gsg| replace:: :title:`CloudFormation Getting Started Guide`
-.. |CFN-ug| replace:: :title:`CloudFormation User Guide`
+.. |CF-api| replace:: :title:`Amazon CloudFront API Reference`
+.. |CF-dg| replace:: :title:`Amazon CloudFront Developer Guide`
+.. |CFN-api| replace:: :title:`AWS CloudFormation API Reference`
+.. |CFN-gsg| replace:: :title:`AWS CloudFormation Getting Started Guide`
+.. |CFN-ug| replace:: :title:`AWS CloudFormation User Guide`
 .. |COG-api| replace:: :title:`Amazon Cognito API Reference`
 .. |COG-dg| replace:: :title:`Amazon Cognito Developer Guide`
 .. |COGSYNC-api| replace:: :title:`Amazon Cognito Sync API Reference`
 .. |CON-ug| replace:: :title:`Amazon Connect User Guide`
 .. |CON-ag| replace:: :title:`Amazon Connect Administrator Guide`
 .. |CS-dg| replace:: :title:`Amazon CloudSearch Developer Guide`
-.. |CT-api| replace:: :title:`CloudTrail API Reference`
-.. |CT-cli| replace:: :title:`CloudTrail CLI Reference`
-.. |CT-ug| replace:: :title:`CloudTrail User Guide`
-.. |CW-api| replace:: :title:`CloudWatch API Reference`
-.. |CW-cli| replace:: :title:`CloudWatch CLI Reference`
-.. |CW-ug| replace:: :title:`CloudWatch User Guide`
-.. |CW-dg| replace:: :title:`CloudWatch User Guide`
-.. |CW-gsg| replace:: :title:`CloudWatch Getting Started Guide`
-.. |CW-qrc| replace:: :title:`CloudWatch Quick Reference Card`
-.. |CWE-api| replace:: :title:`CloudWatch Events API Reference`
-.. |CWE-ug| replace:: :title:`CloudWatch Events User Guide`
-.. |CWL-api| replace:: :title:`CloudWatch Logs API Reference`
-.. |CWL-ug| replace:: :title:`CloudWatch Logs User Guide`
-.. |CWL-dg| replace:: :title:`CloudWatch Logs User Guide`
-.. |DDB-api| replace:: :title:`DynamoDB API Reference`
-.. |DDB-dg| replace:: :title:`DynamoDB Developer Guide`
-.. |DDB-gsg| replace:: :title:`DynamoDB Getting Started Guide`
-.. |DDB-streams-api| replace:: :title:`DynamoDB Streams API Reference`
+.. |CT-api| replace:: :title:`AWS CloudTrail API Reference`
+.. |CT-cli| replace:: :title:`AWS CloudTrail CLI Reference`
+.. |CT-ug| replace:: :title:`AWS CloudTrail User Guide`
+.. |CW-api| replace:: :title:`Amazon CloudWatch API Reference`
+.. |CW-cli| replace:: :title:`Amazon CloudWatch CLI Reference`
+.. |CW-ug| replace:: :title:`Amazon CloudWatch User Guide`
+.. |CW-dg| replace:: :title:`Amazon CloudWatch User Guide`
+.. |CW-gsg| replace:: :title:`Amazon CloudWatch Getting Started Guide`
+.. |CW-qrc| replace:: :title:`Amazon CloudWatch Quick Reference Card`
+.. |CWE-api| replace:: :title:`Amazon CloudWatch Events API Reference`
+.. |CWE-ug| replace:: :title:`Amazon CloudWatch Events User Guide`
+.. |CWL-api| replace:: :title:`Amazon CloudWatch Logs API Reference`
+.. |CWL-ug| replace:: :title:`Amazon CloudWatch Logs User Guide`
+.. |CWL-dg| replace:: :title:`Amazon CloudWatch Logs User Guide`
+.. |DDB-api| replace:: :title:`Amazon DynamoDB API Reference`
+.. |DDB-dg| replace:: :title:`Amazon DynamoDB Developer Guide`
+.. |DDB-gsg| replace:: :title:`Amazon DynamoDB Getting Started Guide`
+.. |DDB-streams-api| replace:: :title:`Amazon DynamoDB Streams API Reference`
 .. |DMS-api| replace:: :title:`AWS DMS API Reference`
 .. |DMS-ug| replace:: :title:`AWS DMS User Guide`
 .. |DP-dg| replace:: :title:`Amazon DevPay Developer Guide`
@@ -519,11 +519,11 @@
 .. |ELB-api| replace:: :title:`Elastic Load Balancing API Reference`
 .. |ELB-dg| replace:: :title:`Elastic Load Balancing Developer Guide`
 .. |ELB-qrc| replace:: :title:`Elastic Load Balancing Quick Reference Card`
-.. |ELC-api| replace:: :title:`ElastiCache API Reference`
-.. |ELC-cli-ref| replace:: :title:`ElastiCache CLI Reference`
-.. |ELC-gsg| replace:: :title:`ElastiCache Getting Started Guide`
-.. |ELC-qrc| replace:: :title:`ElastiCache Quick Reference Card`
-.. |ELC-ug| replace:: :title:`ElastiCache User Guide`
+.. |ELC-api| replace:: :title:`Amazon ElastiCache API Reference`
+.. |ELC-cli-ref| replace:: :title:`Amazon ElastiCache CLI Reference`
+.. |ELC-gsg| replace:: :title:`Amazon ElastiCache Getting Started Guide`
+.. |ELC-qrc| replace:: :title:`Amazon ElastiCache Quick Reference Card`
+.. |ELC-ug| replace:: :title:`Amazon ElastiCache User Guide`
 .. |EMR-api| replace:: :title:`Amazon EMR API Reference`
 .. |EMR-dg| replace:: :title:`Amazon EMR Developer Guide`
 .. |EMR-gsg| replace:: :title:`Amazon EMR Getting Started Guide`
@@ -559,7 +559,7 @@
 .. |GSG-win| replace:: :title:`Getting Started Guide (Windows)`
 .. |HSM-api| replace:: :title:`AWS CloudHSM API Reference`
 .. |HSM-cli| replace:: :title:`AWS CloudHSM CLI Guide`
-.. |HSM-dg| replace:: :title:`AWS CloudHSM Developer Guide`
+.. |HSM-dg| replace:: :title:`AWS CloudHSM User Guide`
 .. |HSM-gsg| replace:: :title:`AWS CloudHSM Getting Started Guide`
 .. |HSM-ug| replace:: :title:`AWS CloudHSM User Guide`
 .. |IAM-api| replace:: :title:`IAM API Reference`
@@ -577,9 +577,9 @@
 .. |JSB-gsg| replace:: :title:`SDK for JavaScript in the Browser Getting Started Guide`
 .. |KMS-api| replace:: :title:`AWS KMS API Reference`
 .. |KMS-dg| replace:: :title:`AWS KMS Developer Guide`
-.. |LAM-dg| replace:: :title:`Lambda Developer Guide`
-.. |MA-api| replace:: :title:`Mobile Analytics API Reference`
-.. |MA-ug| replace:: :title:`Mobile Analytics User Guide`
+.. |LAM-dg| replace:: :title:`AWS Lambda Developer Guide`
+.. |MA-api| replace:: :title:`Amazon Mobile Analytics API Reference`
+.. |MA-ug| replace:: :title:`Amazon Mobile Analytics User Guide`
 .. |ML-api| replace:: :title:`Amazon ML API Reference`
 .. |ML-dg| replace:: :title:`Amazon ML Developer Guide`
 .. |MT-api| replace:: :title:`Mechanical Turk API Reference`
@@ -659,7 +659,8 @@
 .. |WM-ag| replace:: :title:`Amazon WorkMail Administration Guide`
 .. |WM-ug| replace:: :title:`Amazon WorkMail User Guide`
 .. |WSP-ag| replace:: :title:`Amazon WorkSpaces Administration Guide`
-.. |WSP-dg| replace:: :title:`Amazon WorkSpaces Developer Guide`
+.. |WSP-dg| replace:: :title:`Amazon WorkSpaces User Guide`
+.. |WSP-ug| replace:: :title:`Amazon WorkSpaces User Guide`
 .. |xray-api| replace:: :title:`AWS X-Ray API Reference`
 .. |xray-dg| replace:: :title:`AWS X-Ray Developer Guide`
 
