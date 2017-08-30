@@ -296,7 +296,7 @@
 .. |MA| replace:: Mobile Analytics
 .. |MKTlong| replace:: AWS Marketplace
 .. |MKT| replace:: Marketplace
-.. |MLlong| replace:: Amazon Machine Learning |ML|
+.. |MLlong| replace:: Amazon Machine Learning
 .. |ML| replace:: Amazon ML
 .. |MMPlong| replace:: AWS Marketplace Management Portal
 .. |MMlong| replace:: AWS Molecular Modeling
@@ -319,7 +319,7 @@
 .. |R53long| replace:: Amazon Route 53
 .. |R53| replace:: Route 53
 .. |RDS-pricing| replace:: Amazon RDS Pricing
-.. |RDSlong| replace:: Amazon Relational Database Service |RDS|
+.. |RDSlong| replace:: Amazon Relational Database Service
 .. |RDS| replace:: Amazon RDS
 .. |REKlong| replace:: Amazon Rekognition
 .. |REK| replace:: Amazon Rekognition
