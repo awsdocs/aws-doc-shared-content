@@ -208,7 +208,7 @@
 .. |CFN| replace:: AWS CloudFormation
 .. |CFlong| replace:: Amazon CloudFront
 .. |CF| replace:: CloudFront
-.. |CHMlong| Amazon Chime
+.. |CHMlong| replace:: Amazon Chime
 .. |CLIlong| replace:: AWS Command Line Interface
 .. |CLI| replace:: AWS CLI
 .. |COGID| replace:: Amazon Cognito Identity
@@ -339,11 +339,11 @@
 .. |SFN| replace:: Step Functions
 .. |SLKlong| replace:: Amazon Silk
 .. |SLK| replace:: Silk
-.. |SMSlong| replace:: AWS Server Migration Service 
+.. |SMSlong| replace:: AWS Server Migration Service
 .. |SMS| replace:: AWS SMS
 .. |Snowball| replace:: Snowball
 .. |Snowlong| replace:: Snowball appliance
-.. |SNSlong| replace:: Amazon Simple Notification Service 
+.. |SNSlong| replace:: Amazon Simple Notification Service
 .. |SNS| replace:: Amazon SNS
 .. |SPlong| replace:: Amazon Simple Pay
 .. |SP| replace:: Amazon Simple Pay
@@ -722,4 +722,3 @@
 .. |sdk-xray-nodejs-api| replace:: :title:`AWS X-Ray SDK for Node.js API Reference`
 .. |sdk-xray-python-api| replace:: :title:`AWS X-Ray SDK for Python API Reference`
 .. |tke-ug| replace:: :title:`AWS Toolkit for Eclipse User Guide`
-
