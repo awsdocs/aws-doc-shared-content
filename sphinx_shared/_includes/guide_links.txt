@@ -126,6 +126,7 @@
 .. _FWS-dg: https://docs.aws.amazon.com/fws/latest/DeveloperGuide/
 .. _FWS-gsg: https://docs.aws.amazon.com/fws/latest/GettingStartedGuide/
 .. _GL-dg: https://docs.aws.amazon.com/amazonglacier/latest/dev/
+.. _GLU-dg: http://docs.aws.amazon.com/glue/latest/dg/
 .. _GOVCLOUD-US-ug: https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/
 .. _GS-api: https://docs.aws.amazon.com/gamelift/latest/apireference/
 .. _GS-dg: https://docs.aws.amazon.com/gamelift/latest/developerguide/
@@ -162,6 +163,7 @@
 .. _LY-qsg: https://docs.aws.amazon.com/lumberyard/latest/quickstartguide/
 .. _LY-ug: https://docs.aws.amazon.com/lumberyard/latest/userguide/
 .. _MA-ug: https://docs.aws.amazon.com/mobileanalytics/latest/ug/
+.. _MCE-ug: http://docs.aws.amazon.com/macie/latest/userguide/
 .. _ML-api: https://docs.aws.amazon.com/machine-learning/latest/APIReference/
 .. _ML-dg: https://docs.aws.amazon.com/machine-learning/latest/dg/
 .. _MT-api: https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMturkAPI/
@@ -292,11 +294,12 @@
 .. _sdk-python-ref: https://boto3.readthedocs.org/en/latest/reference/services/
 .. _sdk-python3-api: https://boto3.readthedocs.org/en/latest/reference/services/
 .. _sdk-python3-gsg: https://boto3.readthedocs.org/en/latest/
-.. _sdk-ruby-api: https://docs.aws.amazon.com/sdkforruby/api/
-.. _sdk-ruby-ref: https://docs.aws.amazon.com/sdkforruby/api/
-.. _sdk-ruby-dg: https://docs.aws.amazon.com/sdk-for-ruby/latest/developer-guide/
+.. _sdk-ruby-api: https://docs.aws.amazon.com/sdk-for-ruby/v3/api/
+.. _sdk-ruby-ref: https://docs.aws.amazon.com/sdk-for-ruby/v3/api/
+.. _sdk-ruby-dg: https://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/
 .. _sdk-ruby1-dg: https://docs.aws.amazon.com/sdk-for-ruby/v1/developer-guide/
 .. _sdk-ruby2-dg: https://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/
+.. _sdk-ruby3-dg: https://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/
 .. _sdk-unity-dg: https://docs.aws.amazon.com/mobile/sdkforunity/developerguide/
 .. _sdk-unity-ref: https://docs.aws.amazon.com/mobile/sdkforunity/developerguide/
 .. _sdk-xamarin-dg: https://docs.aws.amazon.com/mobile/sdkforxamarin/developerguide/

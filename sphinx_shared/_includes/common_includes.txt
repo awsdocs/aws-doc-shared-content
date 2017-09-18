@@ -270,6 +270,8 @@
 .. |FWS| replace:: Amazon FWS
 .. |GLlong| replace:: Amazon Glacier
 .. |GL| replace:: Amazon Glacier
+.. |GLUlong| replace:: AWS Glue
+.. |GLU| replace:: AWS Glue
 .. |GOVCLOUD-US| replace:: AWS GovCloud (US)
 .. |GSG| replace:: Getting Started with AWS
 .. |HSMlong| replace:: |HSM|
@@ -294,6 +296,8 @@
 .. |lightsail| replace:: Lightsail
 .. |MAlong| replace:: Amazon Mobile Analytics
 .. |MA| replace:: Mobile Analytics
+.. |MCElong| replace:: Amazon Macie
+.. |MCE| replace:: Macie
 .. |MKTlong| replace:: AWS Marketplace
 .. |MKT| replace:: Marketplace
 .. |MLlong| replace:: Amazon Machine Learning
