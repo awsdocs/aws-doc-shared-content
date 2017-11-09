@@ -31,10 +31,7 @@ intersphinx_mapping.update({
     'netdg2': (aws_docs_url + 'sdk-for-net/v2/developer-guide', None),
     'netdg3': (aws_docs_url + 'sdk-for-net/v3/developer-guide', None),
     'pstug': (aws_docs_url + 'powershell/latest/userguide', None),
-    'rubydg': (aws_docs_url + 'sdk-for-ruby/v2/developer-guide', None),
-    'tkeug': (aws_docs_url + 'toolkit-for-eclipse/v1/user-guide', None),
     'tkvug': (aws_docs_url + 'toolkit-for-visual-studio/latest/user-guide', None),
-    'unitydg': (aws_docs_url + 'mobile/sdkforunity/developerguide', None),
     'xamarindg': (aws_docs_url + 'mobile/sdkforxamarin/developerguide', None),
     })
 
@@ -127,4 +124,3 @@ extlinks.update({
     'rande': (aws_docs_url + 'general/latest/gr/rande.html#%s_region', ''),
 
     })
-
