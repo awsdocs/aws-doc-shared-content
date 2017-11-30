@@ -244,9 +244,9 @@
 .. |EB| replace:: Elastic Beanstalk
 .. |EC2long| replace:: Amazon Elastic Compute Cloud
 .. |EC2| replace:: Amazon EC2
-.. |ECRlong| replace:: Amazon EC2 Container Registry
+.. |ECRlong| replace:: Amazon Elastic Container Registry
 .. |ECR| replace:: Amazon ECR
-.. |ECSlong| replace:: Amazon EC2 Container Service
+.. |ECSlong| replace:: Amazon Elastic Container Service
 .. |ECS| replace:: Amazon ECS
 .. |EFSlong| replace:: Amazon Elastic File System
 .. |EFS| replace:: Amazon EFS
