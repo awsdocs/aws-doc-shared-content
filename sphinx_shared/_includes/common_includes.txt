@@ -140,6 +140,10 @@
 .. |AB| replace:: Billing and Cost Management
 .. |ABPlong| replace:: Amazon API Gateway
 .. |ABP| replace:: API Gateway
+.. |ABUSlong| replace:: Alexa for Business
+.. |ABUS| replace:: Alexa for Business
+.. |AC9long| replace:: AWS Cloud9
+.. |AC9| replace: AWS Cloud9
 .. |ACBlong| replace:: AWS CodeBuild
 .. |ACB| replace:: AWS CodeBuild
 .. |ACClong| replace:: AWS CodeCommit
@@ -157,14 +161,16 @@
 .. |AEB| replace:: Elastic Beanstalk
 .. |AGSlong| replace:: Amazon GameLift
 .. |AGS| replace:: Amazon GameLift
-.. |AKAlong| replace:: Amazon Kinesis Analytics
-.. |AKA| replace:: Kinesis Analytics
-.. |AKFlong| replace:: Amazon Kinesis Firehose
-.. |AKF| replace:: Kinesis Firehose
-.. |AKSlong| replace:: Amazon Kinesis Streams
-.. |AKS| replace:: Kinesis Streams
+.. |AKAlong| replace:: Amazon Kinesis Data Analytics
+.. |AKA| replace:: Kinesis Data Analytics
+.. |AKFlong| replace:: Amazon Kinesis Data Firehose
+.. |AKF| replace:: Kinesis Data Firehose
+.. |AKSlong| replace:: Amazon Kinesis Data Streams
+.. |AKS| replace:: Kinesis Data Streams
 .. |AKlong| replace:: Amazon Kinesis
 .. |AK| replace:: Kinesis
+.. |AKVSlong| replace:: Amazon Kinesis Video Streams
+.. |AKVS| replace:: Kinesis Video Streams
 .. |ALYlong| replace:: Amazon Lumberyard
 .. |ALY| replace:: Lumberyard
 .. |AMHlong| replace:: AWS Mobile Hub
@@ -173,12 +179,16 @@
 .. |AMPC| replace:: connector
 .. |AMPlong| replace:: AWS Management Portal for vCenter
 .. |AMP| replace:: management portal
+.. |AMQlong| replace:: Amazon MQ
+.. |AMQ| replace:: Amazon MQ
 .. |AOlong| replace:: AWS Organizations
 .. |AO| replace:: Organizations
 .. |APPAlong| replace:: AWS Application Auto Scaling
 .. |APPA| replace:: Application Auto Scaling
 .. |APPDlong| replace:: AWS Application Discovery Service
 .. |APPD| replace:: Application Discovery Service
+.. |APSYlong| replace:: AWS AppSync
+.. |APSY| replace:: AWS AppSync
 .. |ARTlong| replace:: AWS Artifact
 .. |ART| replace:: AWS Artifact
 .. |ASlong| replace:: Auto Scaling
@@ -216,6 +226,8 @@
 .. |COGSYNC| replace:: Amazon Cognito Sync
 .. |COGlong| replace:: Amazon Cognito
 .. |COG| replace:: Amazon Cognito
+.. |CMPlong| replace:: Amazon Comprehend
+.. |CMP| replace:: Amazon Comprehend
 .. |CON| replace:: Amazon Connect
 .. |CSlong| replace:: Amazon CloudSearch
 .. |CS| replace:: CloudSearch
@@ -229,6 +241,8 @@
 .. |CW| replace:: CloudWatch
 .. |DDBlong| replace:: Amazon DynamoDB
 .. |DDB| replace:: DynamoDB
+.. |DLlong| replace:: AWS DeepLens
+.. |DL| replace:: AWS DeepLens
 .. |DMSlong| replace:: AWS Database Migration Service
 .. |DMS| replace:: AWS DMS
 .. |DPlong| replace:: Amazon DevPay
@@ -254,8 +268,18 @@
 .. |ELB| replace:: ELB
 .. |ELClong| replace:: Amazon ElastiCache
 .. |ELC| replace:: ElastiCache
+.. |EMClong| replace:: AWS Elemental MediaConvert
+.. |EMC| replace:: AWS Elemental MediaConvert
+.. |EMLlong| replace:: AWS Elemental MediaLive
+.. |EML| replace:: AWS Elemental MediaLive
+.. |EMPlong| replace:: AWS Elemental MediaPackage
+.. |EMP| replace:: AWS Elemental MediaPackage
 .. |EMRlong| replace:: Amazon EMR
 .. |EMR| replace:: Amazon EMR
+.. |EMSlong| replace:: AWS Elemental MediaStore
+.. |EMS| replace:: AWS Elemental MediaStore
+.. |EMTlong| replace:: AWS Elemental MediaTailor
+.. |EMT| replace:: AWS Elemental MediaTailor
 .. |ESlong| replace:: Amazon Elasticsearch Service
 .. |ES| replace:: Amazon ES
 .. |ETlong| replace:: Amazon Elastic Transcoder
@@ -268,6 +292,8 @@
 .. |Frozen| replace:: Snowball
 .. |FWSlong| replace:: Amazon Fulfillment Web Service
 .. |FWS| replace:: Amazon FWS
+.. |GDUlong|:: Amazon GuardDuty
+.. |GDU|:: GuardDuty
 .. |GLlong| replace:: Amazon Glacier
 .. |GL| replace:: Amazon Glacier
 .. |GLUlong| replace:: AWS Glue
@@ -285,6 +311,8 @@
 .. |IoTJS| replace:: AWS IoT Device SDK for Node.js
 .. |IoTlong| replace:: AWS IoT
 .. |IoT| replace:: AWS IoT
+.. |ITDMlong| replace:: AWS IoT Device Management
+.. |ITDM| replace:: AWS IoT Device Management
 .. |JSBlong| replace:: AWS SDK for JavaScript
 .. |JSB| replace:: SDK for JavaScript
 .. |KMSlong| replace:: AWS Key Management Service
@@ -307,6 +335,8 @@
 .. |MM| replace:: Molecular Modeling
 .. |MTlong| replace:: Amazon Mechanical Turk
 .. |MT| replace:: Mechanical Turk
+.. |neptunelong| replace:: Amazon Neptune
+.. |neptune| replace:: Neptune
 .. |OPSlong| replace:: AWS OpsWorks
 .. |OPS| replace:: OpsWorks
 .. |OPSStacklong| replace:: AWS OpsWorks Stacks
@@ -329,6 +359,8 @@
 .. |REK| replace:: Amazon Rekognition
 .. |RSlong| replace:: Amazon Redshift
 .. |RS| replace:: Amazon Redshift
+.. |RTOSlong| replace:: Amazon FreeRTOS
+.. |RTOS| replace:: Amazon FreeRTOS
 .. |S3long| replace:: Amazon Simple Storage Service
 .. |S3| replace:: Amazon S3
 .. |SClong| replace:: AWS Service Catalog
@@ -343,6 +375,8 @@
 .. |SFN| replace:: Step Functions
 .. |SLKlong| replace:: Amazon Silk
 .. |SLK| replace:: Silk
+.. |SMlong| replace:: Amazon SageMaker
+.. |SM| replace:: Amazon SageMaker
 .. |SMSlong| replace:: AWS Server Migration Service
 .. |SMS| replace:: AWS SMS
 .. |Snowball| replace:: Snowball
@@ -351,17 +385,25 @@
 .. |SNS| replace:: Amazon SNS
 .. |SPlong| replace:: Amazon Simple Pay
 .. |SP| replace:: Amazon Simple Pay
+.. |SPK| replace:: AWS Elemental SPEKE
+.. |SPKlong| replace:: AWS Elemental Secure Packager and Encoder Key Exchange
 .. |SQSlong| replace:: Amazon Simple Queue Service
 .. |SQS| replace:: Amazon SQS
 .. |SSMlong| replace:: Amazon EC2 Simple Systems Manager
 .. |SSM| replace:: SSM
 .. |STSlong| replace:: AWS Security Token Service
 .. |STS| replace:: AWS STS
+.. |sumerianlong| replace:: Amazon Sumerian
+.. |sumerian| replace:: Sumerian
 .. |SUPlong| replace:: AWS Support
 .. |SUP| replace:: Support
 .. |SWFlong| replace:: Amazon Simple Workflow Service
 .. |SWF| replace:: Amazon SWF
 .. |TFW| replace:: AWS Tools for Windows
+.. |TSClong| replace:: Amazon Transcribe
+.. |TSC| replace:: Amazon Transcribe
+.. |TSLlong| replace:: Amazon Translate
+.. |TSL| replace:: Amazon Translate
 .. |TWPlong| replace:: AWS Tools for Windows PowerShell
 .. |TWP| replace:: Tools for Windows PowerShell
 .. |VMIElong| replace:: VM Import/Export
@@ -416,6 +458,11 @@
 .. |AAS-dg| replace:: :title:`Amazon AppStream Developer Guide`
 .. |AB-ug| replace:: :title:`Billing and Cost Management User Guide`
 .. |ABP-dg| replace:: :title:`API Gateway Developer Guide`
+.. |ABUS-ag| replace:: :title:`Alexa for Business Administration Guide`
+.. |ABUS-api| replace:: :title:`Alexa for Business API Reference`
+.. |AC9-ug| replace:: :title:`AWS Cloud9 User Guide`
+.. |AC9-api| replace:: :title:`AWS Cloud9 API Reference`
+.. |AC9-cli| replace:: :title:`AWS CLI Reference for AWS Cloud9`
 .. |ACB-api| replace:: :title:`AWS CodeBuild API Reference`
 .. |ACB-cli| replace:: :title:`AWS CodeBuild CLI Reference`
 .. |ACB-ug| replace:: :title:`AWS CodeBuild User Guide`
@@ -440,18 +487,23 @@
 .. |AGS-dg| replace:: :title:`Amazon GameLift Developer Guide`
 .. |AK-api| replace:: :title:`Amazon Kinesis API Reference`
 .. |AK-dg| replace:: :title:`Amazon Kinesis Developer Guide`
-.. |AKA-dg| replace:: :title:`Amazon Kinesis Analytics Developer Guide`
-.. |AKF-api| replace:: :title:`Amazon Kinesis Firehose API Reference`
-.. |AKF-dg| replace:: :title:`Amazon Kinesis Firehose Developer Guide`
-.. |AKS-api| replace:: :title:`Amazon Kinesis Streams API Reference`
-.. |AKS-dg| replace:: :title:`Amazon Kinesis Streams Developer Guide`
+.. |AKA-dg| replace:: :title:`Amazon Kinesis Data Analytics Developer Guide`
+.. |AKF-api| replace:: :title:`Amazon Kinesis Data Firehose API Reference`
+.. |AKF-dg| replace:: :title:`Amazon Kinesis Data Firehose Developer Guide`
+.. |AKS-api| replace:: :title:`Amazon Kinesis Data Streams API Reference`
+.. |AKS-dg| replace:: :title:`Amazon Kinesis Data Streams Developer Guide`
+.. |AKVS-dg| replace:: :title:`Amazon Kinesis Video Streams Developer Guide`
 .. |ALY-dg| replace:: :title:`Amazon Lumberyard Developer Guide`
 .. |ALY-gsg| replace:: :title:`Amazon Lumberyard Getting Started Guide`
 .. |ALY-qsg| replace:: :title:`Amazon Lumberyard Quick Start Guide`
 .. |ALY-ug| replace:: :title:`Amazon Lumberyard User Guide`
 .. |AMP-ug| replace:: :title:`AWS Management Portal for vCenter User Guide`
+.. |AMQ-dg| replace:: :title:`Amazon MQ Developer Guide`
+.. |AMQ-api| replace:: :title:`Amazon MQ REST API Reference`
 .. |APPA-ug| replace:: :title:`AWS Application Auto Scaling User Guide`
 .. |APPD-ug| replace:: :title:`AWS Application Discovery Service User Guide`
+.. |APSY-dg| replace:: :title:`AWS AppSync Developer Guide`
+.. |APSY-api| replace:: :title:`AWS AppSync API Reference`
 .. |ART-ug| replace:: :title:`AWS Artifact User Guide`
 .. |AS-api| replace:: :title:`AutoScaling API Reference`
 .. |AS-dg| replace:: :title:`AutoScaling Developer Guide`
@@ -478,6 +530,7 @@
 .. |COG-api| replace:: :title:`Amazon Cognito API Reference`
 .. |COG-dg| replace:: :title:`Amazon Cognito Developer Guide`
 .. |COGSYNC-api| replace:: :title:`Amazon Cognito Sync API Reference`
+.. |CMP-dg| replace:: :title`Amazon Comprehend Developer Guide`
 .. |CON-ug| replace:: :title:`Amazon Connect User Guide`
 .. |CON-ag| replace:: :title:`Amazon Connect Administrator Guide`
 .. |CS-dg| replace:: :title:`Amazon CloudSearch Developer Guide`
@@ -499,6 +552,8 @@
 .. |DDB-dg| replace:: :title:`Amazon DynamoDB Developer Guide`
 .. |DDB-gsg| replace:: :title:`Amazon DynamoDB Getting Started Guide`
 .. |DDB-streams-api| replace:: :title:`Amazon DynamoDB Streams API Reference`
+.. |DL-dg| replace:: :title:`AWS DeepLens Developer Guide`
+.. |DL-api| replace:: :title:`AWS DeepLens API Reference`
 .. |DMS-api| replace:: :title:`AWS DMS API Reference`
 .. |DMS-ug| replace:: :title:`AWS DMS User Guide`
 .. |DP-dg| replace:: :title:`Amazon DevPay Developer Guide`
@@ -519,6 +574,8 @@
 .. |EDP-api| replace:: :title:`AWS Data Pipeline API Reference`
 .. |EDP-dg| replace:: :title:`AWS Data Pipeline Developer Guide`
 .. |EDP-gsg| replace:: :title:`AWS Data Pipeline Getting Started Guide`
+.. |DL-dg| replace:: :title:`AWS DeepLens Developer Guide`
+.. |DL-api| replace:: :title:`AWS DeepLens API Reference`
 .. |EFS-ug| replace:: :title:`Amazon EFS User Guide`
 .. |ELB-api| replace:: :title:`Elastic Load Balancing API Reference`
 .. |ELB-dg| replace:: :title:`Elastic Load Balancing Developer Guide`
@@ -528,11 +585,21 @@
 .. |ELC-gsg| replace:: :title:`Amazon ElastiCache Getting Started Guide`
 .. |ELC-qrc| replace:: :title:`Amazon ElastiCache Quick Reference Card`
 .. |ELC-ug| replace:: :title:`Amazon ElastiCache User Guide`
+.. |EMC-ug| replace:: :title:`AWS Elemental MediaConvert User Guide`
+.. |EMC-api| replace:: :title:`AWS Elemental MediaConvert API Reference`
+.. |EML-ug| replace:: :title:`AWS Elemental MediaLive User Guide`
+.. |EML-api| replace:: :title:`AWS Elemental MediaLive API Reference`
+.. |EMP-ug| replace:: :title:`AWS Elemental MediaPackage User Guide`
+.. |EMP-api| replace:: :title:`AWS Elemental MediaPackage API Reference`
 .. |EMR-api| replace:: :title:`Amazon EMR API Reference`
 .. |EMR-dg| replace:: :title:`Amazon EMR Developer Guide`
 .. |EMR-gsg| replace:: :title:`Amazon EMR Getting Started Guide`
 .. |EMR-mg| replace:: :title:`Amazon EMR Management Guide`
 .. |EMR-qrc| replace:: :title:`Amazon EMR Quick Reference Card`
+.. |EMS-ug| replace:: :title:`AWS Elemental MediaStore User Guide`
+.. |EMS-api| replace:: :title:`AWS Elemental MediaStore API Reference`
+.. |EMT-ug| replace:: :title:`AWS Elemental MediaTailor User Guide`
+.. |EMT-api| replace:: :title:`AWS Elemental MediaTailor API Reference`
 .. |ES-api| replace:: :title:`Amazon ES REST Configuration API Reference`
 .. |ES-dg| replace:: :title:`Amazon ES Developer Guide`
 .. |ET-dg| replace:: :title:`Amazon Elastic Transcoder Developer Guide`
@@ -550,6 +617,8 @@
 .. |FWS-qrc-inbound| replace:: :title:`Amazon FWS Quick Reference Card (Inbound)`
 .. |FWS-qrc-inventory| replace:: :title:`Amazon FWS Quick Reference Card (Inventory)`
 .. |FWS-qrc-outbound| replace:: :title:`Amazon FWS Quick Reference Card (Outbound)`
+.. |GDU-ug| replace:: :title:`Amazon GuardDuty User Guide`
+.. |GDU-api| replace:: :title:`Amazon GuardDuty API Reference`
 .. |GL-dg| replace:: :title:`Amazon Glacier Developer Guide`
 .. |GOVCLOUD-US-ug| replace:: :title:`AWS GovCloud (US) User Guide`
 .. |GSG-aws| replace:: :title:`Getting Started Guide`
@@ -593,6 +662,7 @@
 .. |MT-qrc| replace:: :title:`Mechanical Turk Quick Reference Card`
 .. |MT-rui| replace:: :title:`Mechanical Turk Requester User Interface`
 .. |MT-wsdl| replace:: :title:`Mechanical Turk WSDL`
+.. |neptune-ug| replace:: :title:`Amazon Neptune User Guide`
 .. |OPS-api| replace:: :title:`AWS OpsWorks API Reference`
 .. |OPS-ug| replace:: :title:`AWS OpsWorks User Guide`
 .. |PAAPI-dg| replace:: :title:`PA API Developer Guide`
@@ -612,6 +682,8 @@
 .. |RS-dg| replace:: :title:`Amazon Redshift Database Developer Guide`
 .. |RS-gsg| replace:: :title:`Amazon Redshift Getting Started`
 .. |RS-mgmt| replace:: :title:`Amazon Redshift Cluster Management Guide`
+.. |RTOS-ug| replace:: :title:`Amazon FreeRTOS User Guide`
+.. |RTOS-api| replace:: :title:`Amazon FreeRTOS API Reference`
 .. |S3-api| replace:: :title:`Amazon S3 API Reference`
 .. |S3-dg| replace:: :title:`Amazon S3 Developer Guide`
 .. |S3-gsg| replace:: :title:`Amazon S3 Getting Started Guide`
@@ -627,11 +699,14 @@
 .. |SFN-api| replace:: :title:`AWS Step Functions API Reference`
 .. |SFN-dg| replace:: :title:`AWS Step Functions Developer Guide`
 .. |SLK-dg| replace:: :title:`Amazon Silk Developer Guide`
+.. |SM-dg| replace:: :title:`Amazon SageMaker Developer Guide`
+.. |SM-api| replace:: :title:`Amazon SageMaker API Reference`
 .. |SNS-api| replace:: :title:`Amazon SNS API Reference`
 .. |SNS-cli-ref| replace:: :title:`Amazon SNS CLI Reference`
 .. |SNS-dg| replace:: :title:`Amazon SNS Developer Guide`
 .. |SNS-gsg| replace:: :title:`Amazon SNS Getting Started Guide`
 .. |SNS-qrc| replace:: :title:`Amazon SNS Quick Reference Card`
+.. |SPK-ug| replace:: :title:`AWS Elemental Secure Packager and Encoder Key Exchange Documentation`
 .. |SP-gsg| replace:: :title:`Amazon Simple Pay Getting Started Guide`
 .. |SP-ug| replace:: :title:`Amazon Simple Pay Advanced User Guide`
 .. |SQS-api| replace:: :title:`Amazon SQS API Reference`
@@ -640,10 +715,15 @@
 .. |SSM-api| replace:: :title:`SSM API Reference`
 .. |STS-api| replace:: :title:`AWS STS API Reference`
 .. |STS-ug| replace:: :title:`AWS STS User Guide`
+.. |sumerian-ug| replace:: :title:`Amazon Sumerian User Guide`
 .. |SUP-api| replace:: :title:`AWS Support API Reference`
 .. |SUP-ug| replace:: :title:`AWS Support User Guide`
 .. |SWF-api| replace:: :title:`Amazon SWF API Reference`
 .. |SWF-dg| replace:: :title:`Amazon SWF Developer Guide`
+.. |TSC-dg| replace:: :title:`Amazon Transcribe Developer Guide`
+.. |TSC-api| replace:: title:`Amazon Transcribe API Reference`
+.. |TSL-dg| replace:: :title:`Amazon Translate Developer Guide`
+.. |TSL-api| replace:: :title:`Amazon Translate API Reference`
 .. |TTS-dg| replace:: :title:`AWS Tools for Microsoft Visual Studio Team Services User Guide`
 .. |TTS-ug| replace:: :title:`AWS Tools for Microsoft Visual Studio Team Services User Guide`
 .. |TVS-ug| replace:: :title:`Toolkit for Visual Studio User Guide`

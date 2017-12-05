@@ -26,6 +26,7 @@
 .. Service links
 .. -------------
 .. _ABP: https://aws.amazon.com/api-gateway/
+.. _ABUS: https://aws.amazon.com/alexaforbusiness/
 .. _ACB: https://aws.amazon.com/codebuild/
 .. _ACBlong: ACB_
 .. _ACC: https://aws.amazon.com/codecommit/
@@ -38,11 +39,16 @@
 .. _AKF: https://aws.amazon.com/kinesis/firehose/
 .. _AKFlong: AKF_
 .. _AKlong: AK_
+.. _AKVS: https://aws.amazon.com/kinesis/video-streams/
 .. _APP: https://aws.amazon.com/autoscaling/
+.. _APSY: https://aws.amazon.com/appsync/
+.. _AMQ: https://aws.amazon.com/amazon-mq/
+.. _AC9: https://aws.amazon.com/cloud9/
 .. _CF: https://aws.amazon.com/cloudfront/
 .. _CFN: https://aws.amazon.com/cloudformation/
 .. _CFNlong: CFN_
 .. _CFlong: CF_
+.. _CMP: https://aws.amazon.com/comprehend/
 .. _COG: https://aws.amazon.com/cognito/
 .. _COGID: COG_
 .. _COGSync: COG_
@@ -50,6 +56,7 @@
 .. _CW: https://aws.amazon.com/cloudwatch/
 .. _DDB: https://aws.amazon.com/dynamodb/
 .. _DDBlong: DDB_
+.. _DL: https://aws.amazon.com/deeplens/
 .. _EB: https://aws.amazon.com/elasticbeanstalk/
 .. _EBS: https://aws.amazon.com/ebs/
 .. _EBSlong: EBS_
@@ -58,10 +65,17 @@
 .. _EC2long: EC2_
 .. _ELB: https://aws.amazon.com/elasticloadbalancing/
 .. _ELBlong: ELB_
+.. _EMC: https://aws.amazon.com/mediaconvert/
+.. _EML: https://aws.amazon.com/medialive/
+.. _EMP: https://aws.amazon.com/mediapackage/
+.. _EMS: https://aws.amazon.com/mediastore/
+.. _EMT: https://aws.amazon.com/mediatailor/
 .. _GL: https://aws.amazon.com/glacier
 .. _GLLong: GL_
+.. _GUD: https://aws.amazon.com/guardduty/
 .. _IAM: https://aws.amazon.com/iam/
 .. _IAMlong: IAM_
+.. _ITDM: https://aws.amazon.com/iot-device-management/
 .. _LAM: https://aws.amazon.com/lambda/
 .. _LAMlong: LAM_
 .. _MA: https://aws.amazon.com/mobileanalytics/
@@ -70,16 +84,21 @@
 .. _OPSlong: OPS_
 .. _RDS: https://aws.amazon.com/rds/
 .. _RDSlong: RDS_
+.. _RTOS: https://aws.amazon.com/freertos/
 .. _S3: https://aws.amazon.com/s3/
 .. _S3long: S3_
+.. _SM: https://aws.amazon.com/sagemaker/
 .. _SNS: https://aws.amazon.com/sns/
 .. _SNSlong: SNS_
 .. _SQS: https://aws.amazon.com/sqs/
 .. _SQSlong: SQS_
-.. _STS: https://aws.amazon.com/documentation/iam/
+.. _STS: https://aws.amazon.com/iam/
 .. _STSlong: STS_
+.. _sumerian: https://aws.amazon.com/sumerian/
 .. _SWF: https://aws.amazon.com/swf/
 .. _SWFlong: SWF_
+.. _TSC: https://aws.amazon.com/transcribe/
+.. _TSL: https://aws.amazon.com/translate/
 
 
 .. Links to things within service guides and other non-standard guide links
