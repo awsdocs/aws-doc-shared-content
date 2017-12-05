@@ -143,7 +143,7 @@
 .. |ABUSlong| replace:: Alexa for Business
 .. |ABUS| replace:: Alexa for Business
 .. |AC9long| replace:: AWS Cloud9
-.. |AC9| replace: AWS Cloud9
+.. |AC9| replace:: AWS Cloud9
 .. |ACBlong| replace:: AWS CodeBuild
 .. |ACB| replace:: AWS CodeBuild
 .. |ACClong| replace:: AWS CodeCommit
@@ -553,7 +553,6 @@
 .. |DDB-gsg| replace:: :title:`Amazon DynamoDB Getting Started Guide`
 .. |DDB-streams-api| replace:: :title:`Amazon DynamoDB Streams API Reference`
 .. |DL-dg| replace:: :title:`AWS DeepLens Developer Guide`
-.. |DL-api| replace:: :title:`AWS DeepLens API Reference`
 .. |DMS-api| replace:: :title:`AWS DMS API Reference`
 .. |DMS-ug| replace:: :title:`AWS DMS User Guide`
 .. |DP-dg| replace:: :title:`Amazon DevPay Developer Guide`
@@ -574,8 +573,6 @@
 .. |EDP-api| replace:: :title:`AWS Data Pipeline API Reference`
 .. |EDP-dg| replace:: :title:`AWS Data Pipeline Developer Guide`
 .. |EDP-gsg| replace:: :title:`AWS Data Pipeline Getting Started Guide`
-.. |DL-dg| replace:: :title:`AWS DeepLens Developer Guide`
-.. |DL-api| replace:: :title:`AWS DeepLens API Reference`
 .. |EFS-ug| replace:: :title:`Amazon EFS User Guide`
 .. |ELB-api| replace:: :title:`Elastic Load Balancing API Reference`
 .. |ELB-dg| replace:: :title:`Elastic Load Balancing Developer Guide`

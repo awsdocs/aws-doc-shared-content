@@ -161,7 +161,7 @@
 .. _GSG-wahl: https://docs.aws.amazon.com/gettingstarted/latest/wah-linux/
 .. _GSG-win: https://docs.aws.amazon.com/gettingstarted/latest/computebasics/
 .. _GUD-dg: https://docs.aws.amazon.com/guardduty/latest/ug/
-.. _GUD-api: https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_api_ref
+.. _GUD-api: https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_api_ref/
 .. _HSM-api: https://docs.aws.amazon.com/cloudhsm/latest/dg/
 .. _HSM-dg: https://docs.aws.amazon.com/cloudhsm/latest/dg/
 .. _HSM-ug: https://docs.aws.amazon.com/cloudhsm/latest/userguide/
