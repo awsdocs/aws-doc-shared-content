@@ -17,11 +17,11 @@
    -------------------
 .. _AAS-dg: https://docs.aws.amazon.com/appstream/latest/developerguide/
 .. _ABP-dg: https://docs.aws.amazon.com/apigateway/latest/developerguide/
-.. _ABUS-admin: http://docs.aws.amazon.com/a4b/latest/ag/
+.. _ABUS-admin: https://docs.aws.amazon.com/a4b/latest/ag/
 .. _ABUS-api: http://docs.aws.amazon.com/a4b/latest/APIReference/
-.. _AC9-ug: http://docs.aws.amazon.com/cloud9/latest/user-guide/
-.. _AC9-api: http://docs.aws.amazon.com/cloud9/latest/APIReference/
-.. _AC9-cli: http://docs.aws.amazon.com/cli/latest/reference/cloud9/
+.. _AC9-ug: https://docs.aws.amazon.com/cloud9/latest/user-guide/
+.. _AC9-api: https://docs.aws.amazon.com/cloud9/latest/APIReference/
+.. _AC9-cli: https://docs.aws.amazon.com/cli/latest/reference/cloud9/
 .. _ACB-api: https://docs.aws.amazon.com/codebuild/latest/APIReference/
 .. _ACB-cli: https://docs.aws.amazon.com/cli/latest/reference/codebuild/
 .. _ACB-ug: https://docs.aws.amazon.com/codebuild/latest/userguide/
@@ -95,8 +95,8 @@
 .. _DDB-gsg: https://docs.aws.amazon.com/amazondynamodb/latest/gettingstartedguide/
 .. _DDB-streams-api: https://docs.aws.amazon.com/dynamodbstreams/latest/APIReference/
 .. _DL-dg: https://docs.aws.amazon.com/deeplens/latest/dg/
-.. _DMS-api: https://docs.aws.amazon.com/dms/latest/APIReference
-.. _DMS-ug: https://docs.aws.amazon.com/dms/latest/userguide
+.. _DMS-api: https://docs.aws.amazon.com/dms/latest/APIReference/
+.. _DMS-ug: https://docs.aws.amazon.com/dms/latest/userguide/
 .. _DP-dg: https://docs.aws.amazon.com/AmazonDevPay/latest/DevPayDeveloperGuide/
 .. _DP-gsg: https://docs.aws.amazon.com/AmazonDevPay/latest/DevPayGettingStartedGuide/
 .. _EB-dg: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/
@@ -151,7 +151,7 @@
 .. _GOVCLOUD-US-ug: https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/
 .. _GS-api: https://docs.aws.amazon.com/gamelift/latest/apireference/
 .. _GS-dg: https://docs.aws.amazon.com/gamelift/latest/developerguide/
-.. _GSG-aws: https://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro
+.. _GSG-aws: https://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/
 .. _GSG-deploy: https://docs.aws.amazon.com/gettingstarted/latest/deploy/
 .. _GSG-emr: https://docs.aws.amazon.com/gettingstarted/latest/emr/
 .. _GSG-free: https://docs.aws.amazon.com/gettingstarted/latest/awsgsg-freetier/
