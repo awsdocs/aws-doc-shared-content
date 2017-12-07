@@ -292,8 +292,8 @@
 .. |Frozen| replace:: Snowball
 .. |FWSlong| replace:: Amazon Fulfillment Web Service
 .. |FWS| replace:: Amazon FWS
-.. |GDUlong|:: Amazon GuardDuty
-.. |GDU|:: GuardDuty
+.. |GDUlong| replace:: Amazon GuardDuty
+.. |GDU| replace:: GuardDuty
 .. |GLlong| replace:: Amazon Glacier
 .. |GL| replace:: Amazon Glacier
 .. |GLUlong| replace:: AWS Glue
