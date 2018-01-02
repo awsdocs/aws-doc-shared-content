@@ -1,4 +1,4 @@
-.. Copyright 2010-2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+.. Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
    This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
    International License (the "License"). You may not use this file except in compliance with the
@@ -164,4 +164,3 @@ repository.
 .. _sphinx-inline-doc: http://www.sphinx-doc.org/en/stable/markup/inline.html#cross-referencing-documents
 .. _sphinx-extlinks: http://www.sphinx-doc.org/en/stable/ext/extlinks.html
 .. _sphinx-intersphinx: http://www.sphinx-doc.org/en/stable/ext/intersphinx.html
-
