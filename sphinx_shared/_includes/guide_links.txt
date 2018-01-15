@@ -198,6 +198,8 @@
 .. _OPS-ug: https://docs.aws.amazon.com/opsworks/latest/userguide/
 .. _PAAPI-dg: https://docs.aws.amazon.com/AWSECommerceService/latest/DG/
 .. _PAAPI-gsg: https://docs.aws.amazon.com/AWSECommerceService/latest/GSG/
+.. _PIN-dg: https://docs.aws.amazon.com/pinpoint/latest/developerguide/
+.. _PIN-ug: https://docs.aws.amazon.com/pinpoint/latest/userguide/
 .. _PS-ug: https://docs.aws.amazon.com/IAM/latest/UsingPolicySimulatorGuide/
 .. _R53-api: https://docs.aws.amazon.com/Route53/latest/APIReference/
 .. _R53-dg: https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/
@@ -347,7 +349,3 @@
 .. _tke-ug-v1: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _tke-ug: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _TTS-ug: http://docs.aws.amazon.com/vsts/latest/userguide/
-
-
-
-
