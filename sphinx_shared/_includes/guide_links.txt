@@ -200,6 +200,7 @@
 .. _PAAPI-gsg: https://docs.aws.amazon.com/AWSECommerceService/latest/GSG/
 .. _PIN-dg: https://docs.aws.amazon.com/pinpoint/latest/developerguide/
 .. _PIN-ug: https://docs.aws.amazon.com/pinpoint/latest/userguide/
+.. _PIN-api: https://docs.aws.amazon.com/pinpoint/latest/apireference/
 .. _PS-ug: https://docs.aws.amazon.com/IAM/latest/UsingPolicySimulatorGuide/
 .. _R53-api: https://docs.aws.amazon.com/Route53/latest/APIReference/
 .. _R53-dg: https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/

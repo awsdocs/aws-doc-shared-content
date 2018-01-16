@@ -94,6 +94,7 @@ extlinks.update({
     'gloss': (aws_docs_url + 'general/latest/gr/glos-chap.html#%s', ''),
     'iam-api': (aws_docs_url + 'IAM/latest/APIReference/API_%s.html', ''),
     'lam-api': (aws_docs_url + 'lambda/latest/dg/API_%s.html', ''),
+    'pinpoint-api': (aws_docs_url + 'pinpoint/latest/apireference/rest-api-%s.html', ''),
     'r53-api': (aws_docs_url + 'Route53/latest/APIReference/API_%s.html', ''),
     's3-bucket-api': (aws_docs_url + 'AmazonS3/latest/API/RESTBucket%s.html', ''),
     's3-object-api': (aws_docs_url + 'AmazonS3/latest/API/RESTObject%s.html', ''),
