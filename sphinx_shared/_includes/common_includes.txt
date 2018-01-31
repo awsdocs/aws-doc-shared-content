@@ -470,12 +470,12 @@
 .. |ACC-cli| replace:: :title:`AWS CodeCommit CLI Reference`
 .. |ACC-ug| replace:: :title:`AWS CodeCommit User Guide`
 .. |ACD-api| replace:: :title:`AWS CodeDeploy API Reference`
-.. |ACD-cli-ref| replace:: :title:`AWS CodeDeploy CLI Reference`
+.. |ACD-cli-ref| replace:: :title:`AWS CodeDeploy CLI Command Reference`
 .. |ACD-ug| replace:: :title:`AWS CodeDeploy User Guide`
 .. |ACM-api| replace:: :title:`ACM API Reference`
 .. |ACM-ug| replace:: :title:`ACM User Guide`
 .. |ACP-api| replace:: :title:`AWS CodePipeline API Reference`
-.. |ACP-cli-ref| replace:: :title:`AWS CodePipeline CLI Reference`
+.. |ACP-cli-ref| replace:: :title:`AWS CodePipeline CLI Command Reference`
 .. |ACP-ug| replace:: :title:`AWS CodePipeline User Guide`
 .. |ACS-ug| replace:: :title:`AWS CodeStar User Guide`
 .. |ACS-api| replace:: :title:`AWS CodeStar API Reference`
@@ -561,7 +561,7 @@
 .. |EB-dg| replace:: :title:`AWS Elastic Beanstalk Developer Guide`
 .. |EB-api| replace:: :title:`AWS Elastic Beanstalk API Reference`
 .. |EC2-api| replace:: :title:`Amazon EC2 API Reference`
-.. |EC2-cli-ref| replace:: :title:`Amazon EC2 CLI Reference`
+.. |EC2-cli-ref| replace:: :title:`Amazon EC2 CLI Command Reference`
 .. |EC2-gsg| replace:: :title:`Amazon EC2 Getting Started Guide`
 .. |EC2-qrc| replace:: :title:`Amazon EC2 Quick Reference Card`
 .. |EC2-ug-win| replace:: :title:`Amazon EC2 User Guide for Windows Instances`
@@ -578,7 +578,7 @@
 .. |ELB-dg| replace:: :title:`Elastic Load Balancing Developer Guide`
 .. |ELB-qrc| replace:: :title:`Elastic Load Balancing Quick Reference Card`
 .. |ELC-api| replace:: :title:`Amazon ElastiCache API Reference`
-.. |ELC-cli-ref| replace:: :title:`Amazon ElastiCache CLI Reference`
+.. |ELC-cli-ref| replace:: :title:`Amazon ElastiCache CLI Command Reference`
 .. |ELC-gsg| replace:: :title:`Amazon ElastiCache Getting Started Guide`
 .. |ELC-qrc| replace:: :title:`Amazon ElastiCache Quick Reference Card`
 .. |ELC-ug| replace:: :title:`Amazon ElastiCache User Guide`
@@ -672,7 +672,7 @@
 .. |R53-dg| replace:: :title:`Amazon Route 53 Developer Guide`
 .. |RC-api| replace:: :title:`Amazon Remote Configuration API Reference`
 .. |RDS-api| replace:: :title:`Amazon RDS API Reference`
-.. |RDS-cli-ref| replace:: :title:`Amazon RDS CLI Reference`
+.. |RDS-cli-ref| replace:: :title:`Amazon RDS CLI Command Reference`
 .. |RDS-gsg| replace:: :title:`Amazon RDS Getting Started Guide`
 .. |RDS-qrc| replace:: :title:`Amazon RDS Quick Reference Card`
 .. |RDS-ug| replace:: :title:`Amazon RDS User Guide`
@@ -702,7 +702,7 @@
 .. |SM-dg| replace:: :title:`Amazon SageMaker Developer Guide`
 .. |SM-api| replace:: :title:`Amazon SageMaker API Reference`
 .. |SNS-api| replace:: :title:`Amazon SNS API Reference`
-.. |SNS-cli-ref| replace:: :title:`Amazon SNS CLI Reference`
+.. |SNS-cli-ref| replace:: :title:`Amazon SNS CLI Command Reference`
 .. |SNS-dg| replace:: :title:`Amazon SNS Developer Guide`
 .. |SNS-gsg| replace:: :title:`Amazon SNS Getting Started Guide`
 .. |SNS-qrc| replace:: :title:`Amazon SNS Quick Reference Card`
@@ -751,7 +751,7 @@
 
 .. SDK/framework/toolkit guide names
    ---------------------------------
-.. |cli-ref| replace:: :title:`AWS CLI Reference`
+.. |cli-ref| replace:: :title:`AWS CLI Command Reference`
 .. |cli-ug| replace:: :title:`AWS CLI User Guide`
 .. |jflow-dg| replace:: :title:`AWS Flow Framework for Java Developer Guide`
 .. |jflow-ref| replace:: :title:`AWS Flow Framework for Java Reference`
