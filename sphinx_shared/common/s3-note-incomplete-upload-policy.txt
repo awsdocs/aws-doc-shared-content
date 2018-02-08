@@ -8,7 +8,7 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-.. admonition:: Best Practice
+.. note:: Best Practice
 
     We recommend that you enable the :s3-api:`AbortIncompleteMultipartUpload
     <RESTBucketPUTlifecycle>` lifecycle rule on your |S3| buckets.
@@ -19,4 +19,3 @@
 
     For more information, see :s3-ug:`Lifecycle Configuration for a Bucket with Versioning
     <lifecycle-configuration-bucket-with-versioning>` in the |s3-ug|.
-

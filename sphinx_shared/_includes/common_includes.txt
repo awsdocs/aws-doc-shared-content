@@ -443,6 +443,8 @@
 .. |sdk-php-v2| replace:: AWS SDK for PHP (V2)
 .. |sdk-php| replace:: AWS SDK for PHP
 .. |sdk-python| replace:: AWS SDK for Python (Boto)
+.. |python-boto-3| replace:: Python (Boto 3)
+.. |sdk-python-3| replace:: AWS SDK for Python (Boto 3)
 .. |sdk-ruby| replace:: AWS SDK for Ruby
 .. |sdk-unity| replace:: AWS Mobile SDK for Unity
 .. |sdk-xamarin| replace:: AWS Mobile SDK for .NET and Xamarin
