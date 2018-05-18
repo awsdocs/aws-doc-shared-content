@@ -21,28 +21,26 @@ keys. IAM lets you securely control access to AWS services and resources in your
 
     #. Open the :console:`IAM console <iam>`.
 
-    #. From the navigation menu, click :guilabel:`Users`.
+    #. On the navigation menu, choose :guilabel:`Users`.
 
-    #. Select your IAM user name.
+    #. Choose your IAM user name (not the check box).
 
-    #. Click :guilabel:`User Actions`, and then click :guilabel:`Manage Access Keys`.
+    #. Open the :guilabel:`Security credentials` tab, and then choose :guilabel:`Create access key`.
 
-    #. Click :guilabel:`Create Access Key`.
+    #. To see the new access key, choose :guilabel:`Show`. Your
+       credentials resemble the following:
 
-        Your keys will look something like this:
+        + Access key ID: ``AKIAIOSFODNN7EXAMPLE``
 
-        + Access key ID example: ``AKIAIOSFODNN7EXAMPLE``
+        + Secret access key: ``wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY``
 
-        + Secret access key example: ``wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY``
+    #. To download the key pair, choose :guilabel:`Download .csv file`. Store the keys 
+     in a secure location.
 
-    #. Click :guilabel:`Download Credentials`, and store the keys in a secure location.
-
-   .. important:: Your secret key will no longer be available through the |console|; you will have
-      the only copy. Keep it confidential in order to protect your account, and never email it. Do
-      not share it outside your organization, even if an inquiry appears to come from AWS or
-      Amazon.com.
-
-      *No one who legitimately represents Amazon will ever ask you for your secret key.*
+   .. important:: Keep the keys confidential to protect your |AWS| account, and never email 
+      them. Do not share them outside your organization, even if an inquiry 
+      appears to come from |AWS| or Amazon.com. *No one who legitimately 
+      represents Amazon will ever ask you for your secret key.*
 
 **Related topics**
 
