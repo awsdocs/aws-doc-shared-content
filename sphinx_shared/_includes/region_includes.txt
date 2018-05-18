@@ -21,6 +21,9 @@
 .. |apnortheast2-name| replace:: Asia Pacific (Seoul) Region
 .. |region-ap-northeast-2| replace:: Asia Pacific (Seoul)
 
+.. |apnortheast3-name| replace:: Asia Pacific (Osaka-Local) Region
+.. |region-ap-northeast-3| replace:: Asia Pacific (Osaka-Local)
+
 .. |apsouth1-name| replace:: Asia Pacific (Mumbai) Region
 .. |region-ap-south-1| replace:: Asia Pacific (Mumbai)
 
