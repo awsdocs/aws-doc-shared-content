@@ -39,6 +39,14 @@
 .. |cnnorth1-name| replace:: China (Beijing) Region
 .. |region-cn-north-1| replace:: China (Beijing)
 
+.. |cnnorthwest1-name| replace:: China (Ningxia) Region
+.. |region-cn-northwest-1| replace:: China (Ningxia)
+
+.. |cnall-name| replace:: Beijing and Ningxia Regions
+.. |cnchina-name| replace:: China Regions
+.. |region-cn-all| replace:: Beijing and Ningxia
+.. |region-cn-china| replace:: China
+
 .. |eucentral1-name| replace:: EU (Frankfurt) Region
 .. |region-eu-central-1| replace:: EU (Frankfurt)
 
@@ -47,6 +55,9 @@
 
 .. |euwest2-name| replace:: EU (London) Region
 .. |region-eu-west-2| replace:: EU (London)
+
+.. |euwest3-name| replace:: EU (Paris) Region
+.. |region-eu-west-3| replace:: EU (Paris)
 
 .. |govuswest1-name| replace:: AWS GovCloud (US)
 .. |region-gov-us-west-1| replace:: AWS GovCloud (US)
