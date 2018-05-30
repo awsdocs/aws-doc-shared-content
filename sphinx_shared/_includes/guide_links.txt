@@ -317,12 +317,12 @@
 .. _sdk-net-dg: https://docs.aws.amazon.com/sdk-for-net/latest/developer-guide/
 .. _sdk-net-ref: https://docs.aws.amazon.com/sdkfornet/latest/apidocs/
 .. _sdk-node-api: https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/
-.. _sdk-php-api-v2: https://docs.aws.amazon.com/aws-sdk-php/latest/
+.. _sdk-php-api-v2: https://docs.aws.amazon.com/aws-sdk-php/v2/api/
 .. _sdk-php-api-v3: https://docs.aws.amazon.com/aws-sdk-php/v3/api/
 .. _sdk-php-api: https://docs.aws.amazon.com/aws-sdk-php/v3/api/
-.. _sdk-php-dg-v1: https://docs.aws.amazon.com/aws-sdk-php/guide/latest/
+.. _sdk-php-dg-v1: http://awsdocs.s3.amazonaws.com/sdk-php/latest/aws-sdk-php-dg.pdf
 .. _sdk-php-dg-v3: https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/
-.. _sdk-php-gsg-v2: https://docs.aws.amazon.com/aws-sdk-php/guide/latest/
+.. _sdk-php-gsg-v2: https://docs.aws.amazon.com/aws-sdk-php/v2/guide/
 .. _sdk-php-gsg-v3: https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/getting-started_index.html
 .. _sdk-php-ref: https://docs.aws.amazon.com/aws-sdk-php/v3/api/
 .. _sdk-python-api: https://boto.readthedocs.org/en/latest/ref/
