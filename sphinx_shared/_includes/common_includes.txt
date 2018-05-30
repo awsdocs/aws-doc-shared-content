@@ -427,6 +427,7 @@
 .. SDKs, frameworks, toolkits and other interfaces
    -----------------------------------------------
 .. |awsflow| replace:: AWS Flow Framework
+.. |CryptoSDK| replace:: AWS Encryption SDK
 .. |jflow| replace:: AWS Flow Framework for Java
 .. |pstlong| replace:: AWS Tools for Windows PowerShell
 .. |pst| replace:: PowerShell Tools
@@ -439,6 +440,7 @@
 .. |sdk-java-v2| replace:: AWS SDK for Java 2.0
 .. |sdk-js| replace:: AWS SDK for JavaScript
 .. |sdk-net| replace:: AWS SDK for .NET
+.. |sdk-net-ndg| replace:: AWS Guide for .NET Developers
 .. |sdk-nodejs| replace:: AWS SDK for JavaScript
 .. |sdk-php-v2| replace:: AWS SDK for PHP (V2)
 .. |sdk-php| replace:: AWS SDK for PHP
@@ -755,6 +757,7 @@
    ---------------------------------
 .. |cli-ref| replace:: :title:`AWS CLI Command Reference`
 .. |cli-ug| replace:: :title:`AWS CLI User Guide`
+.. |CryptoSDK-dg| replace:: :title:`AWS Encryption SDK Developer Guide`
 .. |jflow-dg| replace:: :title:`AWS Flow Framework for Java Developer Guide`
 .. |jflow-ref| replace:: :title:`AWS Flow Framework for Java Reference`
 .. |pst-ug| replace:: :title:`AWS Tools for Windows PowerShell User Guide`
@@ -780,6 +783,7 @@
 .. |sdk-js-ref| replace:: :title:`AWS SDK for JavaScript Reference`
 .. |sdk-net-api| replace:: :title:`AWS SDK for .NET API Reference`
 .. |sdk-net-dg| replace:: :title:`AWS SDK for .NET Developer Guide`
+.. |sdk-net-ndg| replace:: :title:`AWS Guide for .NET Developers`
 .. |sdk-net-ref| replace:: :title:`AWS SDK for .NET Reference`
 .. |sdk-nodejs-api| replace:: :title:`AWS SDK for NodeJS API Reference`
 .. |sdk-nodejs-gsg| replace:: :title:`AWS SDK for NodeJS Getting Started Guide`
