@@ -321,9 +321,9 @@
 .. _sdk-php-api-v3: https://docs.aws.amazon.com/aws-sdk-php/v3/api/
 .. _sdk-php-api: https://docs.aws.amazon.com/aws-sdk-php/v3/api/
 .. _sdk-php-dg-v1: https://docs.aws.amazon.com/aws-sdk-php/guide/latest/
-.. _sdk-php-dg-v3: https://docs.aws.amazon.com/aws-sdk-php/v3/guide/
+.. _sdk-php-dg-v3: https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/
 .. _sdk-php-gsg-v2: https://docs.aws.amazon.com/aws-sdk-php/guide/latest/
-.. _sdk-php-gsg-v3: https://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/
+.. _sdk-php-gsg-v3: https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/getting-started_index.html
 .. _sdk-php-ref: https://docs.aws.amazon.com/aws-sdk-php/v3/api/
 .. _sdk-python-api: https://boto.readthedocs.org/en/latest/ref/
 .. _sdk-python-dg: https://boto3.readthedocs.org/en/latest/guide/
