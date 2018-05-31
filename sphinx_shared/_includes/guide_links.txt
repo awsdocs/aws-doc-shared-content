@@ -282,6 +282,7 @@
    ---------------------------------
 .. _cli-ref: https://docs.aws.amazon.com/cli/latest/reference/
 .. _cli-ug: https://docs.aws.amazon.com/cli/latest/userguide/
+.. _CryptoSDK-dg: https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/
 .. _jflow-dg: https://docs.aws.amazon.com/amazonswf/latest/awsflowguide/
 .. _pst-ug: https://docs.aws.amazon.com/powershell/latest/userguide/
 .. _rbflow-api: https://docs.aws.amazon.com/amazonswf/latest/awsrbflowapi/
@@ -315,6 +316,7 @@
 .. _sdk-net-dg-v2: https://docs.aws.amazon.com/sdk-for-net/v2/developer-guide/
 .. _sdk-net-dg-v3: https://docs.aws.amazon.com/sdk-for-net/latest/developer-guide/
 .. _sdk-net-dg: https://docs.aws.amazon.com/sdk-for-net/latest/developer-guide/
+.. _sdk-net-ndg: https://docs.aws.amazon.com/sdk-for-net/v3/ndg/
 .. _sdk-net-ref: https://docs.aws.amazon.com/sdkfornet/latest/apidocs/
 .. _sdk-node-api: https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/
 .. _sdk-php-api-v2: https://docs.aws.amazon.com/aws-sdk-php/v2/api/
