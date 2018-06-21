@@ -440,7 +440,6 @@
 .. |sdk-java-v2| replace:: AWS SDK for Java 2.0
 .. |sdk-js| replace:: AWS SDK for JavaScript
 .. |sdk-net| replace:: AWS SDK for .NET
-.. |sdk-net-ndg| replace:: AWS Guide for .NET Developers
 .. |sdk-nodejs| replace:: AWS SDK for JavaScript
 .. |sdk-php-v2| replace:: AWS SDK for PHP (V2)
 .. |sdk-php| replace:: AWS SDK for PHP
