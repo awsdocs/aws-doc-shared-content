@@ -34,6 +34,7 @@
    ------------------------------
 .. |arnlong| replace:: Amazon Resource Name
 .. |AWSlong| replace:: Amazon Web Services
+.. |AWS| replace:: Amazon Web Services
 .. |JSONlong| replace:: JavaScript Object Notation
 .. |aws-accesskey-var| replace:: :code:`AWS_ACCESS_KEY_ID`
 .. |aws-configfile-loc-unixes| replace:: :file:`~/.aws/config`
