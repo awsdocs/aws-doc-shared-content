@@ -400,10 +400,14 @@
 .. |SWFlong| replace:: Amazon Simple Workflow Service
 .. |SWF| replace:: Amazon SWF
 .. |TFW| replace:: AWS Tools for Windows
+.. |TPC| replace:: Tools for PowerShell Core
+.. |TPClong| replace:: AWS Tools for PowerShell Core
 .. |TSClong| replace:: Amazon Transcribe
 .. |TSC| replace:: Amazon Transcribe
 .. |TSLlong| replace:: Amazon Translate
 .. |TSL| replace:: Amazon Translate
+.. |TWPALL| replace:: Tools for PowerShell
+.. |TWPALLlong| replace:: AWS Tools for PowerShell
 .. |TWPlong| replace:: AWS Tools for Windows PowerShell
 .. |TWP| replace:: Tools for Windows PowerShell
 .. |VMIElong| replace:: VM Import/Export
