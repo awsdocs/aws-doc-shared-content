@@ -13,6 +13,13 @@
    None of these should have anything after the final '/' character (and all of
    them should include it), they're used to generate extlinks for the guides.
 
+.. Service and SDK doc landing page links
+   --------------------------------------
+.. |ec2-doc-landing| replace :: Amazon EC2 Documentation 
+.. _ec2-doc-landing: https://aws.amazon.com/documentation/ec2/
+.. |s3-doc-landing| replace :: Amazon S3 documentation
+.. _s3-doc-landing: http://aws.amazon.com/documentation/s3/
+
 .. Service Guide links
    -------------------
 .. _AAS-dg: https://docs.aws.amazon.com/appstream/latest/developerguide/
