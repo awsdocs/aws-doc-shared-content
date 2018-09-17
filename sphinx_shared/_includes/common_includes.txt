@@ -295,6 +295,8 @@
 .. |FWS| replace:: Amazon FWS
 .. |GDUlong| replace:: Amazon GuardDuty
 .. |GDU| replace:: GuardDuty
+.. |GGlong| replace:: AWS Greengrass
+.. |GG| replace:: AWS Greengrass
 .. |GLlong| replace:: Amazon Glacier
 .. |GL| replace:: Amazon Glacier
 .. |GLUlong| replace:: AWS Glue
@@ -312,6 +314,12 @@
 .. |IoTJS| replace:: AWS IoT Device SDK for Node.js
 .. |IoTlong| replace:: AWS IoT
 .. |IoT| replace:: AWS IoT
+.. |ITOClong| replace:: AWS IoT 1-Click
+.. |ITOC| replace:: AWS IoT 1-Click
+.. |ITAlong| replace:: AWS IoT Analytics
+.. |ITA| replace:: AWS IoT Analytics
+.. |ITDDlong| replace:: AWS IoT Device Defender
+.. |ITDD| replace:: AWS IoT Device Defender
 .. |ITDMlong| replace:: AWS IoT Device Management
 .. |ITDM| replace:: AWS IoT Device Management
 .. |JSBlong| replace:: AWS SDK for JavaScript
