@@ -685,7 +685,7 @@
 
 .. |MCE-ug| replace:: :title:`Amazon Macie User Guide`
 .. |MESH-ug| replace:: :title:`AWS App Mesh User Guide`
-.. |MESH-api| replace:: :title:`AWS App Mesh User Guide`
+.. |MESH-api| replace:: :title:`AWS App Mesh API Reference`
 .. |ML-api| replace:: :title:`Amazon ML API Reference`
 .. |ML-dg| replace:: :title:`Amazon ML Developer Guide`
 .. |MT-api| replace:: :title:`Mechanical Turk API Reference`
