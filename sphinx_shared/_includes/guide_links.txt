@@ -89,6 +89,8 @@
 .. _CFN-api: https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/
 .. _CFN-gsg: https://docs.aws.amazon.com/AWSCloudFormation/latest/GettingStartedGuide/
 .. _CFN-ug: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/
+.. _CMAP-dg: https://docs.aws.amazon.com/cloud-map/latest/dg/
+.. _CMAP-api: https://docs.aws.amazon.com/cloud-map/latest/api/
 .. _CMP-dg: https://docs.aws.amazon.com/comprehend/latest/dg/
 .. _COG-api: https://docs.aws.amazon.com/cognitoidentity/latest/APIReference/
 .. _COG-dg: https://docs.aws.amazon.com/cognito/latest/developerguide/
@@ -157,6 +159,9 @@
 .. _ES-dg: https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/
 .. _ET-dg: https://docs.aws.amazon.com/elastictranscoder/latest/developerguide/
 .. _FF-dg: https://docs.aws.amazon.com/amazonswf/latest/awsflowguide/
+.. _FMS-api: https://docs.aws.amazon.com/fms/2018-01-01/APIReference/
+.. _FMS-dg: https://docs.aws.amazon.com/waf/latest/developerguide/fms-chapter.html
+.. _FOR-dg: https://docs.aws.amazon.com/forecast/latest/dg/
 .. _FPS-amqs: https://docs.aws.amazon.com/AmazonFPS/latest/FPSAccountManagementGuide/
 .. _FPS-apgq: https://docs.aws.amazon.com/AmazonFPS/latest/FPSAggregatedGuide/
 .. _FPS-api: https://docs.aws.amazon.com/AmazonFPS/latest/FPSAPIReference/
@@ -254,6 +259,8 @@
 .. _SES-dg: https://docs.aws.amazon.com/ses/latest/DeveloperGuide/
 .. _SFN-api: https://docs.aws.amazon.com/step-functions/latest/apireference/
 .. _SFN-dg: https://docs.aws.amazon.com/step-functions/latest/dg/
+.. _SHD-dg: https://docs.aws.amazon.com/waf/latest/developerguide/shield-chapter.html
+.. _SHD-api: https://docs.aws.amazon.com/waf/latest/DDOSAPIReference/Welcome.html
 .. _SIMPLE-AD-admin: https://docs.aws.amazon.com/directoryservice/latest/admin-guide/
 .. _SLK-dg: https://docs.aws.amazon.com/silk/latest/developerguide/
 .. _SM-dg: https://docs.aws.amazon.com/sagemaker/latest/dg/

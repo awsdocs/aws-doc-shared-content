@@ -230,6 +230,8 @@
 .. |COGSYNC| replace:: Amazon Cognito Sync
 .. |COGlong| replace:: Amazon Cognito
 .. |COG| replace:: Amazon Cognito
+.. |CMAPlong| replace:: AWS Cloud Map
+.. |CMAP| replace:: AWS Cloud Map
 .. |CMPlong| replace:: Amazon Comprehend
 .. |CMP| replace:: Amazon Comprehend
 .. |CON| replace:: Amazon Connect
@@ -292,6 +294,10 @@
 .. |ET| replace:: Elastic Transcoder
 .. |FFlong| replace:: AWS Flow Framework
 .. |FF| replace:: the framework
+.. |FMSlong| replace:: AWS Firewall Manager
+.. |FMS| replace:: AWS Firewall Manager
+.. |FORlong| replace:: Amazon Forecast
+.. |FOR| replace:: Amazon Forecast
 .. |FPSlong| replace:: Amazon Flexible Payments Service
 .. |FPS| replace:: Amazon FPS
 .. |Frozenlong| replace:: AWS Snowball
@@ -389,6 +395,8 @@
 .. |SES| replace:: Amazon SES
 .. |SFNlong| replace:: AWS Step Functions
 .. |SFN| replace:: Step Functions
+.. |SHDlong| replace:: AWS Shield
+.. |SHD| replace:: Shield
 .. |SLKlong| replace:: Amazon Silk
 .. |SLK| replace:: Silk
 .. |SMlong| replace:: Amazon SageMaker
@@ -559,6 +567,8 @@
 .. |COG-api| replace:: :title:`Amazon Cognito API Reference`
 .. |COG-dg| replace:: :title:`Amazon Cognito Developer Guide`
 .. |COGSYNC-api| replace:: :title:`Amazon Cognito Sync API Reference`
+.. |CMAP-dg| replace:: :title:`AWS Cloud Map Developer Guide`
+.. |CMAP-api| replace:: :title:`AWS Cloud Map API Reference`
 .. |CMP-dg| replace:: :title`Amazon Comprehend Developer Guide`
 .. |CON-ug| replace:: :title:`Amazon Connect User Guide`
 .. |CON-ag| replace:: :title:`Amazon Connect Administrator Guide`
@@ -633,6 +643,9 @@
 .. |ES-dg| replace:: :title:`Amazon ES Developer Guide`
 .. |ET-dg| replace:: :title:`Amazon Elastic Transcoder Developer Guide`
 .. |FF-dg| replace:: :title:`The Framework for Java Developer Guide`
+.. |FMS-dg| replace:: :title:`AWS Firewall Manager Developer Guide`
+.. |FMS-api| replace:: :title:`AWS Firewall Manager API Reference`
+.. |FOR-dg| replace:: :title:`Amazon Forecast Developer Guide`
 .. |FPS-amqs| replace:: :title:`Amazon FPS Account Management Quick Start Guide`
 .. |FPS-apgq| replace:: :title:`Amazon FPS Aggregated Payments Quick Start Guide`
 .. |FPS-api| replace:: :title:`Amazon FPS API Reference`
@@ -682,7 +695,6 @@
 .. |LAM-dg| replace:: :title:`AWS Lambda Developer Guide`
 .. |MA-api| replace:: :title:`Amazon Mobile Analytics API Reference`
 .. |MA-ug| replace:: :title:`Amazon Mobile Analytics User Guide`
-
 .. |MCE-ug| replace:: :title:`Amazon Macie User Guide`
 .. |MESH-ug| replace:: :title:`AWS App Mesh User Guide`
 .. |MESH-api| replace:: :title:`AWS App Mesh API Reference`
@@ -734,6 +746,8 @@
 .. |SES-dg| replace:: :title:`Amazon SES Developer Guide`
 .. |SFN-api| replace:: :title:`AWS Step Functions API Reference`
 .. |SFN-dg| replace:: :title:`AWS Step Functions Developer Guide`
+.. |SHD-dg| replace:: :title:`AWS Shield Developer Guide`
+.. |SHD-api| replace:: :title:`AWS Shield API Reference`
 .. |SLK-dg| replace:: :title:`Amazon Silk Developer Guide`
 .. |SM-dg| replace:: :title:`Amazon SageMaker Developer Guide`
 .. |SM-api| replace:: :title:`Amazon SageMaker API Reference`
