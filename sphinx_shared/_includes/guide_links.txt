@@ -23,6 +23,8 @@
 .. Service Guide links
    -------------------
 .. _AAS-dg: https://docs.aws.amazon.com/appstream/latest/developerguide/
+.. _AB-ug: https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/
+.. _AB-api: https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/
 .. _ABP-dg: https://docs.aws.amazon.com/apigateway/latest/developerguide/
 .. _ABUS-admin: https://docs.aws.amazon.com/a4b/latest/ag/
 .. _ABUS-api: http://docs.aws.amazon.com/a4b/latest/APIReference/
@@ -60,17 +62,26 @@
 .. _AMP-ug: https://docs.aws.amazon.com/amp/latest/userguide/
 .. _AMQ-dg: https://docs.aws.amazon.com/amazon-mq/latest/developer-guide/
 .. _AMQ-rest-api: https://docs.aws.amazon.com/amazon-mq/latest/api-reference/
+.. _AO-ug: https://docs.aws.amazon.com/organizations/latest/userguide/
+.. _AO-api: https://docs.aws.amazon.com/organizations/latest/APIReference/
 .. _APSY-dg: https://docs.aws.amazon.com/appsync/latest/devguide/
 .. _APSY-api: https://docs.aws.amazon.com/appsync/latest/APIReference/
+.. _ART-ug: https://docs.aws.amazon.com/artifact/latest/ug/
 .. _AS-api: https://docs.aws.amazon.com/AutoScaling/latest/APIReference/
 .. _AS-dg: https://docs.aws.amazon.com/AutoScaling/latest/DeveloperGuide/
-.. _AS-gsg: https://docs.aws.amazon.com/AutoScaling/latest/GettingStartedGuide/
+.. _AS-cli: https://docs.aws.amazon.com/cli/latest/reference/autoscaling-plans/
+.. _AS-gsg: https://docs.aws.amazon.com/autoscaling/plans/userguide/auto-scaling-getting-started.html
+.. _ASM-ug: https://docs.aws.amazon.com/secretsmanager/latest/userguide/
+.. _ASM-api: https://docs.aws.amazon.com/secretsmanager/latest/apireference/
 .. _ATP-dg: https://docs.aws.amazon.com/devicefarm/latest/developerguide/
 .. _AWS-gr: https://docs.aws.amazon.com/general/latest/gr/
 .. _AWSDC-api: https://docs.aws.amazon.com/directconnect/latest/APIReference/
 .. _AWSDC-ug: https://docs.aws.amazon.com/directconnect/latest/UserGuide/
 .. _AWSSG-api: https://docs.aws.amazon.com/storagegateway/latest/APIReference/
 .. _AWSSG-ug: https://docs.aws.amazon.com/storagegateway/latest/userguide/
+.. _BATCH-ug: https://docs.aws.amazon.com/batch/latest/userguide/
+.. _BATCH-api: https://docs.aws.amazon.com/batch/latest/APIReference/
+.. _BATCH-api: https://docs.aws.amazon.com/batch/latest/APIReference/
 .. _CC-api: https://docs.aws.amazon.com/config/latest/APIReference/
 .. _CC-dg: https://docs.aws.amazon.com/config/latest/developerguide/
 .. _CF-api: https://docs.aws.amazon.com/AmazonCloudFront/latest/APIReference/
@@ -117,10 +128,13 @@
 .. _ECR-ug: https://docs.aws.amazon.com/AmazonECR/latest/userguide/
 .. _ECS-api: https://docs.aws.amazon.com/AmazonECS/latest/APIReference/
 .. _ECS-dg: https://docs.aws.amazon.com/AmazonECS/latest/developerguide/
+.. _ECS-ug: https://docs.aws.amazon.com/AmazonECS/latest/userguide/
 .. _EDP-api: https://docs.aws.amazon.com/datapipeline/latest/APIReference/
 .. _EDP-dg: https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/
 .. _EDP-gsg: https://docs.aws.amazon.com/datapipeline/latest/GettingStartedGuide/
 .. _EFS-ug: https://docs.aws.amazon.com/efs/latest/ug/
+.. _EKS-ug: https://docs.aws.amazon.com/eks/latest/userguide/
+.. _EKS-api: https://docs.aws.amazon.com/eks/latest/APIReference/
 .. _ELB-api: https://docs.aws.amazon.com/ElasticLoadBalancing/latest/APIReference/
 .. _ELB-dg: https://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/
 .. _ELC-api: https://docs.aws.amazon.com/AmazonElastiCache/latest/APIReference/
@@ -168,7 +182,7 @@
 .. _GSG-wahl: https://docs.aws.amazon.com/gettingstarted/latest/wah-linux/
 .. _GSG-win: https://docs.aws.amazon.com/gettingstarted/latest/computebasics/
 .. _GUD-dg: https://docs.aws.amazon.com/guardduty/latest/ug/
-.. _GUD-api: https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_api_ref/
+.. _GUD-api: https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_api_ref.html
 .. _HSM-api: https://docs.aws.amazon.com/cloudhsm/latest/dg/
 .. _HSM-dg: https://docs.aws.amazon.com/cloudhsm/latest/dg/
 .. _HSM-ug: https://docs.aws.amazon.com/cloudhsm/latest/userguide/
@@ -194,6 +208,8 @@
 .. _LY-ug: https://docs.aws.amazon.com/lumberyard/latest/userguide/
 .. _MA-ug: https://docs.aws.amazon.com/mobileanalytics/latest/ug/
 .. _MCE-ug: http://docs.aws.amazon.com/macie/latest/userguide/
+.. _MESH-ug: http://docs.aws.amazon.com/app-mesh/latest/userguide/
+.. _MESH-api: http://docs.aws.amazon.com/app-mesh/latest/APIReference/
 .. _ML-api: https://docs.aws.amazon.com/machine-learning/latest/APIReference/
 .. _ML-dg: https://docs.aws.amazon.com/machine-learning/latest/dg/
 .. _MT-api: https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMturkAPI/

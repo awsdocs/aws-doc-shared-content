@@ -192,8 +192,10 @@
 .. |APSY| replace:: AWS AppSync
 .. |ARTlong| replace:: AWS Artifact
 .. |ART| replace:: AWS Artifact
-.. |ASlong| replace:: Auto Scaling
-.. |AS| replace:: Auto Scaling
+.. |ASlong| replace:: AWS Auto Scaling
+.. |AS| replace:: AWS Auto Scaling
+.. |ASMlong| replace:: AWS Secrets Manager
+.. |ASM| replace:: Secrets Manager
 .. |ATElong| replace:: Amazon Athena
 .. |ATE| replace:: Athena
 .. |ATPlong| replace:: AWS Device Farm
@@ -211,6 +213,7 @@
 .. |AWSTAlong| replace:: AWS Trusted Advisor
 .. |AWSTA| replace:: Trusted Advisor
 .. |BATCHlong| replace:: AWS Batch
+.. |BATCH| replace:: AWS Batch
 .. |CClong| replace:: AWS Config
 .. |CC| replace:: AWS Config
 .. |CDlong| replace:: AWS CodeDeploy
@@ -259,12 +262,14 @@
 .. |EB| replace:: Elastic Beanstalk
 .. |EC2long| replace:: Amazon Elastic Compute Cloud
 .. |EC2| replace:: Amazon EC2
-.. |ECRlong| replace:: Amazon Elastic Container Registry
+.. |ECRlong| replace:: Amazon Elastic Container Registry (Amazon ECR)
 .. |ECR| replace:: Amazon ECR
-.. |ECSlong| replace:: Amazon Elastic Container Service
+.. |ECSlong| replace:: Amazon Elastic Container Service (Amazon ECS)
 .. |ECS| replace:: Amazon ECS
 .. |EFSlong| replace:: Amazon Elastic File System
 .. |EFS| replace:: Amazon EFS
+.. |EKSlong| replace:: Amazon Elastic Container Service for Kubernetes
+.. |EKS| replace:: Amazon EKS
 .. |ELBlong| replace:: Elastic Load Balancing
 .. |ELB| replace:: ELB
 .. |ELClong| replace:: Amazon ElastiCache
@@ -335,6 +340,8 @@
 .. |MA| replace:: Mobile Analytics
 .. |MCElong| replace:: Amazon Macie
 .. |MCE| replace:: Macie
+.. |MESHlong| replace:: AWS App Mesh
+.. |MESH| replace:: App Mesh
 .. |MKTlong| replace:: AWS Marketplace
 .. |MKT| replace:: Marketplace
 .. |MLlong| replace:: Amazon Machine Learning
@@ -472,7 +479,8 @@
 .. Service Guide names
    -------------------
 .. |AAS-dg| replace:: :title:`Amazon AppStream Developer Guide`
-.. |AB-ug| replace:: :title:`Billing and Cost Management User Guide`
+.. |AB-ug| replace:: :title:`AWS Billing and Cost Management User Guide`
+.. |AB-api| replace:: :title:`AWS Billing and Cost Management API Reference`
 .. |ABP-dg| replace:: :title:`API Gateway Developer Guide`
 .. |ABUS-ag| replace:: :title:`Alexa for Business Administration Guide`
 .. |ABUS-api| replace:: :title:`Alexa for Business API Reference`
@@ -516,14 +524,19 @@
 .. |AMP-ug| replace:: :title:`AWS Management Portal for vCenter User Guide`
 .. |AMQ-dg| replace:: :title:`Amazon MQ Developer Guide`
 .. |AMQ-api| replace:: :title:`Amazon MQ REST API Reference`
+.. |AO-ug| replace:: :title:`AWS Organizations User Guide`
+.. |AO-api| replace:: :title:`AWS Organizations API Reference`
 .. |APPA-ug| replace:: :title:`AWS Application Auto Scaling User Guide`
 .. |APPD-ug| replace:: :title:`AWS Application Discovery Service User Guide`
 .. |APSY-dg| replace:: :title:`AWS AppSync Developer Guide`
 .. |APSY-api| replace:: :title:`AWS AppSync API Reference`
 .. |ART-ug| replace:: :title:`AWS Artifact User Guide`
-.. |AS-api| replace:: :title:`AutoScaling API Reference`
-.. |AS-dg| replace:: :title:`AutoScaling Developer Guide`
-.. |AS-gsg| replace:: :title:`AutoScaling Getting Started Guide`
+.. |AS-api| replace:: :title:`AWS Auto Scaling API Reference`
+.. |AS-dg| replace:: :title:`AWS Auto Scaling Developer Guide`
+.. |AS-cli| replace:: :title:`AWS Auto Scaling CLI Reference`
+.. |AS-gsg| replace:: :title:`Auto Scaling Getting Started Guide`
+.. |ASM-ug| replace:: :title:`AWS Secrets Manager User Guide`
+.. |ASM-api| replace:: :title:`AWS Secrets Manager API Reference`
 .. |ATE-ug| replace:: :title:`Amazon Athena User Guide`
 .. |ATE-api| replace:: :title:`Amazon Athena API Reference`
 .. |ATP-dg| replace:: :title:`AWS Device Farm Developer Guide`
@@ -582,14 +595,17 @@
 .. |EC2-qrc| replace:: :title:`Amazon EC2 Quick Reference Card`
 .. |EC2-ug-win| replace:: :title:`Amazon EC2 User Guide for Windows Instances`
 .. |EC2-ug| replace:: :title:`Amazon EC2 User Guide for Linux Instances`
-.. |ECR-api| replace:: :title:`Amazon ECR API Reference`
-.. |ECR-ug| replace:: :title:`Amazon ECR User Guide`
-.. |ECS-api| replace:: :title:`Amazon ECS API Reference`
-.. |ECS-dg| replace:: :title:`Amazon ECS Developer Guide`
+.. |ECR-api| replace:: :title:`Amazon Elastic Container Registry API Reference`
+.. |ECR-ug| replace:: :title:`Amazon Elastic Container Registry User Guide`
+.. |ECS-api| replace:: :title:`Amazon Elastic Container Service API Reference`
+.. |ECS-dg| replace:: :title:`Amazon Elastic Container Service Developer Guide`
+.. |ECS-ug| replace:: :title:`Amazon Elastic Container Service User Guide for AWS Fargate`
 .. |EDP-api| replace:: :title:`AWS Data Pipeline API Reference`
 .. |EDP-dg| replace:: :title:`AWS Data Pipeline Developer Guide`
 .. |EDP-gsg| replace:: :title:`AWS Data Pipeline Getting Started Guide`
 .. |EFS-ug| replace:: :title:`Amazon EFS User Guide`
+.. |EKS-ug| replace:: :title:`Amazon EKS User Guide`
+.. |EKS-api| replace:: :title:`Amazon EKS API Reference`
 .. |ELB-api| replace:: :title:`Elastic Load Balancing API Reference`
 .. |ELB-dg| replace:: :title:`Elastic Load Balancing Developer Guide`
 .. |ELB-qrc| replace:: :title:`Elastic Load Balancing Quick Reference Card`
@@ -666,6 +682,10 @@
 .. |LAM-dg| replace:: :title:`AWS Lambda Developer Guide`
 .. |MA-api| replace:: :title:`Amazon Mobile Analytics API Reference`
 .. |MA-ug| replace:: :title:`Amazon Mobile Analytics User Guide`
+
+.. |MCE-ug| replace:: :title:`Amazon Macie User Guide`
+.. |MESH-ug| replace:: :title:`AWS App Mesh User Guide`
+.. |MESH-api| replace:: :title:`AWS App Mesh User Guide`
 .. |ML-api| replace:: :title:`Amazon ML API Reference`
 .. |ML-dg| replace:: :title:`Amazon ML Developer Guide`
 .. |MT-api| replace:: :title:`Mechanical Turk API Reference`
