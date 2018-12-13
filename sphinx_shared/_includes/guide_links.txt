@@ -157,7 +157,7 @@
 .. _EMR-gsg: https://docs.aws.amazon.com/ElasticMapReduce/latest/GettingStartedGuide/
 .. _EMR-mg: https://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/
 .. _EMT-ug: http://docs.aws.amazon.com/mediatailor/latest/ug/
-.. _EMX-dg: http://docs.aws.amazon.com/mediaconnect/latest/ug/
+.. _EMX-ug: http://docs.aws.amazon.com/mediaconnect/latest/ug/
 .. _EMX-api: http://docs.aws.amazon.com/mediaconnect/latest/api/
 .. _ES-dg: https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/
 .. _ET-dg: https://docs.aws.amazon.com/elastictranscoder/latest/developerguide/
