@@ -667,8 +667,8 @@
 .. |EMS-api| replace:: :title:`AWS Elemental MediaStore API Reference`
 .. |EMT-ug| replace:: :title:`AWS Elemental MediaTailor User Guide`
 .. |EMT-api| replace:: :title:`AWS Elemental MediaTailor API Reference`
-.. |EMX-dg| replace:: :title:`AWS Global Accelerator Developer Guide`
-.. |EMX-api| replace:: :title:`AWS Global Accelerator API Reference`
+.. |EMX-ug| replace:: :title:`AWS Elemental MediaConnect User Guide`
+.. |EMX-api| replace:: :title:`AWS Elemental MediaConnect API Reference`
 .. |ES-api| replace:: :title:`Amazon ES REST Configuration API Reference`
 .. |ES-dg| replace:: :title:`Amazon ES Developer Guide`
 .. |ET-dg| replace:: :title:`Amazon Elastic Transcoder Developer Guide`
