@@ -717,6 +717,7 @@
 .. |HSM-ug| replace:: :title:`AWS CloudHSM User Guide`
 .. |IAM-api| replace:: :title:`IAM API Reference`
 .. |IAM-clt| replace:: :title:`IAM CLI Reference`
+.. |IAM-cli-ref| replace:: :title:`IAM CLI Reference`
 .. |IAM-qrc| replace:: :title:`IAM Quick Reference Card`
 .. |IAM-ug| replace:: :title:`IAM User Guide`
 .. |IE-dg| replace:: :title:`AWS Import/Export Developer Guide`

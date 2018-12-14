@@ -203,7 +203,8 @@
 .. _HSM-dg: https://docs.aws.amazon.com/cloudhsm/latest/dg/
 .. _HSM-ug: https://docs.aws.amazon.com/cloudhsm/latest/userguide/
 .. _IAM-api: https://docs.aws.amazon.com/IAM/latest/APIReference/
-.. _IAM-cli-ref: https://docs.aws.amazon.com/IAM/latest/CLIReference/
+.. _IAM-cli-ref: https://docs.aws.amazon.com/cli/latest/reference/iam/
+.. _IAM-clt: https://docs.aws.amazon.com/cli/latest/reference/iam/
 .. _IAM-ug: https://docs.aws.amazon.com/IAM/latest/UserGuide/
 .. _IE-dg: https://docs.aws.amazon.com/AWSImportExport/latest/DG/
 .. _INS-api: https://docs.aws.amazon.com/inspector/latest/APIReference/
