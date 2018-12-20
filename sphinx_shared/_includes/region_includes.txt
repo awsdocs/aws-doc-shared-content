@@ -50,6 +50,9 @@
 .. |eucentral1-name| replace:: EU (Frankfurt) Region
 .. |region-eu-central-1| replace:: EU (Frankfurt)
 
+.. |eunorth1-name| replace:: EU (Stockholm) Region
+.. |region-eu-north-1| replace:: EU (Stockholm)
+
 .. |euwest1-name| replace:: EU (Ireland) Region
 .. |region-eu-west-1| replace:: EU (Ireland)
 
@@ -59,8 +62,11 @@
 .. |euwest3-name| replace:: EU (Paris) Region
 .. |region-eu-west-3| replace:: EU (Paris)
 
-.. |govuswest1-name| replace:: AWS GovCloud (US)
-.. |region-gov-us-west-1| replace:: AWS GovCloud (US)
+.. |govuswest1-name| replace:: AWS GovCloud (US-West)
+.. |region-gov-us-west-1| replace:: AWS GovCloud (US-West)
+
+.. |govuseast1-name| replace:: AWS GovCloud (US-East)
+.. |region-gov-us-east-1| replace:: AWS GovCloud (US-East)
 
 .. |saeast1-name| replace:: South America (Sao Paulo) Region
 .. |region-sa-east-1| replace:: South America (Sao Paulo)

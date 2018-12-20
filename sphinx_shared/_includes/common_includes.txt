@@ -174,6 +174,8 @@
 .. |AKVS| replace:: Kinesis Video Streams
 .. |ALYlong| replace:: Amazon Lumberyard
 .. |ALY| replace:: Lumberyard
+.. |AMBlong| replace:: Amazon Managed Blockchain
+.. |AMB| replace:: Managed Blockchain
 .. |AMHlong| replace:: AWS Mobile Hub
 .. |AMH| replace:: Mobile Hub
 .. |AMPClong| replace:: AWS Connector for vCenter
@@ -194,6 +196,8 @@
 .. |ART| replace:: AWS Artifact
 .. |ASlong| replace:: AWS Auto Scaling
 .. |AS| replace:: AWS Auto Scaling
+.. |ASHlong| replace:: AWS Security Hub
+.. |ASH| replace:: Security Hub
 .. |ASMlong| replace:: AWS Secrets Manager
 .. |ASM| replace:: Secrets Manager
 .. |ATElong| replace:: Amazon Athena
@@ -257,6 +261,8 @@
 .. |DP| replace:: DevPay
 .. |DSlong| replace:: Amazon DynamoDB Streams
 .. |DS| replace:: DynamoDB Streams
+.. |DSYlong| replace:: AWS DataSync
+.. |DSY| replace:: DataSync
 .. |Disklong| replace:: AWS Import/Export Disk
 .. |EBSencryptlong| replace:: Amazon EBS encryption
 .. |EBSencrypt| replace:: Amazon EBS encryption
@@ -454,6 +460,8 @@
 .. |WAF| replace:: AWS WAF
 .. |WAMlong| replace:: Amazon WorkSpaces Application Manager
 .. |WAM| replace:: Amazon WAM
+.. |WATlong| replace:: AWS Well-Architected Tool
+.. |WAT| replace:: AWS WA Tool
 .. |WDlong| replace:: Amazon WorkDocs
 .. |WD| replace:: WorkDocs
 .. |WMlong| replace:: Amazon WorkMail
@@ -556,6 +564,8 @@
 .. |ALY-gsg| replace:: :title:`Amazon Lumberyard Getting Started Guide`
 .. |ALY-qsg| replace:: :title:`Amazon Lumberyard Quick Start Guide`
 .. |ALY-ug| replace:: :title:`Amazon Lumberyard User Guide`
+.. |AMB-mg| replace:: :title:`Amazon Managed Blockchain Management Guide`
+.. |AMB-api| replace:: :title:`Amazon Managed Blockchain API Reference`
 .. |AMP-ug| replace:: :title:`AWS Management Portal for vCenter User Guide`
 .. |AMQ-dg| replace:: :title:`Amazon MQ Developer Guide`
 .. |AMQ-api| replace:: :title:`Amazon MQ REST API Reference`
@@ -570,6 +580,8 @@
 .. |AS-dg| replace:: :title:`AWS Auto Scaling Developer Guide`
 .. |AS-cli| replace:: :title:`AWS Auto Scaling CLI Reference`
 .. |AS-gsg| replace:: :title:`Auto Scaling Getting Started Guide`
+.. |ASH-ug| replace:: :title:`AWS Security Hub User Guide`
+.. |ASH-api| replace:: :title:`AWS Security Hub API Reference`
 .. |ASM-ug| replace:: :title:`AWS Secrets Manager User Guide`
 .. |ASM-api| replace:: :title:`AWS Secrets Manager API Reference`
 .. |ATE-ug| replace:: :title:`Amazon Athena User Guide`
@@ -625,6 +637,7 @@
 .. |DP-dg| replace:: :title:`Amazon DevPay Developer Guide`
 .. |DP-gsg| replace:: :title:`Amazon DevPay Getting Started Guide`
 .. |DP-qrc| replace:: :title:`Amazon DevPay Quick Reference Card`
+.. |DSY-ug| replace:: :title:`AWS DataSync User Guide`
 .. |EB-dg| replace:: :title:`AWS Elastic Beanstalk Developer Guide`
 .. |EB-api| replace:: :title:`AWS Elastic Beanstalk API Reference`
 .. |EC2-api| replace:: :title:`Amazon EC2 API Reference`
@@ -832,6 +845,7 @@
 .. |WAF-dg| replace:: :title:`AWS WAF Developer Guide`
 .. |WAM-ag| replace:: :title:`Amazon WAM Administration Guide`
 .. |WAM-ug| replace:: :title:`Amazon WAM User Guide`
+.. |WAT-ug| replace:: :title:`AWS Well-Architected Tool User Guide`
 .. |WD-ag| replace:: :title:`Amazon WorkDocs Administration Guide`
 .. |WD-ug| replace:: :title:`Amazon WorkDocs User Guide`
 .. |WM-ag| replace:: :title:`Amazon WorkMail Administration Guide`

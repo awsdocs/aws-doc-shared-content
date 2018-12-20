@@ -59,6 +59,8 @@
 .. _AKS-api: https://docs.aws.amazon.com/kinesis/latest/APIReference/
 .. _AKS-dg: https://docs.aws.amazon.com/kinesis/latest/dev/
 .. _AKVS-dg: https://docs.aws.amazon.com/kinesisvideostreams/latest/dg/
+.. _AMB-mg: https://docs.aws.amazon.com/managed-blockchain/latest/managementguide/
+.. _AMB-api: https://docs.aws.amazon.com/managed-blockchain/latest/APIReference/
 .. _AMP-ug: https://docs.aws.amazon.com/amp/latest/userguide/
 .. _AMQ-dg: https://docs.aws.amazon.com/amazon-mq/latest/developer-guide/
 .. _AMQ-rest-api: https://docs.aws.amazon.com/amazon-mq/latest/api-reference/
@@ -71,6 +73,8 @@
 .. _AS-dg: https://docs.aws.amazon.com/AutoScaling/latest/DeveloperGuide/
 .. _AS-cli: https://docs.aws.amazon.com/cli/latest/reference/autoscaling-plans/
 .. _AS-gsg: https://docs.aws.amazon.com/autoscaling/plans/userguide/auto-scaling-getting-started.html
+.. _ASH-ug: https://docs.aws.amazon.com/securityhub/latest/userguide/
+.. _ASH-api: https://docs.aws.amazon.com/securityhub/1.0/APIReference/
 .. _ASM-ug: https://docs.aws.amazon.com/secretsmanager/latest/userguide/
 .. _ASM-api: https://docs.aws.amazon.com/secretsmanager/latest/apireference/
 .. _ATP-dg: https://docs.aws.amazon.com/devicefarm/latest/developerguide/
@@ -120,6 +124,7 @@
 .. _DMS-ug: https://docs.aws.amazon.com/dms/latest/userguide/
 .. _DP-dg: https://docs.aws.amazon.com/AmazonDevPay/latest/DevPayDeveloperGuide/
 .. _DP-gsg: https://docs.aws.amazon.com/AmazonDevPay/latest/DevPayGettingStartedGuide/
+.. _DSY-ug: https://docs.aws.amazon.com/datasync/latest/userguide/
 .. _EB-dg: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/
 .. _EC2-api: https://docs.aws.amazon.com/AWSEC2/latest/APIReference/
 .. _EC2-cli-ref: https://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/
@@ -314,6 +319,7 @@
 .. _WAF-dg: https://docs.aws.amazon.com/waf/latest/developerguide/
 .. _WAM-admin: https://docs.aws.amazon.com/wam/latest/adminguide/
 .. _WAM-ug: https://docs.aws.amazon.com/wam/latest/userguide/
+.. _WAT-ug: https://docs.aws.amazon.com/wellarchitected/latest/userguide/
 .. _WD-ag: https://docs.aws.amazon.com/workdocs/latest/adminguide/
 .. _WD-ug: https://docs.aws.amazon.com/workdocs/latest/userguide/
 .. _WM-admin: https://docs.aws.amazon.com/workmail/latest/adminguide/
