@@ -146,15 +146,15 @@
 .. |AC9long| replace:: AWS Cloud9
 .. |AC9| replace:: AWS Cloud9
 .. |ACBlong| replace:: AWS CodeBuild
-.. |ACB| replace:: AWS CodeBuild
+.. |ACB| replace:: CodeBuild
 .. |ACClong| replace:: AWS CodeCommit
-.. |ACC| replace:: AWS CodeCommit
+.. |ACC| replace:: CodeCommit
 .. |ACDlong| replace:: AWS CodeDeploy
-.. |ACD| replace:: AWS CodeDeploy
+.. |ACD| replace:: CodeDeploy
 .. |ACMlong| replace:: AWS Certificate Manager
 .. |ACM| replace:: ACM
 .. |ACPlong| replace:: AWS CodePipeline
-.. |ACP| replace:: AWS CodePipeline
+.. |ACP| replace:: CodePipeline
 .. |ACSlong| replace:: AWS CodeStar
 .. |ADSlong| replace:: AWS Directory Service
 .. |ADS| replace:: AWS Directory Service
@@ -220,6 +220,8 @@
 .. |AWSTA| replace:: Trusted Advisor
 .. |BATCHlong| replace:: AWS Batch
 .. |BATCH| replace:: AWS Batch
+.. |BKPlong| replace:: AWS Backup
+.. |BKP| replace:: AWS Backup
 .. |CClong| replace:: AWS Config
 .. |CC| replace:: AWS Config
 .. |CDlong| replace:: AWS CodeDeploy
@@ -257,6 +259,8 @@
 .. |DL| replace:: AWS DeepLens
 .. |DMSlong| replace:: AWS Database Migration Service
 .. |DMS| replace:: AWS DMS
+.. |DocDBlong| replace:: Amazon DocumentDB (with MongoDB compatibility)
+.. |DocDB| replace:: Amazon DocumentDB
 .. |DPlong| replace:: Amazon DevPay
 .. |DP| replace:: DevPay
 .. |DSlong| replace:: Amazon DynamoDB Streams
@@ -371,6 +375,8 @@
 .. |MMPlong| replace:: AWS Marketplace Management Portal
 .. |MMlong| replace:: AWS Molecular Modeling
 .. |MM| replace:: Molecular Modeling
+.. |MSKlong| replace:: Amazon Managed Streaming for Kafka (Amazon MSK) (public preview)
+.. |MSK| replace:: Amazon MSK
 .. |MTlong| replace:: Amazon Mechanical Turk
 .. |MT| replace:: Mechanical Turk
 .. |neptunelong| replace:: Amazon Neptune
@@ -597,6 +603,8 @@
 .. |AWSSG-ug| replace:: :title:`AWS Storage Gateway User Guide`
 .. |BATCH-ug| replace:: :title:`AWS Batch User Guide`
 .. |BATCH-api| replace:: :title:`AWS Batch API Reference`
+.. |BKP-dg| replace:: :title:`AWS Backup Developer Guide`
+.. |BKP-api| replace:: :title:`AWS Backup API Reference`
 .. |CC-api| replace:: :title:`AWS Config API Reference`
 .. |CC-dg| replace:: :title:`AWS Config Developer Guide`
 .. |CF-api| replace:: :title:`Amazon CloudFront API Reference`
@@ -634,6 +642,8 @@
 .. |DL-dg| replace:: :title:`AWS DeepLens Developer Guide`
 .. |DMS-api| replace:: :title:`AWS DMS API Reference`
 .. |DMS-ug| replace:: :title:`AWS DMS User Guide`
+.. |DocDB-dg| replace:: :title:`Amazon DocumentDB Developer Guide`
+.. |DocDB-api| replace:: :title:`Amazon DocumentDB API Reference`
 .. |DP-dg| replace:: :title:`Amazon DevPay Developer Guide`
 .. |DP-gsg| replace:: :title:`Amazon DevPay Getting Started Guide`
 .. |DP-qrc| replace:: :title:`Amazon DevPay Quick Reference Card`
@@ -756,6 +766,8 @@
 .. |MESH-api| replace:: :title:`AWS App Mesh API Reference`
 .. |ML-api| replace:: :title:`Amazon ML API Reference`
 .. |ML-dg| replace:: :title:`Amazon ML Developer Guide`
+.. |MSK-dg| replace:: :title:`Amazon Managed Streaming for Kafka Developer Guide`
+.. |MSK-api| replace:: :title:`Amazon Managed Streaming for Kafka API Reference`
 .. |MT-api| replace:: :title:`Mechanical Turk API Reference`
 .. |MT-clt| replace:: :title:`Mechanical Turk CLI Reference`
 .. |MT-dg| replace:: :title:`Mechanical Turk Developer Guide`

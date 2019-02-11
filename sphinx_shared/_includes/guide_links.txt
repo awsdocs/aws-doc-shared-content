@@ -86,7 +86,8 @@
 .. _AWSSG-ug: https://docs.aws.amazon.com/storagegateway/latest/userguide/
 .. _BATCH-ug: https://docs.aws.amazon.com/batch/latest/userguide/
 .. _BATCH-api: https://docs.aws.amazon.com/batch/latest/APIReference/
-.. _BATCH-api: https://docs.aws.amazon.com/batch/latest/APIReference/
+.. _BKP-dg: https://docs.aws.amazon.com/aws-backup/latest/devguide/
+.. _BKP-api: https://docs.aws.amazon.com/aws-backup/latest/devguide/api-reference.html
 .. _CC-api: https://docs.aws.amazon.com/config/latest/APIReference/
 .. _CC-dg: https://docs.aws.amazon.com/config/latest/developerguide/
 .. _CF-api: https://docs.aws.amazon.com/AmazonCloudFront/latest/APIReference/
@@ -122,6 +123,8 @@
 .. _DL-dg: https://docs.aws.amazon.com/deeplens/latest/dg/
 .. _DMS-api: https://docs.aws.amazon.com/dms/latest/APIReference/
 .. _DMS-ug: https://docs.aws.amazon.com/dms/latest/userguide/
+.. _DocDB-dg: https://docs.aws.amazon.com/documentdb/latest/developerguide/
+.. _DocDB-api: https://docs.aws.amazon.com/documentdb/latest/developerguide/api-reference.html
 .. _DP-dg: https://docs.aws.amazon.com/AmazonDevPay/latest/DevPayDeveloperGuide/
 .. _DP-gsg: https://docs.aws.amazon.com/AmazonDevPay/latest/DevPayGettingStartedGuide/
 .. _DSY-ug: https://docs.aws.amazon.com/datasync/latest/userguide/
@@ -237,6 +240,8 @@
 .. _MESH-api: http://docs.aws.amazon.com/app-mesh/latest/APIReference/
 .. _ML-api: https://docs.aws.amazon.com/machine-learning/latest/APIReference/
 .. _ML-dg: https://docs.aws.amazon.com/machine-learning/latest/dg/
+.. _MSK-dg: https://docs.aws.amazon.com/msk/latest/developerguide/
+.. _MSK-api: https://docs.aws.amazon.com/msk/1.0/apireference/
 .. _MT-api: https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMturkAPI/
 .. _MT-clt: https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMturkCLT/
 .. _MT-dg: https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMechanicalTurkRequester/
