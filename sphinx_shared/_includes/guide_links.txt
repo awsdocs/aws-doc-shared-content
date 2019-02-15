@@ -90,7 +90,7 @@
 .. _BKP-api: https://docs.aws.amazon.com/aws-backup/latest/devguide/api-reference.html
 .. _CC-api: https://docs.aws.amazon.com/config/latest/APIReference/
 .. _CC-dg: https://docs.aws.amazon.com/config/latest/developerguide/
-.. _CF-api: https://docs.aws.amazon.com/AmazonCloudFront/latest/APIReference/
+.. _CF-api: https://docs.aws.amazon.com/cloudfront/latest/APIReference/
 .. _CF-dg: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/
 .. _CFN-api: https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/
 .. _CFN-gsg: https://docs.aws.amazon.com/AWSCloudFormation/latest/GettingStartedGuide/
