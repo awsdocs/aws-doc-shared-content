@@ -221,7 +221,12 @@
 .. _IOT-dg: https://docs.aws.amazon.com/iot/latest/developerguide/
 .. _IOT-gsg: https://docs.aws.amazon.com/iot/latest/gettingstartedguide/
 .. _IOT-ug: https://docs.aws.amazon.com/iot/latest/userguide/
+.. _ITA-ug: https://docs.aws.amazon.com/iotanalytics/latest/userguide/
+.. _ITA-api: https://docs.aws.amazon.com/iotanalytics/latest/APIReference/
 .. _ITDD-dg: https://docs.aws.amazon.com/latest/developerguide/device-defender.html
+.. _ITE-dg: https://docs.aws.amazon.com/iotevents/latest/developerguide/
+.. _ITSW-ug: https://docs.aws.amazon.com/iot-sitewise/latest/userguide/
+.. _ITSW-api: https://docs.aws.amazon.com/iot-sitewise/latest/APIReference/
 .. _ITTG-ug: https://docs.aws.amazon.com/thingsgraph/latest/ug/
 .. _ITTG-api: https://docs.aws.amazon.com/thingsgraph/latest/APIReference/
 .. _JSB-api: https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/
@@ -280,6 +285,7 @@
 .. _SC-ug: https://docs.aws.amazon.com/servicecatalog/latest/userguide/
 .. _SDB-dg: https://docs.aws.amazon.com/AmazonSimpleDB/latest/DeveloperGuide/
 .. _SDB-gsg: https://docs.aws.amazon.com/AmazonSimpleDB/latest/GettingStartedGuide/
+.. _SDKCodeSampCat-cat: https://docs.aws.amazon.com/code-samples/latest/catalog/
 .. _SES-api: https://docs.aws.amazon.com/ses/latest/APIReference/
 .. _SES-dg: https://docs.aws.amazon.com/ses/latest/DeveloperGuide/
 .. _SFN-api: https://docs.aws.amazon.com/step-functions/latest/apireference/
@@ -342,6 +348,8 @@
 .. _CryptoSDK-dg: https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/
 .. _JBIDE-toolkit-ug: https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/
 .. _JDK-ug: https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/
+.. _JDK-ug-8: https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/
+.. _JDK-ug-11: https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/
 .. _jflow-dg: https://docs.aws.amazon.com/amazonswf/latest/awsflowguide/
 .. _pst-ug: https://docs.aws.amazon.com/powershell/latest/userguide/
 .. _rbflow-api: https://docs.aws.amazon.com/amazonswf/latest/awsrbflowapi/

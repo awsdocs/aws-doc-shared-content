@@ -351,6 +351,10 @@
 .. |ITDD| replace:: AWS IoT Device Defender
 .. |ITDMlong| replace:: AWS IoT Device Management
 .. |ITDM| replace:: AWS IoT Device Management
+.. |ITE| replace:: AWS IoT Events
+.. |ITElong| replace:: AWS IoT Events
+.. |ITSW| replace:: AWS IoT SiteWise
+.. |ITSWlong| replace:: AWS IoT SiteWise
 .. |ITTGlong| replace:: AWS IoT Things Graph
 .. |ITTG| replace:: AWS IoT Things Graph
 .. |JSBlong| replace:: AWS SDK for JavaScript
@@ -485,11 +489,13 @@
 .. |JDKlong| replace:: Amazon Corretto
 .. |JDK| replace:: Corretto
 .. |JDKlong8| replace:: Amazon Corretto 8
-.. |JDKlongpreview| replace:: Amazon Corretto 8 Preview
-.. |JDKpreview| replace:: Corretto 8 Preview
+.. |JDKlongpreview| replace:: Amazon Corretto 8
+.. |JDKpreview| replace:: Corretto 8
+.. |JDKlong11| replace:: Amazon Corretto 11
+.. |JDKshort11| replace:: Corretto 11
 .. |jflow| replace:: AWS Flow Framework for Java
 .. |IntellijIDE| replace:: Intellij IDE
-.. |JBIDEToolkitlong| replace:: AWS Toolkit for JetBrains IDEs
+.. |JBIDEToolkitlong| replace:: AWS Toolkit for JetBrains
 .. |JBIDEToolkit| replace:: AWS Toolkit for JetBrains
 .. |JBIDElong| replace:: JetBrains IDEs
 .. |JBIDE| replace:: JetBrains
@@ -498,6 +504,7 @@
 .. |pst| replace:: PowerShell Tools
 .. |PyCharmIDE| replace:: PyCharm IDE
 .. |rbflow| replace:: AWS Flow Framework for Ruby
+.. |SDKCodeSampCat| replace:: AWS Code Sample Catalog
 .. |sdk-android| replace:: AWS Mobile SDK for Android
 .. |sdk-cpp| replace:: AWS SDK for C++
 .. |sdk-go| replace:: AWS SDK for Go
@@ -750,10 +757,17 @@
 .. |IOT-api| replace:: :title:`AWS IoT API Reference`
 .. |IOT-gsg| replace:: :title:`AWS IoT Getting Started Guide`
 .. |IOT-ug| replace:: :title:`AWS IoT User Guide`
+.. |ITA-ug| replace:: :title:`AWS IoT Analytics User Guide`
+.. |ITA-api| replace:: :title:`AWS IoT Analytics API Reference`
+.. |ITE-dg| replace:: :title:`AWS IoT Events Developer Guide`
+.. |ITSW-ug| replace:: :title:`AWS IoT SiteWise User Guide`
+.. |ITSW-api| replace:: :title:`AWS IoT SiteWise API Reference`
 .. |ITTG-ug| replace:: :title:`AWS IoT Things Graph User Guide`
 .. |ITTG-api| replace:: :title:`AWS IoT Things Graph API Reference`
-.. |JBIDE-toolkit-ug| replace:: :title:`AWS Toolkit for JetBrains IDEs User Guide`
+.. |JBIDE-toolkit-ug| replace:: :title:`AWS Toolkit for JetBrains User Guide`
 .. |JDK-ug| replace:: :title:`Amazon Corretto User Guide`
+.. |JDK-ug-8| replace:: :title:`Amazon Corretto 8 User Guide`
+.. |JDK-ug-11| replace:: :title:`Amazon Corretto 11 User Guide`
 .. |JSB-api| replace:: :title:`SDK for JavaScript in the Browser API Reference`
 .. |JSB-gsg| replace:: :title:`SDK for JavaScript in the Browser Getting Started Guide`
 .. |KMS-api| replace:: :title:`AWS KMS API Reference`
@@ -927,4 +941,5 @@
 .. |sdk-xray-net-api| replace:: :title:`AWS X-Ray SDK for .NET API Reference`
 .. |sdk-xray-nodejs-api| replace:: :title:`AWS X-Ray SDK for Node.js API Reference`
 .. |sdk-xray-python-api| replace:: :title:`AWS X-Ray SDK for Python API Reference`
+.. |SDKCodeSampCat-cat| replace:: :title:`AWS Code Sample Catalog`
 .. |tke-ug| replace:: :title:`AWS Toolkit for Eclipse User Guide`
