@@ -373,7 +373,7 @@
 .. _sdk-java-dg: https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/
 .. _sdk-java-ref: https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/
 .. _sdk-java-dg-v2: https://docs.aws.amazon.com/sdk-for-java/v2/developer-guide/
-.. _sdk-java-api-v2: https://sdk.amazonaws.com/java/api/latest/overview-summary.html
+.. _sdk-java-api-v2: https://sdk.amazonaws.com/java/api/latest/
 .. _sdk-js-ref: https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/
 .. _sdk-js-dg-v2: https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/
 .. _sdk-mobile-dg: https://docs.aws.amazon.com/mobile-hub/latest/developerguide/
