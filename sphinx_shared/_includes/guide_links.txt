@@ -23,6 +23,8 @@
 .. Service Guide links
    -------------------
 .. _AAS-dg: https://docs.aws.amazon.com/appstream/latest/developerguide/
+.. _AAS-api: https://docs.aws.amazon.com/appstream2/latest/APIReference/
+.. _AAS-cli: https://docs.aws.amazon.com/cli/latest/reference/appstream/
 .. _AB-ug: https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/
 .. _AB-api: https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/
 .. _ABP-dg: https://docs.aws.amazon.com/apigateway/latest/developerguide/
@@ -68,6 +70,8 @@
 .. _AO-api: https://docs.aws.amazon.com/organizations/latest/APIReference/
 .. _APSY-dg: https://docs.aws.amazon.com/appsync/latest/devguide/
 .. _APSY-api: https://docs.aws.amazon.com/appsync/latest/APIReference/
+.. _ARG-ug: https://docs.aws.amazon.com/ARG/latest/userguide/
+.. _ARG-api: https://docs.aws.amazon.com/ARG/latest/APIReference/
 .. _ART-ug: https://docs.aws.amazon.com/artifact/latest/ug/
 .. _AS-api: https://docs.aws.amazon.com/AutoScaling/latest/APIReference/
 .. _AS-dg: https://docs.aws.amazon.com/AutoScaling/latest/DeveloperGuide/
@@ -82,6 +86,8 @@
 .. _AWS-gr: https://docs.aws.amazon.com/general/latest/gr/
 .. _AWSDC-api: https://docs.aws.amazon.com/directconnect/latest/APIReference/
 .. _AWSDC-ug: https://docs.aws.amazon.com/directconnect/latest/UserGuide/
+.. _awshealth-ug: https://docs.aws.amazon.com/health/latest/ug/
+.. _awshealth-api: https://docs.aws.amazon.com/health/latest/APIReference/
 .. _AWSSG-api: https://docs.aws.amazon.com/storagegateway/latest/APIReference/
 .. _AWSSG-ug: https://docs.aws.amazon.com/storagegateway/latest/userguide/
 .. _BATCH-ug: https://docs.aws.amazon.com/batch/latest/userguide/
@@ -90,6 +96,9 @@
 .. _BKP-api: https://docs.aws.amazon.com/aws-backup/latest/devguide/api-reference.html
 .. _CC-api: https://docs.aws.amazon.com/config/latest/APIReference/
 .. _CC-dg: https://docs.aws.amazon.com/config/latest/developerguide/
+.. _CDS-dg: https://docs.aws.amazon.com/clouddirectory/latest/developerguide/
+.. _CDS-api: https://docs.aws.amazon.com/clouddirectory/latest/APIReference/
+.. _CDS-cli: https://docs.aws.amazon.com/cli/latest/reference/clouddirectory/
 .. _CF-api: https://docs.aws.amazon.com/cloudfront/latest/APIReference/
 .. _CF-dg: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/
 .. _CFN-api: https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/
@@ -127,6 +136,7 @@
 .. _DocDB-api: https://docs.aws.amazon.com/documentdb/latest/developerguide/api-reference.html
 .. _DP-dg: https://docs.aws.amazon.com/AmazonDevPay/latest/DevPayDeveloperGuide/
 .. _DP-gsg: https://docs.aws.amazon.com/AmazonDevPay/latest/DevPayGettingStartedGuide/
+.. _DR-dg: https://docs.aws.amazon.com/deepracer/latest/developerguide/
 .. _DSY-ug: https://docs.aws.amazon.com/datasync/latest/userguide/
 .. _EB-dg: https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/
 .. _EC2-api: https://docs.aws.amazon.com/AWSEC2/latest/APIReference/
@@ -146,6 +156,7 @@
 .. _EFS-ug: https://docs.aws.amazon.com/efs/latest/ug/
 .. _EKS-ug: https://docs.aws.amazon.com/eks/latest/userguide/
 .. _EKS-api: https://docs.aws.amazon.com/eks/latest/APIReference/
+.. _EIA-dg: https://docs.aws.amazon.com/elastic-inference/latest/developerguide/
 .. _ELB-api: https://docs.aws.amazon.com/ElasticLoadBalancing/latest/APIReference/
 .. _ELB-dg: https://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/
 .. _ELC-api: https://docs.aws.amazon.com/AmazonElastiCache/latest/APIReference/
@@ -193,6 +204,9 @@
 .. _GG-cli: https://docs.aws.amazon.com/cli/latest/reference/greengrass/
 .. _GL-dg: https://docs.aws.amazon.com/amazonglacier/latest/dev/
 .. _GLU-dg: http://docs.aws.amazon.com/glue/latest/dg/
+.. _GRS-ug: http://docs.aws.amazon.com/ground-station/latest/ug/
+.. _GRS-api: http://docs.aws.amazon.com/ground-station/latest/APIReference/
+.. _GRS-cli: http://docs.aws.amazon.com/cli/latest/reference/groundstation/
 .. _GOVCLOUD-US-ug: https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/
 .. _GS-api: https://docs.aws.amazon.com/gamelift/latest/apireference/
 .. _GS-dg: https://docs.aws.amazon.com/gamelift/latest/developerguide/
@@ -235,6 +249,8 @@
 .. _LAM-api: https://docs.aws.amazon.com/lambda/latest/dg/
 .. _LAM-dg: https://docs.aws.amazon.com/lambda/latest/dg/
 .. _LAM-dg: https://docs.aws.amazon.com/lambda/latest/dg/
+.. _LIC-ug: https://docs.aws.amazon.com/license-manager/latest/userguide/
+.. _LIC-api: https://docs.aws.amazon.com/license-manager/latest/APIReference/
 .. _LY-dg: https://docs.aws.amazon.com/lumberyard/latest/developerguide/
 .. _LY-gsg: https://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/
 .. _LY-qsg: https://docs.aws.amazon.com/lumberyard/latest/quickstartguide/
@@ -243,6 +259,8 @@
 .. _MCE-ug: http://docs.aws.amazon.com/macie/latest/userguide/
 .. _MESH-ug: http://docs.aws.amazon.com/app-mesh/latest/userguide/
 .. _MESH-api: http://docs.aws.amazon.com/app-mesh/latest/APIReference/
+.. _MHB-ug: http://docs.aws.amazon.com/migrationhub/latest/ug/
+.. _MHB-api: http://docs.aws.amazon.com/migrationhub/latest/ug/api-reference/
 .. _ML-api: https://docs.aws.amazon.com/machine-learning/latest/APIReference/
 .. _ML-dg: https://docs.aws.amazon.com/machine-learning/latest/dg/
 .. _MSK-dg: https://docs.aws.amazon.com/msk/latest/developerguide/
@@ -256,12 +274,16 @@
 .. _OPS-ug: https://docs.aws.amazon.com/opsworks/latest/userguide/
 .. _PAAPI-dg: https://docs.aws.amazon.com/AWSECommerceService/latest/DG/
 .. _PAAPI-gsg: https://docs.aws.amazon.com/AWSECommerceService/latest/GSG/
+.. _PERS-dg: https://docs.aws.amazon.com/personalize/latest/dg/
 .. _PIN-dg: https://docs.aws.amazon.com/pinpoint/latest/developerguide/
 .. _PIN-ug: https://docs.aws.amazon.com/pinpoint/latest/userguide/
 .. _PIN-api: https://docs.aws.amazon.com/pinpoint/latest/apireference/
 .. _PS-ug: https://docs.aws.amazon.com/IAM/latest/UsingPolicySimulatorGuide/
 .. _R53-api: https://docs.aws.amazon.com/Route53/latest/APIReference/
 .. _R53-dg: https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/
+.. _RAM-ug: https://docs.aws.amazon.com/ram/latest/userguide/
+.. _RAM-api: https://docs.aws.amazon.com/ram/latest/APIReference/
+.. _RAM-cli: https://docs.aws.amazon.com/cli/latest/reference/ram/
 .. _RC-api: https://docs.aws.amazon.com/remote-configuration/latest/APIReference/
 .. _RDS-api: https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/
 .. _RDS-clt: https://docs.aws.amazon.com/AmazonRDS/latest/CommandLineReference/
@@ -281,6 +303,7 @@
 .. _S3-dg: https://docs.aws.amazon.com/AmazonS3/latest/dev/
 .. _S3-gsg: https://docs.aws.amazon.com/AmazonS3/latest/gsg/
 .. _S3-ug: https://docs.aws.amazon.com/AmazonS3/latest/UG/
+.. _SAR-dg: https://docs.aws.amazon.com/serverlessrepo/latest/devguide/
 .. _SC-admin: https://docs.aws.amazon.com/servicecatalog/latest/adminguide/
 .. _SC-ug: https://docs.aws.amazon.com/servicecatalog/latest/userguide/
 .. _SDB-dg: https://docs.aws.amazon.com/AmazonSimpleDB/latest/DeveloperGuide/
@@ -307,6 +330,7 @@
 .. _SQS-dg: https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/
 .. _SQS-gsg: https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSGettingStartedGuide/
 .. _SSM-api: https://docs.aws.amazon.com/ssm/latest/APIReference/
+.. _SSO-ug: https://docs.aws.amazon.com/singlesignon/latest/userguide/
 .. _STS-api: https://docs.aws.amazon.com/STS/latest/APIReference/
 .. _STS-ug: https://docs.aws.amazon.com/STS/latest/UsingSTS/
 .. _STS-ug: https://docs.aws.amazon.com/STS/latest/UsingSTS/
@@ -333,6 +357,8 @@
 .. _WAT-ug: https://docs.aws.amazon.com/wellarchitected/latest/userguide/
 .. _WD-ag: https://docs.aws.amazon.com/workdocs/latest/adminguide/
 .. _WD-ug: https://docs.aws.amazon.com/workdocs/latest/userguide/
+.. _WLK-ag: https://docs.aws.amazon.com/worklink/latest/ag/
+.. _WLK-api: https://docs.aws.amazon.com/worklink/latest/api/
 .. _WM-admin: https://docs.aws.amazon.com/workmail/latest/adminguide/
 .. _WM-ug: https://docs.aws.amazon.com/workmail/latest/userguide/
 .. _WSP-admin: https://docs.aws.amazon.com/workspaces/latest/adminguide/
@@ -415,8 +441,11 @@
 .. _sdk-xray-net-api: https://docs.aws.amazon.com/xray-sdk-for-dotnet/latest/reference/
 .. _sdk-xray-nodejs-api: https://docs.aws.amazon.com/xray-sdk-for-nodejs/latest/reference/
 .. _sdk-xray-python-api: https://docs.aws.amazon.com/xray-sdk-for-python/latest/reference/
+.. _sdk-xray-ruby-api: https://docs.aws.amazon.com/xray-sdk-for-ruby/latest/reference/
+.. _sdk-xray-net-core-api: https://docs.aws.amazon.com/xray-sdk-for-dotnetcore/latest/reference/
 .. _tke-gsg-v1: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _tke-gsg: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _tke-ug-v1: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _tke-ug: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/
 .. _TTS-ug: http://docs.aws.amazon.com/vsts/latest/userguide/
+.. _VSCIDEToolkit-ug: https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/

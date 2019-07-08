@@ -15,6 +15,9 @@
 
 .. |region-sdk-default| replace:: USEast1
 
+.. |apeast1-name| replace:: Asia Pacific (Hong Kong) Region
+.. |region-ap-east-1| replace:: Asia Pacific (Hong Kong)
+
 .. |apnortheast1-name| replace:: Asia Pacific (Tokyo) Region
 .. |region-ap-northeast-1| replace:: Asia Pacific (Tokyo)
 
