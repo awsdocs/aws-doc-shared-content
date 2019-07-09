@@ -1,4 +1,4 @@
-.. Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+.. Copyright 2010-2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
    This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
    International License (the "License"). You may not use this file except in compliance with the
@@ -40,10 +40,12 @@
 .. _AKFlong: AKF_
 .. _AKlong: AK_
 .. _AKVS: https://aws.amazon.com/kinesis/video-streams/
+.. _AMPLIFYlong: https://aws.amazon.com/amplify/
 .. _APP: https://aws.amazon.com/autoscaling/
 .. _APSY: https://aws.amazon.com/appsync/
 .. _AMQ: https://aws.amazon.com/amazon-mq/
 .. _AC9: https://aws.amazon.com/cloud9/
+.. _CDSlong: https://aws.amazon.com/cloud-directory/
 .. _CF: https://aws.amazon.com/cloudfront/
 .. _CFN: https://aws.amazon.com/cloudformation/
 .. _CFNlong: CFN_
@@ -57,12 +59,15 @@
 .. _DDB: https://aws.amazon.com/dynamodb/
 .. _DDBlong: DDB_
 .. _DL: https://aws.amazon.com/deeplens/
+.. _DRlong: https://aws.amazon.com/deepracer/
 .. _EB: https://aws.amazon.com/elasticbeanstalk/
 .. _EBS: https://aws.amazon.com/ebs/
 .. _EBSlong: EBS_
 .. _EBlong: EB_
 .. _EC2: https://aws.amazon.com/ec2/
 .. _EC2long: EC2_
+.. _EIAlong: https://aws.amazon.com/machine-learning/elastic-inference/
+.. _EKSlong: https://aws.amazon.com/eks/
 .. _ELB: https://aws.amazon.com/elasticloadbalancing/
 .. _ELBlong: ELB_
 .. _EMC: https://aws.amazon.com/mediaconvert/
@@ -78,20 +83,28 @@
 .. _ITDM: https://aws.amazon.com/iot-device-management/
 .. _LAM: https://aws.amazon.com/lambda/
 .. _LAMlong: LAM_
+.. _LIClong: https://aws.amazon.com/license-manager/
 .. _MA: https://aws.amazon.com/mobileanalytics/
 .. _MAlong: MA_
+.. _MHBlong: https://aws.amazon.com/migration-hub/
 .. _OPS: https://aws.amazon.com/opsworks/
 .. _OPSlong: OPS_
+.. _PCAlong: https://aws.amazon.com/certificate-manager/private-certificate-authority/
 .. _PIN: https://aws.amazon.com/pinpoint/
 .. _PINlong: PIN_
+.. _PERSlong: https://aws.amazon.com/personalize/
+.. _RAMlong: https://aws.amazon.com/ram/
 .. _RDS: https://aws.amazon.com/rds/
 .. _RDSlong: RDS_
+.. _RMlong: https://aws.amazon.com/robomaker/
 .. _RTOS: https://aws.amazon.com/freertos/
 .. _S3: https://aws.amazon.com/s3/
 .. _S3long: S3_
+.. _SARlong: https://aws.amazon.com/serverlessrepo/
 .. _SM: https://aws.amazon.com/sagemaker/
 .. _SNS: https://aws.amazon.com/sns/
 .. _SNSlong: SNS_
+.. _SSOlong: https://aws.amazon.com/single-sign-on/
 .. _SQS: https://aws.amazon.com/sqs/
 .. _SQSlong: SQS_
 .. _STS: https://aws.amazon.com/iam/
@@ -99,8 +112,10 @@
 .. _sumerian: https://aws.amazon.com/sumerian/
 .. _SWF: https://aws.amazon.com/swf/
 .. _SWFlong: SWF_
+.. _TGWlong: https://aws.amazon.com/transit-gateway/
 .. _TSC: https://aws.amazon.com/transcribe/
 .. _TSL: https://aws.amazon.com/translate/
+.. _WLKlong: https://aws.amazon.com/worklink/
 
 
 .. Links to things within service guides and other non-standard guide links

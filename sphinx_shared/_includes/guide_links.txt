@@ -1,4 +1,4 @@
-.. Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+.. Copyright 2010-2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
    This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
    International License (the "License"). You may not use this file except in compliance with the
@@ -23,8 +23,11 @@
 .. Service Guide links
    -------------------
 .. _AAS-dg: https://docs.aws.amazon.com/appstream/latest/developerguide/
-.. _AAS-api: https://docs.aws.amazon.com/appstream2/latest/APIReference/
+.. _AAS-api: https://docs.aws.amazon.com/appstream/latest/APIReference/
 .. _AAS-cli: https://docs.aws.amazon.com/cli/latest/reference/appstream/
+.. _AAS2-dg: https://docs.aws.amazon.com/appstream2/latest/developerguide/
+.. _AAS2-api: https://docs.aws.amazon.com/appstream2/latest/APIReference/
+.. _AAS2-cli: https://docs.aws.amazon.com/cli/latest/reference/appstream/
 .. _AB-ug: https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/
 .. _AB-api: https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/
 .. _ABP-dg: https://docs.aws.amazon.com/apigateway/latest/developerguide/

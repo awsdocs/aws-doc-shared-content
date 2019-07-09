@@ -1,4 +1,4 @@
-.. Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+.. Copyright 2010-2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
    This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
    International License (the "License"). You may not use this file except in compliance with the
@@ -162,8 +162,6 @@
 .. |AEB| replace:: Elastic Beanstalk
 .. |AGSlong| replace:: Amazon GameLift
 .. |AGS| replace:: Amazon GameLift
-.. |AGTSVClong| replace:: AWS Agent Service
-.. |AGTSVC| replace:: AWS Agent Service
 .. |AKAlong| replace:: Amazon Kinesis Data Analytics
 .. |AKA| replace:: Kinesis Data Analytics
 .. |AKFlong| replace:: Amazon Kinesis Data Firehose
@@ -464,7 +462,7 @@
 .. |Snowball| replace:: Snowball
 .. |Snowlong| replace:: Snowball appliance
 .. |SNSlong| replace:: Amazon Simple Notification Service
-.. |SNS| replace:: Amazon SNSAdministration Guide
+.. |SNS| replace:: Amazon SNS
 .. |SPlong| replace:: Amazon Simple Pay
 .. |SP| replace:: Amazon Simple Pay
 .. |SPK| replace:: AWS Elemental SPEKE
@@ -574,9 +572,12 @@
 
 .. Service Guide names
    -------------------
-.. |AAS-dg| replace:: :title:`Amazon AppStream Administration Guide`
+.. |AAS-dg| replace:: :title:`Amazon AppStream Developer Guide`
 .. |AAS-api| replace:: :title:`Amazon AppStream API Reference`
 .. |AAS-cli| replace:: :title:`Amazon AppStream Command Line Reference`
+.. |AAS2-dg| replace:: :title:`Amazon AppStream 2.0 Administration Guide`
+.. |AAS2-api| replace:: :title:`Amazon AppStream 2.0 API Reference`
+.. |AAS2-cli| replace:: :title:`Amazon AppStream 2.0 Command Line Reference`
 .. |AB-ug| replace:: :title:`AWS Billing and Cost Management User Guide`
 .. |AB-api| replace:: :title:`AWS Billing and Cost Management API Reference`
 .. |ABP-dg| replace:: :title:`API Gateway Developer Guide`
