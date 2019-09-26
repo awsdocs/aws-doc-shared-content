@@ -1,0 +1,3 @@
+.. |SERVICENAME| replace:: the |sdk-java|
+.. |SERVICENAMESENTENCECASE| replace:: The |sdk-java|
+.. |SERVICENAMETITLE| replace:: the |sdk-java|
