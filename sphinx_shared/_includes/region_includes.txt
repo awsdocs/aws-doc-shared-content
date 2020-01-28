@@ -50,20 +50,20 @@
 .. |region-cn-all| replace:: Beijing and Ningxia
 .. |region-cn-china| replace:: China
 
-.. |eucentral1-name| replace:: EU (Frankfurt) Region
-.. |region-eu-central-1| replace:: EU (Frankfurt)
+.. |eucentral1-name| replace:: Europe (Frankfurt) Region
+.. |region-eu-central-1| replace:: Europe (Frankfurt)
 
-.. |eunorth1-name| replace:: EU (Stockholm) Region
-.. |region-eu-north-1| replace:: EU (Stockholm)
+.. |eunorth1-name| replace:: Europe (Stockholm) Region
+.. |region-eu-north-1| replace:: Europe (Stockholm)
 
-.. |euwest1-name| replace:: EU (Ireland) Region
-.. |region-eu-west-1| replace:: EU (Ireland)
+.. |euwest1-name| replace:: Europe (Ireland) Region
+.. |region-eu-west-1| replace:: Europe (Ireland)
 
-.. |euwest2-name| replace:: EU (London) Region
-.. |region-eu-west-2| replace:: EU (London)
+.. |euwest2-name| replace:: Europe (London) Region
+.. |region-eu-west-2| replace:: Europe (London)
 
-.. |euwest3-name| replace:: EU (Paris) Region
-.. |region-eu-west-3| replace:: EU (Paris)
+.. |euwest3-name| replace:: Europe (Paris) Region
+.. |region-eu-west-3| replace:: Europe (Paris)
 
 .. |govuswest1-name| replace:: AWS GovCloud (US-West)
 .. |region-gov-us-west-1| replace:: AWS GovCloud (US-West)
