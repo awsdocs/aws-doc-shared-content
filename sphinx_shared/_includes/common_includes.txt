@@ -552,12 +552,12 @@
 .. |sdk-nodejs| replace:: AWS SDK for JavaScript
 .. |sdk-php-v2| replace:: AWS SDK for PHP (V2)
 .. |sdk-php| replace:: AWS SDK for PHP
-.. |sdk-python| replace:: AWS SDK for Python (Boto)
+.. |sdk-python| replace:: AWS SDK for Python (Boto3)
 .. |SDKMlong| replace:: AWS SDK Metrics for Enterprise Support
 .. |SDKM| replace:: SDK Metrics
 .. |SvrlessAppTitle| replace:: AWS serverless application
-.. |python-boto-3| replace:: Python (Boto 3)
-.. |sdk-python-3| replace:: AWS SDK for Python (Boto 3)
+.. |python-boto-3| replace:: Python (Boto3)
+.. |sdk-python-3| replace:: AWS SDK for Python (Boto3)
 .. |sdk-ruby| replace:: AWS SDK for Ruby
 .. |sdk-unity| replace:: AWS Mobile SDK for Unity
 .. |sdk-xamarin| replace:: AWS Mobile SDK for .NET and Xamarin
@@ -995,12 +995,12 @@
 .. |sdk-php-ref| replace:: :title:`AWS SDK for PHP Reference`
 .. |sdk-php-sbsg-v2| replace:: :title:`AWS SDK for PHP (V2) Side-by-Side Guide`
 .. |sdk-php-tt| replace:: :title:`AWS SDK for PHP Tips and Tricks`
-.. |sdk-python-api-v3| replace:: :title:`AWS SDK for Python (Boto 3) API Reference`
-.. |sdk-python-api| replace:: :title:`AWS SDK for Python (Boto) API Reference`
-.. |sdk-python-dg| replace:: :title:`AWS SDK for Python  Developer Guide`
-.. |sdk-python-gsg-v3| replace:: :title:`AWS SDK for Python (Boto 3) Getting Started`
+.. |sdk-python-api-v3| replace:: :title:`AWS SDK for Python (Boto3) API Reference`
+.. |sdk-python-api| replace:: :title:`AWS SDK for Python (Boto3) API Reference`
+.. |sdk-python-dg| replace:: :title:`AWS SDK for Python (Boto3)  Developer Guide`
+.. |sdk-python-gsg-v3| replace:: :title:`AWS SDK for Python (Boto3) Getting Started`
 .. |sdk-python-gsg| replace:: :title:`boto: A Python interface to AWS`
-.. |sdk-python-ref| replace:: :title:`AWS SDK for Python Reference`
+.. |sdk-python-ref| replace:: :title:`AWS SDK for Python (Boto3) Reference`
 .. |sdk-ruby-api| replace:: :title:`AWS SDK for Ruby API Reference`
 .. |sdk-ruby-dg| replace:: :title:`AWS SDK for Ruby Developer Guide`
 .. |sdk-ruby-gsg| replace:: :title:`AWS SDK for Ruby Getting Started Guide`
