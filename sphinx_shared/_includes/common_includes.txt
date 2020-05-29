@@ -854,9 +854,9 @@
 .. |PAAPI-dg| replace:: :title:`PA API Developer Guide`
 .. |PAAPI-gsg| replace:: :title:`PA API Getting Started`
 .. |PERS-dg| replace:: :title:`Amazon Personalize Developer Guide`
-.. |PIN-api| replace:: :title:`Pinpoint API Reference`
-.. |PIN-dg| replace:: :title:`Pinpoint Developer Guide`
-.. |PIN-ug| replace:: :title:`Pinpoint User Guide`
+.. |PIN-api| replace:: :title:`Amazon Pinpoint API Reference`
+.. |PIN-dg| replace:: :title:`Amazon Pinpoint Developer Guide`
+.. |PIN-ug| replace:: :title:`Amazon Pinpoint User Guide`
 .. |PS-ug| replace:: :title:`Policy Simulator User Guide`
 .. |R53-api| replace:: :title:`Amazon Route 53 API Reference`
 .. |R53-dg| replace:: :title:`Amazon Route 53 Developer Guide`
