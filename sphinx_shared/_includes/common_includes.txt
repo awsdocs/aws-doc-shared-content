@@ -456,7 +456,7 @@
 .. |SLKlong| replace:: Amazon Silk
 .. |SLK| replace:: Silk
 .. |SMlong| replace:: Amazon SageMaker
-.. |SM| replace:: Amazon SageMaker
+.. |SM| replace:: SageMaker
 .. |SMSlong| replace:: AWS Server Migration Service
 .. |SMS| replace:: AWS SMS
 .. |Snowball| replace:: Snowball

@@ -15,6 +15,9 @@
 
 .. |region-sdk-default| replace:: USEast1
 
+.. |afsouth1-name| replace:: Africa (Cape Town) Region
+.. |region-af-south-1| replace:: Africa (Cape Town)
+
 .. |apeast1-name| replace:: Asia Pacific (Hong Kong) Region
 .. |region-ap-east-1| replace:: Asia Pacific (Hong Kong)
 
@@ -56,6 +59,9 @@
 .. |eunorth1-name| replace:: Europe (Stockholm) Region
 .. |region-eu-north-1| replace:: Europe (Stockholm)
 
+.. |eusouth1-name| replace:: Europe (Milan) Region
+.. |region-eu-south-1| replace:: Europe (Milan)
+
 .. |euwest1-name| replace:: Europe (Ireland) Region
 .. |region-eu-west-1| replace:: Europe (Ireland)
 
@@ -85,4 +91,3 @@
 
 .. |uswest2-name| replace:: US West (Oregon) Region
 .. |region-us-west-2| replace:: US West (Oregon)
-
