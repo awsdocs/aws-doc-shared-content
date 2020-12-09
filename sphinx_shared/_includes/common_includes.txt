@@ -971,10 +971,10 @@
 .. |sdk-ios-api| replace:: :title:`AWS Mobile SDK for iOS API Reference`
 .. |sdk-ios-dg| replace:: :title:`AWS Mobile SDK for iOS Developer Guide`
 .. |sdk-ios-gsg| replace:: :title:`AWS Mobile SDK for iOS Getting Started Guide`
-.. |sdk-java-api| replace:: :title:`AWS SDK for Java API Reference`
-.. |sdk-java-api-v2| replace:: :title:`AWS SDK for Java 2.0 API Reference`
-.. |sdk-java-dg| replace:: :title:`AWS SDK for Java Developer Guide`
-.. |sdk-java-dg-v2| replace:: :title:`AWS SDK for Java 2.0 Developer Guide`
+.. |sdk-java-api| replace:: :title:`AWS SDK for Java 1.x API Reference`
+.. |sdk-java-api-v2| replace:: :title:`AWS SDK for Java 2.x API Reference`
+.. |sdk-java-dg| replace:: :title:`AWS SDK for Java 1.x Developer Guide`
+.. |sdk-java-dg-v2| replace:: :title:`AWS SDK for Java 2.x Developer Guide`
 .. |sdk-java-ref| replace:: |sdk-java-api|
 .. |sdk-java-ref-v2| replace:: |sdk-java-api-v2|
 .. |sdk-js-dg| replace:: :title:`AWS SDK for JavaScript Developer Guide`
