@@ -182,4 +182,4 @@
 
 .. |sdk-doc-examples| replace:: AWS SDK Documentation Examples on GitHub
 .. _sdk-doc-examples: https://github.com/awsdocs/aws-doc-sdk-examples
-.. _sdk-doc-examples-dl: https://github.com/awsdocs/aws-doc-sdk-examples/archive/master.zip
+.. _sdk-doc-examples-dl: https://github.com/awsdocs/aws-doc-sdk-examples/archive/main.zip
