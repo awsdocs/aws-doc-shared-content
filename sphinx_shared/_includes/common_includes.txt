@@ -475,8 +475,6 @@
 .. |SSO| replace:: AWS SSO
 .. |STSlong| replace:: AWS Security Token Service
 .. |STS| replace:: AWS STS
-.. |sumerianlong| replace:: Amazon Sumerian
-.. |sumerian| replace:: Sumerian
 .. |SUPlong| replace:: AWS Support
 .. |SUP| replace:: Support
 .. |SWFlong| replace:: Amazon Simple Workflow Service
@@ -914,7 +912,6 @@
 .. |SSO-ug| replace:: :title:`AWS Single Sign-on User Guide`
 .. |STS-api| replace:: :title:`AWS STS API Reference`
 .. |STS-ug| replace:: :title:`AWS STS User Guide`
-.. |sumerian-ug| replace:: :title:`Amazon Sumerian User Guide`
 .. |SUP-api| replace:: :title:`AWS Support API Reference`
 .. |SUP-ug| replace:: :title:`AWS Support User Guide`
 .. |SWF-api| replace:: :title:`Amazon SWF API Reference`

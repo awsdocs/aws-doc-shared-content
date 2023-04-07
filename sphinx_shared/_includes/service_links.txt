@@ -109,7 +109,6 @@
 .. _SQSlong: SQS_
 .. _STS: https://aws.amazon.com/iam/
 .. _STSlong: STS_
-.. _sumerian: https://aws.amazon.com/sumerian/
 .. _SWF: https://aws.amazon.com/swf/
 .. _SWFlong: SWF_
 .. _TGWlong: https://aws.amazon.com/transit-gateway/

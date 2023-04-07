@@ -337,7 +337,6 @@
 .. _STS-api: https://docs.aws.amazon.com/STS/latest/APIReference/
 .. _STS-ug: https://docs.aws.amazon.com/STS/latest/UsingSTS/
 .. _STS-ug: https://docs.aws.amazon.com/STS/latest/UsingSTS/
-.. _sumerian-ug: https://docs.aws.amazon.com/sumerian/latest/userguide/
 .. _SUP-api: https://docs.aws.amazon.com/awssupport/latest/APIReference/
 .. _SUP-ug: https://docs.aws.amazon.com/awssupport/latest/user/
 .. _SWF-api: https://docs.aws.amazon.com/amazonswf/latest/apireference/
