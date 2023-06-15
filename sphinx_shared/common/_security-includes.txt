@@ -1,3 +1,0 @@
-.. |SERVICENAME| replace:: this AWS product or service
-.. |SERVICENAMESENTENCECASE| replace:: This AWS product or service
-.. |SERVICENAMETITLE| replace:: this AWS Product or Service
